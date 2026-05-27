@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"duck:skies_king",
+		"duck:waterfowl",
+		"duck:waterproof",
+		"duck:uno_reverse",
+		"duck:almost",
+		"duck:light_hearted",
+		"duck:hunger",
+		"duck:credits"
+	],
+	"icon": "minecraft:feather",
+	"order": 2,
+	"impact": 2,
+	 "name": "§6§nDuck",
+    "description": "§oA duck. Conqueror of the skies, fast and furious in water, and able to walk on the ground. But everything has it's own price."
+}
+

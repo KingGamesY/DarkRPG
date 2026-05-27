@@ -1,0 +1,18 @@
+{
+    "powers": [
+        "demonic:flamethrower",
+        "demonic:seeker",
+        "demonic:toggle",
+        "demonic:nocturnal",
+        "demonic:nether",
+        "demonic:meat",
+        "demonic:hydro",
+        "demonic:aquatic",
+        "demonic:damage"
+    ],
+    "icon": "minecraft:fire_charge",
+    "order": 11,
+    "impact": 3,
+    "name": "Demonic",
+    "description": "You have risen from the dark, fiery parts of the nether dimension to spread chaos and carnage. A very powerful creature indeed."
+}

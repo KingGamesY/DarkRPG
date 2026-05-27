@@ -1,0 +1,11 @@
+{  "criteria":
+{
+  "amethyst_imbuement:give_if_config": {
+    "trigger": "amethyst_imbuement:give_if_config"
+  }
+},
+  "rewards": {
+    "loot":
+    [
+    ]
+  }}

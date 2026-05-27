@@ -1,0 +1,89 @@
+[generation]
+	#Range: 0.0 ~ 1.0
+	telosKnockbackResistance = 0.1
+	#Range: 0 ~ 100
+	easiumEnchantability = 9
+	#Range: 0.0 ~ 10.0
+	hardiumToughness = 3.0
+	#Range: 0 ~ 100
+	mediumEnchantability = 10
+	#Range: 0.0 ~ 1.0
+	mediumKnockbackResistance = 0.0
+	#Range: 0 ~ 10000
+	hardiumDurabilityChestplate = 6
+	#Range: 0 ~ 10000
+	mediumDurabilityHelmet = 33
+	#Range: 0 ~ 100
+	easiumDefenseLeggings = 5
+	#Range: 0.0 ~ 1.0
+	hardiumKnockbackResistance = 0.1
+	#Range: 0 ~ 10000
+	easiumDurabilityHelmet = 15
+	#Range: 0 ~ 100
+	hardiumDefenseLeggings = 8
+	#Range: 0 ~ 100
+	mediumDefenseLeggings = 8
+	#Range: 0.0 ~ 10.0
+	telosToughness = 4.0
+	#Range: 0.0 ~ 1.0
+	easiumKnockbackResistance = 0.0
+	#Range: 0 ~ 100
+	hardiumDefenseHelmet = 3
+	#Range: 0.0 ~ 10.0
+	mediumToughness = 2.0
+	#Range: 0 ~ 10000
+	easiumDurabilityChestplate = 5
+	#Range: 0 ~ 10000
+	telosDurabilityChestplate = 6
+	#Range: 0 ~ 100
+	telosDefenseLeggings = 8
+	#Range: 0 ~ 10000
+	hardiumDurabilityHelmet = 37
+	#Range: 0 ~ 100
+	mediumDefenseChestplate = 6
+	#Range: 0 ~ 100
+	hardiumDefenseChestplate = 6
+	#Range: 0 ~ 100
+	telosDefenseHelmet = 3
+	#Range: 0 ~ 100
+	mediumDefenseHelmet = 3
+	#Range: 0 ~ 100
+	telosDefenseBoots = 3
+	#Range: 0 ~ 10000
+	telosDurabilityBoots = 3
+	#Range: 0 ~ 100
+	easiumDefenseBoots = 2
+	#Range: 0 ~ 10000
+	telosDurabilityHelmet = 37
+	#Range: 0 ~ 10000
+	mediumDurabilityLeggings = 8
+	#Range: 0 ~ 10000
+	easiumDurabilityBoots = 2
+	#Range: 0 ~ 10000
+	mediumDurabilityBoots = 3
+	#Range: 0 ~ 10000
+	hardiumDurabilityBoots = 3
+	#Range: 0 ~ 100
+	telosEnchantability = 15
+	#Range: 0 ~ 100
+	telosDefenseChestplate = 6
+	#Range: 0 ~ 10000
+	telosDurabilityLeggings = 8
+	#Range: 0.0 ~ 10.0
+	easiumToughness = 0.0
+	#Range: 0 ~ 100
+	hardiumDefenseBoots = 3
+	#Range: 0 ~ 100
+	mediumDefenseBoots = 3
+	#Range: 0 ~ 10000
+	easiumDurabilityLeggings = 6
+	#Range: 0 ~ 100
+	easiumDefenseHelmet = 2
+	#Range: 0 ~ 10000
+	hardiumDurabilityLeggings = 8
+	#Range: 0 ~ 100
+	easiumDefenseChestplate = 4
+	#Range: 0 ~ 100
+	hardiumEnchantability = 15
+	#Range: 0 ~ 10000
+	mediumDurabilityChestplate = 6

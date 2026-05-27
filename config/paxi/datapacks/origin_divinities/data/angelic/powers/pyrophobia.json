@@ -1,0 +1,30 @@
+{
+    "name": "Pyrophobia",
+    "description": "You take double damage to anything fire related.",
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:or",
+        "conditions": [
+            {
+                "type": "origins:name",
+                "name": "lava"
+            },
+            {
+                "type": "origins:name",
+                "name": "onFire"
+            },
+            {
+                "type": "origins:name",
+                "name": "inFire"
+            },
+            {
+                "type": "origins:name",
+                "name": "hotFloor"
+            }
+        ]
+    },
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 1
+    }
+}

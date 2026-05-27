@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "name": "Divinities Origins",
+        "id": "data",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "Nysought"
+        ],
+        "description": "Adds the Purger, Angelic and Demonic origins!"
+    }
+}

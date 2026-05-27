@@ -1,0 +1,1408 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bewitchment"
+	group: "5139D6A0DBFE2A59"
+	icon: "bewitchment:demon_heart"
+	id: "27AA55B508635B60"
+	images: [{
+		height: 1.0d
+		image: "minecraft:item/bewitchment"
+		rotation: 0.0d
+		width: 8.772151898734178d
+		x: -2.0d
+		y: -6.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["wearing this Armor will make any demons neutral to you, allowing you to trade with them"]
+			id: "0630CA2A698A1B7F"
+			rewards: [{
+				id: "3246DE584B378BEF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "38E7DC40851224D5"
+				item: {
+					Count: 1
+					id: "bewitchment:besmirched_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			description: ["wearing this Armor will make any demons neutral to you, allowing you to trade with them"]
+			id: "5DD98528E00B0C12"
+			rewards: [{
+				id: "54E9121788F2337B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "164DCBF23D664D2E"
+				item: {
+					Count: 1
+					id: "bewitchment:besmirched_robes"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			description: ["wearing this Armor will make any demons neutral to you, allowing you to trade with them"]
+			id: "53BFDC8DD27DDF8D"
+			rewards: [{
+				id: "54B8864462D81A27"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "50F06FC9A2D6D597"
+				item: {
+					Count: 1
+					id: "bewitchment:besmirched_pants"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			description: ["wearing this Armor will make any demons neutral to you, allowing you to trade with them"]
+			id: "43F99C396DB23D73"
+			rewards: [{
+				id: "7B765E5799749787"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4CC0813C1C286FAF"
+				item: {
+					Count: 1
+					id: "bewitchment:besmirched_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			description: ["Increases crop yield"]
+			id: "181DC5D937CFFF1A"
+			rewards: [{
+				id: "68D35E6A0D1DAE03"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "327F30A0220624A4"
+				item: {
+					Count: 1
+					id: "bewitchment:hedgewitch_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			description: ["allows the wearer to double the duration of brews"]
+			id: "7E93AC8297E82637"
+			rewards: [{
+				id: "614BB54F54FEB373"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3A05A7AA38CA21B4"
+				item: {
+					Count: 1
+					id: "bewitchment:alchemist_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			description: ["Increases crop yield"]
+			id: "2212964A854F24BC"
+			rewards: [{
+				id: "71C7EBD3C33E4330"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "340628CB52823DC4"
+				item: {
+					Count: 1
+					id: "bewitchment:hedgewitch_robes"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			description: ["Increases crop yield"]
+			id: "4401E5CC8C1D6E19"
+			rewards: [{
+				id: "06EB09DE0A06F608"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "29E676B1FD9EA494"
+				item: {
+					Count: 1
+					id: "bewitchment:hedgewitch_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			description: ["Increases crop yield"]
+			id: "40508836C2029E6D"
+			rewards: [{
+				id: "549B7C2BF601DE6C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E5AB014E9038133"
+				item: {
+					Count: 1
+					id: "bewitchment:hedgewitch_pants"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			description: ["allows the wearer to double the duration of brews"]
+			id: "002C2926F3C0A85F"
+			rewards: [{
+				id: "7455944E73C99C40"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6F145C4F9099A44B"
+				item: {
+					Count: 1
+					id: "bewitchment:alchemist_pants"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			description: ["allows the wearer to double the duration of brews"]
+			id: "6ACB29E9459AB897"
+			rewards: [{
+				id: "444DD962D29AC8E7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6AAF0685C3DFF4B4"
+				item: {
+					Count: 1
+					id: "bewitchment:alchemist_robes"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			description: ["allows the wearer to double the duration of brews"]
+			id: "7A5F34BBA3D4BAF7"
+			rewards: [{
+				id: "216F025B49B17A28"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1AE4E4F7ADD982C7"
+				item: {
+					Count: 1
+					id: "bewitchment:alchemist_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			description: [
+				"This will contain all info on the mod, and will be a MASSIVE help in showing what things do, how to make the differant rituals, and the crafting recipes to varius items"
+				""
+				"Have a free curse poppet and tag lock so you can protect your self from curses"
+				""
+				"(Use EMI to view the book crafting recipe)"
+			]
+			id: "2192F6C51CDCF171"
+			rewards: [
+				{
+					id: "25DC3045D7BCD83B"
+					item: {
+						Count: 1
+						id: "bewitchment:curse_poppet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "289955753D2B66DB"
+					item: "bewitchment:taglock"
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			subtitle: "Please use the book, it has more info"
+			tasks: [{
+				id: "467C19E688D40623"
+				item: "bewitchment:book_of_shadows"
+				type: "item"
+			}]
+			title: "The Main Guide For The Mod"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: [
+				"can be used to move, drown, set on fire, or even apply potion effects to any bound entity"
+				""
+				"voodoo poppets do not work in poppet shelves, and are banned on our public servers"
+			]
+			id: "0FC091FD09CD1D51"
+			tasks: [{
+				id: "517B64656CCE84F3"
+				item: {
+					Count: 1
+					id: "bewitchment:voodoo_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: ["protects anyone bound from enviroment dammage, such as fire, drowning and valocity"]
+			id: "422F018A8F83CA61"
+			tasks: [{
+				id: "112C54D0922034B3"
+				item: {
+					Count: 1
+					id: "bewitchment:protection_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: [
+				"Will repair the armor and held items of whoever is bound to it"
+				""
+				"is applied whenever an item would normaly break, resetting its durability and destroying the poppet instead"
+			]
+			id: "3BD4C6BCCDD94942"
+			tasks: [{
+				id: "08A61E222F2572AA"
+				item: {
+					Count: 1
+					id: "bewitchment:mending_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: ["will protect you from death once, does not work in poppet shelves"]
+			id: "624E5105C03E3D83"
+			tasks: [{
+				id: "04D262E2BE4B1F92"
+				item: {
+					Count: 1
+					id: "bewitchment:death_protection_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: ["Protects anyone Bound to the poppet from the effects of a voodoo poppet"]
+			id: "3622607F18CCA2CC"
+			rewards: [{
+				id: "3FCDF0E186021007"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "709992BCB23B1813"
+				item: {
+					Count: 1
+					id: "bewitchment:voodoo_protection_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: [
+				"Protects anyone bound from curses, absorbing the curse"
+				""
+				"once absorbed you can rebind the poppet to apply the curse to someone else"
+			]
+			id: "3225C58A9EE2D162"
+			tasks: [{
+				id: "7C6A4213050A5388"
+				item: {
+					Count: 1
+					id: "bewitchment:curse_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: [
+				"Transfers dammage taken by the user to the bound entity at the cost of durability"
+				""
+				"wont work for vampires, wont work in poppet shelves"
+			]
+			id: "173C20231EBA3C2C"
+			tasks: [{
+				id: "2C39E24CCF0522BC"
+				item: {
+					Count: 1
+					id: "bewitchment:vampiric_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: ["when bound, any unholy being that attacks you will have there attack quartered"]
+			id: "3B19A9A7727AC428"
+			tasks: [{
+				id: "7ABC08CA55DF7111"
+				item: {
+					Count: 1
+					id: "bewitchment:judgment_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["05319899117798F7"]
+			description: ["when bound enemies that attack will be heavy weakened for a few seconds"]
+			id: "4F7379D84F6AC159"
+			tasks: [{
+				id: "12E83D04626637F4"
+				item: {
+					Count: 1
+					id: "bewitchment:fatigue_poppet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			description: [
+				"Poppet shelves can store up to 9 poppets, witch are all active"
+				""
+				"to bind a poppet combine the poppet with a taglock"
+			]
+			id: "05319899117798F7"
+			rewards: [{
+				id: "0F1D16F729A69291"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5D066671D6DC6727"
+				item: "bewitchment:oak_poppet_shelf"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			description: [
+				"Alters are used to collect energy, referd to as ME (magical energy). this is collected from nearby plants and trees. placing differant plants wil allow you to collect a lot of power for your rituals."
+				""
+				"to make an alter just place your alter block and add a capet to the top (the carpet you use doent mtter, and is only cosmetic), when nearby said alter your internal ME buffer will fill up, this is used for brooms, trinkets and other magic items."
+				""
+				"{@pagebreak}"
+				""
+				"you can add buffs to your alter by placing itesm such as swords, pentacles and wands."
+				""
+				"swords will increas the storage multiplyer"
+				""
+				"pentacles suck as skulls and gems will increase gain"
+				""
+				"wands suck as candelabras, lanterns and torches will give a flat bounus on capasaty"
+			]
+			id: "1CE6DAB3799E1998"
+			rewards: [{
+				id: "2BF36E007EEC3016"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "18849CB1B78105E2"
+				item: "bewitchment:stone_witch_altar"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			description: [
+				"when used will give the caster a fortune (will cost some ME)"
+				""
+				"can also be used for scrying, telling you info about a target. use a taglock with the targets ID connected to it to scry them"
+			]
+			id: "68739EECE838F273"
+			rewards: [{
+				id: "707C079F30B93004"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7CE14CE2C54E8FDB"
+				item: "bewitchment:crystal_ball"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			description: [
+				"can be used to make curses, or incense"
+				"can take up to 4 items. to sue it light it using a flint and steel"
+				""
+				"can be placed on ceilings"
+			]
+			id: "2D4E52DD98D6330F"
+			rewards: [{
+				id: "1AB04A3121A92C90"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5B657DA01631BD0D"
+				item: "bewitchment:brazier"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1CE6DAB3799E1998"]
+			id: "42D6ABA87AAF7DBD"
+			rewards: [{
+				id: "0B76B939A14C3162"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2AFFCB39022D8324"
+				item: {
+					Count: 1
+					id: "bewitchment:chalk"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1CE6DAB3799E1998"]
+			id: "3187B892671887E6"
+			rewards: [{
+				id: "1C0CD28F4D367B24"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6B3FE14736D8642D"
+				item: {
+					Count: 1
+					id: "bewitchment:golden_chalk"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1CE6DAB3799E1998"]
+			id: "074ED34F02F611EA"
+			rewards: [{
+				id: "4B2249632F1E3465"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7156AFCAD45E2A14"
+				item: {
+					Count: 1
+					id: "bewitchment:fiery_chalk"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1CE6DAB3799E1998"]
+			id: "7130F4C37F15CA0E"
+			rewards: [{
+				id: "617D85D0A410CDAC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "31CC07CB90242795"
+				item: {
+					Count: 1
+					id: "bewitchment:eldritch_chalk"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			description: ["used to make oil, crafting, brewing and teleportation"]
+			id: "16C4B21A04D3C270"
+			rewards: [{
+				id: "4EDAC1F2E88E4DF6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2F4FAEA538757DEA"
+				item: "bewitchment:witch_cauldron"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Gained by killing Leonard"
+				""
+				"you can combine this with a splash potion to throw it up to 4 times, this costs ME"
+				""
+				"can be repaired with netherite"
+			]
+			id: "4F6A0AEE109846FB"
+			rewards: [{
+				id: "7CE4447CA45B8684"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "122E99F41CD5447D"
+				item: {
+					Count: 1
+					id: "bewitchment:scepter"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"gained by killing Baphomet"
+				""
+				"a multi-tool equivalent to netherite. at the cost of ME can fire fireballs"
+				""
+				"can be repaired with netherite"
+			]
+			id: "066A5B536E417244"
+			rewards: [{
+				id: "28E6319A49BD6E30"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "72B1838862A911FF"
+				item: {
+					Count: 1
+					id: "bewitchment:caduceus"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"gained by killing Herne"
+				""
+				"can be thrown like a trident, will always return to whoever threw it"
+				"can be repaired with netherite"
+			]
+			id: "4C996436ECE4EAF4"
+			rewards: [{
+				id: "54F8E821EB0693C2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0900DC7FA0EFFABA"
+				item: {
+					Count: 1
+					id: "bewitchment:horned_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"afective against unholy entitys"
+				""
+				"can gain bottles of blood by slaying a humanoid with a glass bottle in offhand"
+				""
+				"can be used to start rituals from a disspencer"
+				""
+				"and can be used to gather bark from trees"
+			]
+			id: "0EEBFCC7079EC78F"
+			rewards: [{
+				id: "3888D542AD889ADE"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "770229CE0443671F"
+				item: {
+					Count: 1
+					id: "bewitchment:athame"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"Get by killing the Vampire queen"
+				""
+				"comparable to netherite armor, makes unded nutral to you."
+				"can be repaired with netherite"
+			]
+			id: "0AF2A01D80A7386C"
+			rewards: [{
+				id: "3745A5F4F92C9D2B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3B93D36CA41C1CD9"
+				item: {
+					Count: 1
+					id: "bewitchment:harbinger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"Protects you against curses, cutting the duration in half"
+				""
+				"uses about half the wearer's ME"
+			]
+			id: "1744D042BA5CA942"
+			rewards: [{
+				id: "1F6B2251254DD845"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "77FEE89DDB7EC872"
+				item: {
+					Count: 1
+					id: "bewitchment:nazar"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			description: [
+				"allows you to go compleatly invisable when sneaking, leaving slight smoke hinting to where you are"
+				""
+				"this costs ME"
+			]
+			id: "5F0F73DAA0C0EA4C"
+			rewards: [{
+				id: "6D7D6684D2A6B9B4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "06E4277376FCAC30"
+				item: {
+					Count: 1
+					id: "bewitchment:specter_bangle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			description: ["when attacked steal soem positive effects, and give the attacker negative effects (give effects by combining a potion with the belt). this costs ME"]
+			id: "423C8C062409F3EB"
+			rewards: [{
+				id: "1CE1854D12B0F933"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3FABC0A9EFF80057"
+				item: {
+					Count: 1
+					id: "bewitchment:prickly_belt"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -6.0d
+		}
+		{
+			description: ["makes the wearer immune to fire (costs some ME)"]
+			id: "7F0ADD2EE46682DE"
+			rewards: [{
+				id: "425DB8A6BFCEE1E9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "14C587881CF377CC"
+				item: {
+					Count: 1
+					id: "bewitchment:hellish_bauble"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			description: [
+				"will increas the wearer's movement speed, and regeneration as long as you walk on natural soil (such as grass)"
+				""
+				"consumes ME when active"
+			]
+			id: "0419954EC02C2BEF"
+			rewards: [{
+				id: "7C46D2A7AE87AEFE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "650793F59FD8F12C"
+				item: {
+					Count: 1
+					id: "bewitchment:druid_band"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			description: [
+				"allows you to negate all knockback, and allows you to hurl entitys into the air when hitting them with your fist"
+				""
+				"this costs ME"
+			]
+			id: "0AA8E091230959E3"
+			rewards: [{
+				id: "207691F4E9828D0E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "44CFD15D5C254D3E"
+				item: {
+					Count: 1
+					id: "bewitchment:zephyr_harness"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0D3DDFD3BDC519CA"]
+			description: [
+				"allows the user to fly at the cost of ME"
+				""
+				"juniper brooms are the fastest of all brooms, but has no other special properties"
+			]
+			id: "6809428EA81E3340"
+			rewards: [{
+				id: "47B4305874F01C77"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3F380A9F9FF341D5"
+				item: "bewitchment:juniper_broom"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3F5E79FFA2C2EE7A"]
+			description: [
+				"allows the user to fly at the cost of ME"
+				""
+				"wards the user, reducing dammage input and output"
+			]
+			id: "1E049AD595429747"
+			rewards: [{
+				id: "6FC66A56A632C6E0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5E082C22A2AA675F"
+				item: "bewitchment:cypress_broom"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4B3464BA1D777FBA"]
+			description: [
+				"allows the user to fly at the cost of ME"
+				""
+				"will return the user to where they mounted it after dismounting"
+			]
+			id: "4488CC767EF2858C"
+			rewards: [{
+				id: "0BBFC538B3CDAF39"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6F037E7967EA1B32"
+				item: "bewitchment:elder_broom"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["46619406A80C0900"]
+			description: [
+				"allows the user to fly at the cost of ME"
+				""
+				"can have active sigles applied to them"
+			]
+			id: "58586178C409D8C8"
+			rewards: [{
+				id: "7133E795A4266260"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5652454C9D90D5E5"
+				item: "bewitchment:dragons_blood_broom"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"Sneak up behind an entity and shift right click to gain there tag lock. you can also sneak right click a bed to gain a tag lock fo that player/entity"
+				""
+				"use to bind poppets, direct curses or rituals"
+			]
+			id: "1845415C41A96C6D"
+			rewards: [{
+				id: "102C75329C3CE9DA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5E9CDE2A3F828E08"
+				item: "bewitchment:taglock"
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "50394CE80CA96786"
+			rewards: [{
+				id: "55D46C1891C18009"
+				item: "bewitchment:aconite_seeds"
+				type: "item"
+			}]
+			tasks: [{
+				id: "650D69C24C502B62"
+				item: "bewitchment:aconite"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			id: "237F4D7E0B7D9AF0"
+			rewards: [{
+				id: "0B008FD687691E88"
+				item: "bewitchment:belladonna_seeds"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15DE679FE5F23B34"
+				item: "bewitchment:belladonna"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			id: "31DF480A8FE81CBB"
+			rewards: [{
+				id: "0A3C12788932058F"
+				item: "bewitchment:garlic"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A6EC8AC830F4533"
+				item: "bewitchment:garlic"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			id: "7E4CD62D2C56BF38"
+			rewards: [{
+				id: "589725FE244C979F"
+				item: "bewitchment:mandrake_seeds"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F00184B8EE70628"
+				item: "bewitchment:mandrake_root"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"salt can be placed as a dust (like redstone dust). this will prevent unholy beings to pass over the salt, and will harm any unholy beings that try to break it"
+				""
+				"salt is also a useful matirial in your witching career"
+			]
+			id: "62CC527557FC5F65"
+			rewards: [{
+				id: "7FE9632858513E39"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1963FE4EC4AFF4DB"
+				item: "bewitchment:salt"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Waystons can eb used to store locations"
+				""
+				"use to direct rituals into a specific place"
+				""
+				"note: these cant be used in other peoples claims unless they give you perms"
+			]
+			id: "34DF1B04DB0F253A"
+			rewards: [{
+				id: "44845E8A27630DF5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "31FEADDCFE407884"
+				item: {
+					Count: 1
+					id: "bewitchment:waystone"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: -7.0d
+		}
+		{
+			description: ["Sleep in a coffin to skip Day"]
+			id: "782BBFA406C4A2EA"
+			rewards: [{
+				id: "6AC53620A9A0EBC8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "56F39C41A6FC11B0"
+				item: "bewitchment:white_coffin"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			id: "47FE2F6A81CB2580"
+			rewards: [{
+				count: 5
+				id: "2293F63C4E5FDC3F"
+				item: "bewitchment:cleansing_balm"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B475F9ED8A20F5B"
+				item: "bewitchment:cleansing_balm"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			id: "7AD7384FADE625CA"
+			rewards: [{
+				count: 5
+				id: "1789B5FBCAC73AB2"
+				item: "bewitchment:grim_elixir"
+				type: "item"
+			}]
+			tasks: [{
+				id: "446345A5C6077D69"
+				item: "bewitchment:grim_elixir"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			id: "18AE20322203B5F9"
+			rewards: [{
+				count: 5
+				id: "5566ED567353CC88"
+				item: "bewitchment:aqua_cerate"
+				type: "item"
+			}]
+			tasks: [{
+				id: "702CD3844F2797F6"
+				item: "bewitchment:aqua_cerate"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			id: "5A3A8195DDDD417E"
+			rewards: [{
+				count: 5
+				id: "64C287BF2024B6DB"
+				item: "bewitchment:fiery_serum"
+				type: "item"
+			}]
+			tasks: [{
+				id: "778CFDD6CED4DC82"
+				item: "bewitchment:fiery_serum"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			id: "26B4EC7BAB5D1B20"
+			rewards: [{
+				count: 5
+				id: "01079ED029CFE4CA"
+				item: "bewitchment:earth_ichor"
+				type: "item"
+			}]
+			tasks: [{
+				id: "106332FBBF1CA204"
+				item: "bewitchment:earth_ichor"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2192F6C51CDCF171"]
+			id: "1FD493C7C250DC58"
+			rewards: [{
+				count: 5
+				id: "0E7F658B7FCE777B"
+				item: "bewitchment:heaven_extract"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B9F5584B558251F"
+				item: "bewitchment:heaven_extract"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["782BBFA406C4A2EA"]
+			description: ["RGB COFFIN"]
+			id: "6764F0EFF73A50B2"
+			rewards: [{
+				id: "0F29C17F91FB5617"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "05BD4863EAC02678"
+				item: "besmirchment:elite_coffin"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"4488CC767EF2858C"
+				"58586178C409D8C8"
+				"1E049AD595429747"
+				"6809428EA81E3340"
+			]
+			description: ["this broom is fast, will apply resistance to whoever rides it and can have active sigles applied to it"]
+			id: "1B3B34657B202A1A"
+			rewards: [{
+				id: "41DCD8FEC28DA36A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "365C62D9539ADF47"
+				item: "besmirchment:final_broom"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 5.0d
+		}
+		{
+			description: [
+				"spawning in savannas blocks made from juniper can gather taglocks of anyone but there owner"
+				""
+				"taglocks are inserted by sneaking while using them on the block, you can then gather them by using an athame while sneaking"
+			]
+			id: "0D3DDFD3BDC519CA"
+			tasks: [{
+				id: "72B5797BBEB299C9"
+				item: "bewitchment:juniper_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			description: ["spawning in taigas and swamps blocks made from this wood will mask you from undead in a small area"]
+			id: "3F5E79FFA2C2EE7A"
+			tasks: [{
+				id: "42DED0F7D539D33D"
+				item: "bewitchment:cypress_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"spawning in forests blocks made from elder wood can be locked with a silver ingot"
+				""
+				"locked blocks can be given taglocks to white/blacklist certain players. the list can be toggled by useing an athame while sneaking"
+			]
+			id: "4B3464BA1D777FBA"
+			tasks: [{
+				id: "2C83F712FE928E0D"
+				item: "bewitchment:elder_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			description: [
+				"fouind in nether fortresses blocks made from dragon blood can be given active sigils"
+				""
+				"uesing an athame to cut the bark will give you dragon's blood resin"
+			]
+			id: "46619406A80C0900"
+			tasks: [{
+				id: "48B632897A282A76"
+				item: "bewitchment:dragons_blood_sapling"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+	]
+	title: "Bewitchment"
+}

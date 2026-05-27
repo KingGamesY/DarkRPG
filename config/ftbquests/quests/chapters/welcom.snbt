@@ -1,0 +1,525 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcom"
+	group: ""
+	icon: "minecraft:writable_book"
+	id: "419B5D1735458E5F"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:item/intro"
+			rotation: 0.0d
+			width: 3.7948717948717947d
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			click: "https://discord.gg/uCPfPBvsRJ"
+			height: 1.0d
+			hover: ["Discord"]
+			image: "minecraft:item/discord"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			click: "https://www.bisecthosting.com/gamerpotion"
+			height: 1.0d
+			hover: ["Create a server. Get 25% Off!"]
+			image: "minecraft:item/bisect"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			click: "https://www.gamerpotion.net/2022/03/update-darkrpg-modpack-version-21.html"
+			height: 1.0d
+			hover: ["Changelog"]
+			image: "minecraft:item/log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 2.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Welcome To &6DarkRPG&r, a world full of &dmagic&r and &aexploration&r."
+				""
+				"This book aims to help you learn the basics to our core mods and give some challenges for you to complete. "
+				""
+				"Use the menu on the left to view additional quests and tasks."
+			]
+			icon: "mythicmetals:star_platinum_block"
+			id: "4DBEFF0D3E4E2FEB"
+			rewards: [
+				{
+					count: 3
+					id: "36050033F3606002"
+					item: "cardiac:life_bottle"
+					type: "item"
+				}
+				{
+					id: "646ED07694C0F7AB"
+					item: {
+						Count: 1
+						id: "bonfires:estus_flask"
+						tag: {
+							estus: 5
+							reinforce_level: 0
+							reinforce_max: 10
+							uses: 5
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "57F02643FE652EAF"
+					item: "bosses_of_mass_destruction:crystal_fruit"
+					type: "item"
+				}
+				{
+					id: "089DD0A76C3A0812"
+					item: "paraglider:paraglider"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			subtitle: "Book made by SnowTheArcticFox"
+			tasks: [{
+				id: "62ECA93018BBD437"
+				title: "Welcome"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"To rtp (randomly tp) use &c/trigger darkrtp&r"
+				"If you get stuck use &c/trigger darkdeath&r (kills you instantly) or &cdarkspawn&r (will tp you to world spawn)"
+				"View more trigger commands using &c/trigger&r"
+				""
+				"If you experience a death NaN glitch use &c/trigger darkunbug&r"
+				""
+				"To PvP toggle use &c/pvp&r"
+				"{@pagebreak}"
+				"To claim open your map (default key is &cM&r), right click a chunck and click claim."
+				""
+				"To create a party use &c/openpac-parties create&r, then add people with &c/openpac-parties member invite <name>&r. Alternatively you can ally other parties with &c/openpac-parties ally <name>&r."
+				""
+				"You can edit claim perms by clicking &c'&r"
+				""
+				"Use &cRight-Shift&r to open the Cosmetica menu."
+			]
+			icon: "minecraft:writable_book"
+			id: "7FF27A2AEAD5A672"
+			subtitle: "Useful commands"
+			tasks: [{
+				id: "1D69C108F0EA17EA"
+				title: "Multiplayer"
+				type: "checkmark"
+			}]
+			title: "Commands"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"No Griefing or stealing from others."
+				"PVP without consent is considered griefing and harassment"
+				""
+				"No Spamming/Full caps messages"
+				""
+				"No Advertising"
+				""
+				"No Cursing/No Constant Cursing"
+				""
+				"No Trolling/Flaming"
+				""
+				"No Banned Items"
+				"{@pagebreak}"
+				"If Someone Asks For There Playerhead Back, Please Give It Back To Them"
+				""
+				"Do Not Intentuanly block/break lootr chests"
+				""
+				"No Asking for OP"
+				""
+				"Respect all Players"
+				""
+				"Obey Staff Members"
+				""
+				"No Racist, Sexist or other discrimitory Remarks"
+				"{@pagebreak}"
+				"No Hacks (includes any form of x-ray, scripts or macros)"
+				""
+				"No Builds Near Spawn"
+				""
+				"Ask before claiming right next to players (leave a few chunks between you both so you can both have space to expand)"
+				""
+				"No 1x1 Towers"
+				""
+				"No malicious targeting of anybody's physical, mental or social conditions verbally or textually"
+				"{@pagebreak}"
+				"No inappropriate usernames or skins"
+				""
+				"Any Player, Item, Farm, Claimed Chunk, found to be a cause of severe server lag may be removed by a server admin at their discretion."
+				""
+				"No Chunk Loaders"
+				""
+				"Please do not try starting cults or religions in the server."
+				""
+				"No impersonating a staff member, be it using their skin or pretending to be them"
+				"{@pagebreak}"
+				"Don't use immersive paintings to place NSFW images"
+				""
+				"NO NSFW/Offensive builds or text (this also means in chat)"
+				""
+				"No using voodoo/vampiric poppets on people who dont consent"
+				""
+				"Dont curse people without consent (if you curse someone you are giving consent for them to curse you back)"
+				"{@pagebreak}"
+				"Try to limit cables with toms storage if you can, inventory trims can connect storages just as well. cables only need to be used for stuff like hoppers or inventory connectors."
+				"&4Anything found to be the cause of lag can be removed by any staff member at any time, with or without warning&r"
+			]
+			icon: "minecraft:book"
+			id: "656FBF5231240143"
+			subtitle: "Rules For Our Public servers"
+			tasks: [{
+				id: "577C8ECBFD73C193"
+				title: "Public Server Rules"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"&l&nGeneral&r&r"
+				""
+				"Agglomerations"
+				"Broken Watch"
+				"Displacement Tome"
+				"Ender Bow"
+				"Hardening Catalyst"
+				"Infernal Scepter"
+				"Legendary Banglum Pickaxe"
+				"Legendary Banglum Shovel"
+				"Legia Bow"
+				"Nukes"
+				"Stormyx Shield"
+				"{@pagebreak}"
+				"&n&lMarium's Soulslike Weaponry&r&r"
+				""
+				"Cape of Chaos"
+				"Comet Spear"
+				"Dragon Staff"
+				"Dragonslayer Swordspear"
+				"Frostmourne"
+				"Leviathan Axe"
+				"Mjölnir"
+				"Whirligig Sawblade"
+				"Soul Reaper scythe"
+				"Withered Wabbajack"
+				"{@pagebreak}"
+				"&l&nEnchants&r&r"
+				""
+				"Immunity"
+				"Lifesteal"
+				"Steadfast"
+				"Soulbinding"
+				"Shielding"
+				""
+				"&l&nExtra Info&r&r"
+				""
+				"Endermites and Bats auto-killed every 1 minute"
+				"Phantom origin is banned"
+			]
+			icon: "minecraft:book"
+			id: "05440732976807C4"
+			subtitle: "List wont always be up to date"
+			tasks: [{
+				id: "6FBD9D07AD1B5108"
+				title: "Public Server Banned Items"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			description: [
+				"A waystone is a great way to go from point A to point B in an instant"
+				""
+				"Using XP you can telport from one waystone to another"
+			]
+			icon_scale: 1.5d
+			id: "544B1DBE4922CFFF"
+			rewards: [{
+				id: "4DD65D4FD0C472E2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0D04EA3C9F6032B2"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"A post box allows you to send mail to other players on your server. You can include items and an optional message to any mailbox placed in the world. It also works across dimensions. When you receive mail, your mailbox will appear with a little red flag."
+				"{@pagebreak}"
+				"This is crafted using a workbench that also needs electricity from generators. Make sure to craft a wrench to help with that"
+			]
+			icon_scale: 1.5d
+			id: "6A88DF3106CC6528"
+			rewards: [
+				{
+					id: "5DE7CE7EBF911646"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 2
+					id: "75F3E2F18C0BD200"
+					item: "refurbished_furniture:cheese_sandwich"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "5A896B70AF071E65"
+				item: "refurbished_furniture:post_box"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			description: [
+				"The type of magnum torch you craft defines what kind of mobs will be prevented from spawning. Only new mobs are prevented from spawning, mobs already in the world will not instantly vanish upon placing a magnum torch!"
+				"{@pagebreak}"
+				"&9Diamond&r: All monsters, such as zombies, skeletons, creepers, spiders, phantoms and so on."
+				"&9Emerald&r: Passive mobs such as wandering traders and trader llamas (animals are technically affected, but not really, since they only spawn during world gen or from breeding, which are both unaffected by magnum torches)"
+				"&9Amethyst&r: Cave and water mobs, such as bats, all squids, axolotls, and all fish"
+			]
+			icon: "magnumtorch:diamond_magnum_torch"
+			icon_scale: 2.0d
+			id: "1A3479149A902D27"
+			rewards: [{
+				id: "5E163DED47EA1351"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "7A503421374968C5"
+					item: "magnumtorch:diamond_magnum_torch"
+					type: "item"
+				}
+				{
+					id: "4DC5C2AC2B79F2FD"
+					item: "magnumtorch:emerald_magnum_torch"
+					type: "item"
+				}
+				{
+					id: "4F1F034B4094D27D"
+					item: "magnumtorch:amethyst_magnum_torch"
+					type: "item"
+				}
+			]
+			title: "Magnum Torches"
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			description: ["Zzzzz ZZzzz Zzz zzzz....."]
+			icon_scale: 1.5d
+			id: "55F8E782B962F220"
+			rewards: [{
+				count: 3
+				id: "218354AC61E3D9AC"
+				item: "croptopia:nutty_cookie"
+				type: "item"
+			}]
+			shape: "heart"
+			tasks: [{
+				id: "02CEAFEF925BADEB"
+				item: "travelersbackpack:red_sleeping_bag"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			description: ["Useful for using with Mr Crayfish's Furniture items..."]
+			icon_scale: 1.2d
+			id: "1D78556F2B9066D1"
+			rewards: [
+				{
+					id: "3168C609F2849E3E"
+					item: "croptopia:popcorn"
+					type: "item"
+				}
+				{
+					id: "2EFA8BE37AF86AEB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "700B69BFB46B6578"
+				item: "refurbished_furniture:wrench"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"Transmog allows you to change the appearance of items without modifying their behavior at all."
+				"It works on armor, weapons, tools and anything else you can imagine."
+				"{@pagebreak}"
+				"&d&lVoid Fragment&r&r"
+				"Required to craft the Transmogrification Table. Also allows you to make your items invisible."
+				"{@pagebreak}"
+				"&5&lTransmogrification Table&r&r"
+				"The main block added by this mod, used to transmogrify items."
+				"{@pagebreak}"
+				"&9&lHow Transmogrifying Works&r&r"
+				"Place the transmogrification table in the world and right-click it, the transmogrification UI will open..."
+				"&2The fuel slot&r. Every Amethyst Shard fills up the power of the Transmogrification Table, and each action will remove one third of it."
+				"&2The target slot&r. The item you place in here is the one that will be transmogrified."
+				"{@pagebreak}"
+				"&2The appearance slot&r. The item you place here will be the one that decides the appearance of the target item and will not be consumed in the process."
+			]
+			icon: "transmog:void_fragment"
+			icon_scale: 1.5d
+			id: "2F4F155C378C6344"
+			rewards: [
+				{
+					id: "3C68893846FE0D51"
+					item: "croptopia:buttered_toast"
+					type: "item"
+				}
+				{
+					id: "16C5E63E4325A84A"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "gear"
+			tasks: [
+				{
+					id: "17E5BCCA96A90E91"
+					item: "transmog:transmogrification_table"
+					type: "item"
+				}
+				{
+					id: "1F37881E42AB7229"
+					item: "transmog:void_fragment"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"&3Explorer's Compass&r is an item that allows you to locate structures anywhere in the world."
+				""
+				"&2Nature's Compass&r is an item that allows you to search for a biome's location anywhere in the world and view information about it."
+			]
+			id: "733E0260163C2A92"
+			rewards: [{
+				id: "6DA8108A8246D4D5"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [
+				{
+					id: "0BC4E46B09D9D873"
+					item: {
+						Count: 1
+						id: "explorerscompass:explorerscompass"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "091DA5FB267BA478"
+					item: {
+						Count: 1
+						id: "naturescompass:naturescompass"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Explorer and Nature Compass"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Using the camera while sneaking or right-clicking the camera in GUI opens Camera Attachments menu."
+				""
+				"Right-Click drag slides into instant camera to load slide."
+			]
+			id: "3F8089C0164D0E91"
+			rewards: [
+				{
+					id: "429E3F08FC921034"
+					item: "exposure:black_and_white_film"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4E9A13A76D82A37D"
+					item: "exposure_polaroid:instant_color_slide"
+					type: "item"
+				}
+				{
+					id: "0BB96E82B2DCF5A2"
+					item: "exposure:photograph_frame"
+					type: "item"
+				}
+				{
+					id: "264B3279306B0C02"
+					item: "exposure:album"
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			tasks: [
+				{
+					id: "2211F824408AB97B"
+					item: "exposure:camera"
+					type: "item"
+				}
+				{
+					id: "415A3E94723AA679"
+					item: "luphieclutteredmod:luphie_polaroid_camera"
+					type: "item"
+				}
+			]
+			title: "Cameras"
+			x: 4.0d
+			y: 1.0d
+		}
+	]
+	title: "[\"\",{\"text\":\"Intro\",\"color\":\"green\",\"bold\":true,\"underlined\":false}]"
+}

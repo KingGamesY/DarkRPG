@@ -1,0 +1,3576 @@
+{
+  "fabric-loader-0.18.6.jar (modloader)": {
+    "jarName": "fabric-loader-0.18.6.jar (modloader)",
+    "modId": "fabric",
+    "name": "fabric",
+    "version": "fabric-loader-0.18.6.jar"
+  },
+  "1.20-jains-desserts-2.0.0.jar": {
+    "jarName": "1.20-jains-desserts-2.0.0.jar",
+    "modId": "jains_deserts",
+    "name": "Jain\u0027s Desserts",
+    "version": "2.0.0",
+    "curseForgeHash": 760791172,
+    "modrinthHash": "5e929e5c0708bc1c56d98712eeb7b58ba291711f"
+  },
+  "1.20-more-potions-2.0.0.jar": {
+    "jarName": "1.20-more-potions-2.0.0.jar",
+    "modId": "more_potions",
+    "name": "More Potions",
+    "version": "2.0.0",
+    "curseForgeHash": 3809490064,
+    "modrinthHash": "a0bcd137ed5e82a14f462e08e3da9e0461e9842c"
+  },
+  "1.20.1-convenient-hitboxes-1.0.5.jar": {
+    "jarName": "1.20.1-convenient-hitboxes-1.0.5.jar",
+    "modId": "convenient_hitboxes",
+    "name": "Convenient Hitboxes",
+    "version": "1.0.5",
+    "curseForgeHash": 2012416349,
+    "modrinthHash": "ce245882bb60d30efd329cbd4e8b29c6869f646b"
+  },
+  "1.20.1-extensive-diamonds-1.3.6.jar": {
+    "jarName": "1.20.1-extensive-diamonds-1.3.6.jar",
+    "modId": "extensivediamonds",
+    "name": "Extensive Diamonds",
+    "version": "1.3.6",
+    "curseForgeHash": 3089363208,
+    "modrinthHash": "d88997394c30de3325175d06a86214387db0758f"
+  },
+  "1.20.1-stunningstatues-1.0.2.jar": {
+    "jarName": "1.20.1-stunningstatues-1.0.2.jar",
+    "modId": "stunningstatues",
+    "name": "Stunning Statues",
+    "version": "1.0.2",
+    "curseForgeHash": 1176365798,
+    "modrinthHash": "e684a0aef4ec8583150b58a667d9f32d3e547331"
+  },
+  "1.20.1-throwable-fluids-3.0.0.jar": {
+    "jarName": "1.20.1-throwable-fluids-3.0.0.jar",
+    "modId": "throwablefluids",
+    "name": "Throwable Fluids",
+    "version": "3.0.0",
+    "curseForgeHash": 1219008401,
+    "modrinthHash": "08f1dd4f429ff9cf749fe725a15f2c3a03e90fd5"
+  },
+  "aaa-particles-fabric-1.20.1-2.0.0-beta.6.jar": {
+    "jarName": "aaa-particles-fabric-1.20.1-2.0.0-beta.6.jar",
+    "modId": "aaa_particles",
+    "name": "AAAParticles",
+    "version": "1.20.1-2.0.0-beta.6",
+    "curseForgeHash": 1494313493,
+    "modrinthHash": "897e7d6f471ca02fe61f46d80ecc131ce2291800"
+  },
+  "Acclaimed-Origins-1.20.x-Fabric.jar": {
+    "jarName": "Acclaimed-Origins-1.20.x-Fabric.jar",
+    "modId": "acclaimed_origins",
+    "name": "Acclaimed Origins",
+    "version": "1.0.1",
+    "curseForgeHash": 2984499864,
+    "modrinthHash": "4024273b19ce7b43a572b8d8fcf47e637fd26b4f"
+  },
+  "accurate-block-placement-1.2.1.jar": {
+    "jarName": "accurate-block-placement-1.2.1.jar",
+    "modId": "accurateblockplacement",
+    "name": "Accurate Block Placement",
+    "version": "1.2.1",
+    "curseForgeHash": 1446048319,
+    "modrinthHash": "9b489f991db45c6168658ae4d8018bc735595bdb"
+  },
+  "additional_rpg_jewelry-1.1.1-1.20.1.jar": {
+    "jarName": "additional_rpg_jewelry-1.1.1-1.20.1.jar",
+    "modId": "additional_rpg_jewelry",
+    "name": "Additional Jewelry",
+    "version": "1.1.1-1.20.1",
+    "curseForgeHash": 4075389217,
+    "modrinthHash": "11b07966546f80a2df1fecdf51c42949f39a6434"
+  },
+  "AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar": {
+    "jarName": "AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar",
+    "modId": "additionalstructures",
+    "name": "Additional Structures",
+    "version": "4.2.2",
+    "curseForgeHash": 789107602,
+    "modrinthHash": "48dc5b3bc6ffafd20b365b8a9e3fb6082d7b5a6c"
+  },
+  "advancednetherite-fabric-2.1.3-1.20.1.jar": {
+    "jarName": "advancednetherite-fabric-2.1.3-1.20.1.jar",
+    "modId": "advancednetherite",
+    "name": "Advanced Netherite",
+    "version": "2.1.3-1.20.1",
+    "curseForgeHash": 3233695333,
+    "modrinthHash": "f5a8f912232ccaeac0e2167f2e9347b5da1bb26e"
+  },
+  "adventurez-1.4.20.jar": {
+    "jarName": "adventurez-1.4.20.jar",
+    "modId": "adventurez",
+    "name": "AdventureZ",
+    "version": "1.4.20",
+    "curseForgeHash": 951781017,
+    "modrinthHash": "a727891db0b750fda3c4e6f15e2781b89c490647"
+  },
+  "airchidori-fabric-1.20.1-1.0.9.jar": {
+    "jarName": "airchidori-fabric-1.20.1-1.0.9.jar",
+    "modId": "airchidori",
+    "name": "Air Chidori Origin",
+    "version": "1.0.9",
+    "curseForgeHash": 589289094,
+    "modrinthHash": "b3840be1dff6ca6043ec7148eb30b9eee1d0a60b"
+  },
+  "alloy-forgery-2.1.2+1.20.jar": {
+    "jarName": "alloy-forgery-2.1.2+1.20.jar",
+    "modId": "alloy_forgery",
+    "name": "Alloy Forgery",
+    "version": "2.1.2+1.20",
+    "curseForgeHash": 927358313,
+    "modrinthHash": "2a5b1cdd7dacaba4012c0a3d116d726302f62dca"
+  },
+  "AltOriginGui-fabric-1.20.1-1.1.1.jar": {
+    "jarName": "AltOriginGui-fabric-1.20.1-1.1.1.jar",
+    "modId": "altorigingui",
+    "name": "AltOriginGui",
+    "version": "1.1.1",
+    "curseForgeHash": 1702757171,
+    "modrinthHash": "ebc8f0215bcc999c8af2afe15cdc5e1ef31e30b6"
+  },
+  "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar": {
+    "jarName": "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
+    "modId": "ambientsounds",
+    "name": "AmbientSounds",
+    "version": "6.3.8",
+    "curseForgeHash": 1939451829,
+    "modrinthHash": "1d37e21d373256a7bd7fec82670e80b0430bcfa2"
+  },
+  "amendments-1.20-2.2.5-fabric.jar": {
+    "jarName": "amendments-1.20-2.2.5-fabric.jar",
+    "modId": "amendments",
+    "name": "Amendments",
+    "version": "1.20-2.2.5",
+    "curseForgeHash": 248332794,
+    "modrinthHash": "7c86a37978ad8e6d981124d45c7483745c579877"
+  },
+  "amethyst_core-1.5.0+1.20.1.jar": {
+    "jarName": "amethyst_core-1.5.0+1.20.1.jar",
+    "modId": "amethyst_core",
+    "name": "Amethyst Core",
+    "version": "1.5.0+1.20.1",
+    "curseForgeHash": 2271215753,
+    "modrinthHash": "19f5e8fb0d6ecf9b89fa164734e4db7f83428288"
+  },
+  "amethyst_imbuement-1.20.1-19.8.jar": {
+    "jarName": "amethyst_imbuement-1.20.1-19.8.jar",
+    "modId": "amethyst_imbuement",
+    "name": "Amethyst Imbuement",
+    "version": "1.20.1-19.8",
+    "curseForgeHash": 3139431470,
+    "modrinthHash": "8ae33c5bfbc4b2cdf1a197eed1d3d74047e2c331"
+  },
+  "anotherqualityoreset-fabric-1.20.1-2.0.3.jar": {
+    "jarName": "anotherqualityoreset-fabric-1.20.1-2.0.3.jar",
+    "modId": "anotherqualityoreset",
+    "name": "Another Quality Ore Set",
+    "version": "2.0.3",
+    "curseForgeHash": 1936274524,
+    "modrinthHash": "b50b66d8bd1b17e4d00fdd1c79a1bc83c824092e"
+  },
+  "apocalypse_origins-0.4.72-1.20.X.jar": {
+    "jarName": "apocalypse_origins-0.4.72-1.20.X.jar",
+    "modId": "apocalypse_origins",
+    "name": "Apocalypse Origins",
+    "version": "0.4.72-1.20.X",
+    "curseForgeHash": 514217124,
+    "modrinthHash": "ffd3899f8c9909f1e15d0c02a69daf7f35afff8e"
+  },
+  "appleskin-fabric-mc1.20.1-2.5.2.jar": {
+    "jarName": "appleskin-fabric-mc1.20.1-2.5.2.jar",
+    "modId": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.5.2+mc1.20.1",
+    "curseForgeHash": 1278481270,
+    "modrinthHash": "f859bb13130788ae2dc2e76a9c80c89e4bbbef5f"
+  },
+  "aquachidori-fabric-1.20.1-1.0.7.jar": {
+    "jarName": "aquachidori-fabric-1.20.1-1.0.7.jar",
+    "modId": "aquachidori",
+    "name": "Aqua Chidori Origin",
+    "version": "1.0.7",
+    "curseForgeHash": 2483084557,
+    "modrinthHash": "4a8d0b942fdbf8e7c7e9a872276c66e6834f7599"
+  },
+  "Aquamirae 6.jar": {
+    "jarName": "Aquamirae 6.jar",
+    "modId": "aquamirae",
+    "name": "Aquamirae",
+    "version": "6",
+    "curseForgeHash": 753585006,
+    "modrinthHash": "13feb2c346d372b3bec57f1ad2e151d87f65e5d6"
+  },
+  "archeologyplus-1.0.2.jar": {
+    "jarName": "archeologyplus-1.0.2.jar",
+    "modId": "archeologyplus",
+    "name": "Archeology Plus",
+    "version": "1.0.2",
+    "curseForgeHash": 2537317420,
+    "modrinthHash": "da15137fb2d2c82226dbad935aad62ccdb849d88"
+  },
+  "archers-1.3.0+1.20.1.jar": {
+    "jarName": "archers-1.3.0+1.20.1.jar",
+    "modId": "archers",
+    "name": "Archers (RPG Series)",
+    "version": "1.3.0+1.20.1",
+    "curseForgeHash": 278354592,
+    "modrinthHash": "ef28eaebd580ec432330e303ce64eb541e95860c"
+  },
+  "archers-expansion-0.2.6-1.20.1.jar": {
+    "jarName": "archers-expansion-0.2.6-1.20.1.jar",
+    "modId": "archers_expansion",
+    "name": "Archers Expansion",
+    "version": "0.2.6-1.20.1",
+    "curseForgeHash": 1173422122,
+    "modrinthHash": "5242f51c8d4d44f8526b0e9ab54c4b21a304ddb8"
+  },
+  "architectury-9.2.14-fabric.jar": {
+    "jarName": "architectury-9.2.14-fabric.jar",
+    "modId": "architectury",
+    "name": "Architectury",
+    "version": "9.2.14",
+    "curseForgeHash": 376046230,
+    "modrinthHash": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d"
+  },
+  "armorstandarms-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "armorstandarms-fabric-1.20.1-1.0.0.jar",
+    "modId": "armorstandarms",
+    "name": "Armor Stand Armrs",
+    "version": "1.0.0",
+    "curseForgeHash": 2661182335,
+    "modrinthHash": "558a136878273dd547be97525238f76cb67eace0"
+  },
+  "ArmorStats HUD-1.0.0.jar": {
+    "jarName": "ArmorStats HUD-1.0.0.jar",
+    "modId": "armorhud",
+    "name": "ArmorStats HUD",
+    "version": "1.0.0",
+    "curseForgeHash": 800174823,
+    "modrinthHash": "e612a5c60ef53453c17bfd47b1237a0eaa9f1944"
+  },
+  "artifacts-fabric-9.5.17.jar": {
+    "jarName": "artifacts-fabric-9.5.17.jar",
+    "modId": "artifacts",
+    "name": "Artifacts",
+    "version": "9.5.17",
+    "curseForgeHash": 333293373,
+    "modrinthHash": "c851630a411fa287ac64214ba73d1c978d805048"
+  },
+  "aspects-1.0.9-1.20.x.jar": {
+    "jarName": "aspects-1.0.9-1.20.x.jar",
+    "modId": "aspects",
+    "name": "Aspects",
+    "version": "1.0.9-1.20.x",
+    "curseForgeHash": 2174094146,
+    "modrinthHash": "d1d2561d628382225692a4df7209900b00d4508c"
+  },
+  "athena-fabric-1.20.1-3.1.2.jar": {
+    "jarName": "athena-fabric-1.20.1-3.1.2.jar",
+    "modId": "athena",
+    "name": "Athena",
+    "version": "3.1.2",
+    "curseForgeHash": 2799729741,
+    "modrinthHash": "53014ceff1e10085609c16adbe246df51113bfe9"
+  },
+  "AttributeFix-Fabric-1.20.1-21.0.5.jar": {
+    "jarName": "AttributeFix-Fabric-1.20.1-21.0.5.jar",
+    "modId": "attributefix",
+    "name": "AttributeFix",
+    "version": "21.0.5",
+    "curseForgeHash": 1297336230,
+    "modrinthHash": "181c94abb434890b4d1422544b8e400b73b6f8c6"
+  },
+  "automated-crafting-1.4.15-1+MC1.20.1.jar": {
+    "jarName": "automated-crafting-1.4.15-1+MC1.20.1.jar",
+    "modId": "automated_crafting",
+    "name": "Automated Crafting",
+    "version": "1.4.15-1",
+    "curseForgeHash": 1225911294,
+    "modrinthHash": "6ffc3bf2b9bbf7f6294b5ec82acca8ff60daa362"
+  },
+  "autotag-2.0.2+1.20.jar": {
+    "jarName": "autotag-2.0.2+1.20.jar",
+    "modId": "autotag-convention",
+    "name": "AutoTag Convention",
+    "version": "2.0.2+1.20",
+    "curseForgeHash": 1656600953,
+    "modrinthHash": "78183b1e5513c6b6d8bf5477b0cda9d8f86268c4"
+  },
+  "awesomedungeon-fabric-1.20.1-3.2.0.jar": {
+    "jarName": "awesomedungeon-fabric-1.20.1-3.2.0.jar",
+    "modId": "awesomedungeon",
+    "name": "Awesome dungeon",
+    "version": "3.2.0",
+    "curseForgeHash": 3562352779,
+    "modrinthHash": "d610e2935f2eeb1859e59d0785a79f6889dd1ec0"
+  },
+  "awesomedungeonend-fabric-1.20.1-3.1.1.jar": {
+    "jarName": "awesomedungeonend-fabric-1.20.1-3.1.1.jar",
+    "modId": "awesomedungeonend",
+    "name": "Awesome dungeon the end",
+    "version": "3.1.1",
+    "curseForgeHash": 2040857183,
+    "modrinthHash": "6221395babfe12fe4fb7ca77a14a275eee75b4d1"
+  },
+  "awesomedungeonnether-fabric-1.20.1-3.1.1.jar": {
+    "jarName": "awesomedungeonnether-fabric-1.20.1-3.1.1.jar",
+    "modId": "awesomedungeonnether",
+    "name": "Awesome dungeon nether",
+    "version": "3.1.1",
+    "curseForgeHash": 1294905192,
+    "modrinthHash": "33d362baff738f668474956ed307c82d63ddb2e9"
+  },
+  "awesomedungeonocean-fabric-1.20.1-3.3.0.jar": {
+    "jarName": "awesomedungeonocean-fabric-1.20.1-3.3.0.jar",
+    "modId": "awesomedungeonocean",
+    "name": "Awesome dungeon edition ocean",
+    "version": "3.3.0",
+    "curseForgeHash": 3196653797,
+    "modrinthHash": "84e2144594075121ea1bafbc912d176e62e75f91"
+  },
+  "azure-paxels-1.20.2-1.0.11.jar": {
+    "jarName": "azure-paxels-1.20.2-1.0.11.jar",
+    "modId": "azure-paxels",
+    "name": "Azure Paxels",
+    "version": "1.0.9",
+    "curseForgeHash": 3805026288,
+    "modrinthHash": "fd3ce7cb6fd0b3e7bc2f25b729ac23afa711cfda"
+  },
+  "azurelib-fabric-1.20.1-3.0.27.jar": {
+    "jarName": "azurelib-fabric-1.20.1-3.0.27.jar",
+    "modId": "azurelib",
+    "name": "AzureLib",
+    "version": "3.0.27",
+    "curseForgeHash": 680234397,
+    "modrinthHash": "53cd28642531a039b51d2a3a84d9ec5189decf46"
+  },
+  "azurelibarmor-fabric-1.20.1-2.0.14.jar": {
+    "jarName": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
+    "modId": "azurelibarmor",
+    "name": "AzureLib Armor",
+    "version": "2.0.14",
+    "curseForgeHash": 4203744405,
+    "modrinthHash": "df49117310e310999c5508a36acbf15e7d1319bf"
+  },
+  "backported_wolves-fabric-1.20.x+2.0.0.jar": {
+    "jarName": "backported_wolves-fabric-1.20.x+2.0.0.jar",
+    "modId": "backported_wolves",
+    "name": "Backported Wolves",
+    "version": "1.20.x+2.0.0",
+    "curseForgeHash": 3796016952,
+    "modrinthHash": "d6320c0eb868200086b9ba699851b957b67173e2"
+  },
+  "badpackets-fabric-0.4.3.jar": {
+    "jarName": "badpackets-fabric-0.4.3.jar",
+    "modId": "badpackets",
+    "name": "Bad Packets",
+    "version": "0.4.3",
+    "curseForgeHash": 1829197648,
+    "modrinthHash": "87b7ef4e9c9bff0fd8cdcc79156e9c7ac7b26690"
+  },
+  "balm-fabric-1.20.1-7.3.38.jar": {
+    "jarName": "balm-fabric-1.20.1-7.3.38.jar",
+    "modId": "balm",
+    "name": "Balm",
+    "version": "7.3.38",
+    "curseForgeHash": 3638142165,
+    "modrinthHash": "833370d2a28be5673537b177e332918668e829e0"
+  },
+  "basicstorage-1.0.5+1.20.1.jar": {
+    "jarName": "basicstorage-1.0.5+1.20.1.jar",
+    "modId": "basic-storage",
+    "name": "Basic Storage",
+    "version": "1.0.5+1.20.1",
+    "curseForgeHash": 4013573022,
+    "modrinthHash": "5fbdd8ef46c7db1efcc5fd9dc8aaa107e74b6d9f"
+  },
+  "basicweapons-1.2.5+1.20.1.jar": {
+    "jarName": "basicweapons-1.2.5+1.20.1.jar",
+    "modId": "basicweapons",
+    "name": "Basic Weapons",
+    "version": "1.2.5+1.20.1",
+    "curseForgeHash": 948639687,
+    "modrinthHash": "01f7ebc33bb8ce673f91a203f78caacd29ed169f"
+  },
+  "batsgalore-fabric-1.20.1-1.2.3.jar": {
+    "jarName": "batsgalore-fabric-1.20.1-1.2.3.jar",
+    "modId": "batsgalore",
+    "name": "Bats Galore",
+    "version": "1.2.3",
+    "curseForgeHash": 2216563171,
+    "modrinthHash": "2c4cb79a41800b0a1050075390c3128522d8abc2"
+  },
+  "beautify-2.0.0+1.20.1.jar": {
+    "jarName": "beautify-2.0.0+1.20.1.jar",
+    "modId": "beautify",
+    "name": "Beautify",
+    "version": "2.0.0+1.20.1",
+    "curseForgeHash": 2986288592,
+    "modrinthHash": "f820d8f67e7fb9c940bb902a6a1179e6425ca87f"
+  },
+  "bedspreads-fabric-6.3.0+1.20.1.jar": {
+    "jarName": "bedspreads-fabric-6.3.0+1.20.1.jar",
+    "modId": "bedspreads",
+    "name": "Bedspreads",
+    "version": "6.3.0+1.20.1",
+    "curseForgeHash": 837335377,
+    "modrinthHash": "24a1d119121a819f8cb5f4634ed728193384f820"
+  },
+  "berserker-class-mod-1.2.5-1.20.1.jar": {
+    "jarName": "berserker-class-mod-1.2.5-1.20.1.jar",
+    "modId": "berserker-rpg",
+    "name": "Berserker Class Mod",
+    "version": "1.2.5-1.20.1",
+    "curseForgeHash": 1240639684,
+    "modrinthHash": "e23019ca286d58530ccc05ba77e223303b53e762"
+  },
+  "besmirchment-1.20.1-4.jar": {
+    "jarName": "besmirchment-1.20.1-4.jar",
+    "modId": "besmirchment",
+    "name": "Besmirchment",
+    "version": "1.20.1-4",
+    "curseForgeHash": 2193898990,
+    "modrinthHash": "124d867a1133cef2645317c2861ef1edabb3013e"
+  },
+  "bestpick-1.0.0+1.20.1.jar": {
+    "jarName": "bestpick-1.0.0+1.20.1.jar",
+    "modId": "bestpick",
+    "name": "Best Pick",
+    "version": "1.0.0+1.20.1",
+    "curseForgeHash": 4288424025,
+    "modrinthHash": "dc84fb9ea054aee461520a3714b96b657ebdce4e"
+  },
+  "BetterAdvancements-Fabric-1.20.1-0.4.2.10.jar": {
+    "jarName": "BetterAdvancements-Fabric-1.20.1-0.4.2.10.jar",
+    "modId": "betteradvancements",
+    "name": "Better Advancements",
+    "version": "0.4.2.10",
+    "curseForgeHash": 703326496,
+    "modrinthHash": "86d52d0318185ff398d107e0d4470e3dc72fdeac"
+  },
+  "bettercombat-fabric-1.9.0+1.20.1.jar": {
+    "jarName": "bettercombat-fabric-1.9.0+1.20.1.jar",
+    "modId": "bettercombat",
+    "name": "Better Combat",
+    "version": "1.9.0+1.20.1",
+    "curseForgeHash": 1080572182,
+    "modrinthHash": "5a86bc3e543c764411bd20c56d1a33d7d73de26d"
+  },
+  "BetterF1-1.0.jar": {
+    "jarName": "BetterF1-1.0.jar",
+    "modId": "betterf1",
+    "name": "BetterF1",
+    "version": "1.0",
+    "curseForgeHash": 2224199448,
+    "modrinthHash": "3d972092690c6d65d674b0a5f030c2a872f53cad"
+  },
+  "betterloot-1.0.0+mc1.20.1.jar": {
+    "jarName": "betterloot-1.0.0+mc1.20.1.jar",
+    "modId": "betterloot",
+    "name": "Better Loot",
+    "version": "1.0.0+mc1.20.1",
+    "curseForgeHash": 2588650898,
+    "modrinthHash": "25ffdd754e378c800440bcaa7255490ae6d1f01b"
+  },
+  "BetterThirdPerson-Fabric-1.20-1.9.0.jar": {
+    "jarName": "BetterThirdPerson-Fabric-1.20-1.9.0.jar",
+    "modId": "betterthirdperson",
+    "name": "Better Third Person",
+    "version": "1.9.0",
+    "curseForgeHash": 2454145122,
+    "modrinthHash": "affb7193218d896c0bd7459ecae31fb98b3b6b23"
+  },
+  "bettervillage-fabric-1.20.1-3.3.1.jar": {
+    "jarName": "bettervillage-fabric-1.20.1-3.3.1.jar",
+    "modId": "bettervillage",
+    "name": "Better village",
+    "version": "3.3.1",
+    "curseForgeHash": 3863415060,
+    "modrinthHash": "49d4535a969ee43f00d4c594cee142121ed236c8"
+  },
+  "bewitchment-1.20-10.jar": {
+    "jarName": "bewitchment-1.20-10.jar",
+    "modId": "bewitchment",
+    "name": "Bewitchment",
+    "version": "1.20-10",
+    "curseForgeHash": 4078082476,
+    "modrinthHash": "11ac0992d1e54af8515b6c339d0f6bfc18b4d2d0"
+  },
+  "BHMenu-Fabric-1.20.1-2.4.2.jar": {
+    "jarName": "BHMenu-Fabric-1.20.1-2.4.2.jar",
+    "modId": "bhmenu",
+    "name": "BHMenu-Fabric",
+    "version": "2.4.2",
+    "curseForgeHash": 1356871812,
+    "modrinthHash": "f2c97fabe85e708ef9dbab0c024ca19072ac9150"
+  },
+  "blahaj-fabric-1.20.0-0.3.2.jar": {
+    "jarName": "blahaj-fabric-1.20.0-0.3.2.jar",
+    "modId": "blahaj",
+    "name": "Blåhaj",
+    "version": "0.3.2",
+    "curseForgeHash": 3059786611,
+    "modrinthHash": "205a69e9f7bfd7cdbad89466d0c7f0876125c0f0"
+  },
+  "bobby-5.0.1.jar": {
+    "jarName": "bobby-5.0.1.jar",
+    "modId": "bobby",
+    "name": "Bobby",
+    "version": "5.0.1",
+    "curseForgeHash": 1878747480,
+    "modrinthHash": "bdc0285d4209c529019ae1c5f1f0af0e3a3cffa6"
+  },
+  "BOMD-1.7.5-1.20.1.jar": {
+    "jarName": "BOMD-1.7.5-1.20.1.jar",
+    "modId": "bosses_of_mass_destruction",
+    "name": "Bosses of Mass Destruction (Beta)",
+    "version": "1.7.5-1.20.1",
+    "curseForgeHash": 4034380643,
+    "modrinthHash": "6312dfbbc64f5621a3f5169ff6c53f567baee56b"
+  },
+  "bonfires-1.20.1-1.2.20c-fabric-c4e58cf.jar": {
+    "jarName": "bonfires-1.20.1-1.2.20c-fabric-c4e58cf.jar",
+    "modId": "bonfires",
+    "name": "Bonfires",
+    "version": "1.2.20c",
+    "curseForgeHash": 3236753346,
+    "modrinthHash": "16c1c87e89c9f3c18c49289db87a031e251e8544"
+  },
+  "Bookshelf-Fabric-1.20.1-20.2.15.jar": {
+    "jarName": "Bookshelf-Fabric-1.20.1-20.2.15.jar",
+    "modId": "bookshelf",
+    "name": "Bookshelf",
+    "version": "20.2.15",
+    "curseForgeHash": 206441216,
+    "modrinthHash": "d41d4d6dd7e41c238c5120831ee35d5cd8673235"
+  },
+  "bronze-1.0.13+1.20.1.jar": {
+    "jarName": "bronze-1.0.13+1.20.1.jar",
+    "modId": "bronze",
+    "name": "Bronze",
+    "version": "1.0.13+1.20.1",
+    "curseForgeHash": 2197796799,
+    "modrinthHash": "295e3c12c28eb36f3774861d9bb3f62830bbf77b"
+  },
+  "Cardiac-FABRIC-0.5.3.2+1.20.1.jar": {
+    "jarName": "Cardiac-FABRIC-0.5.3.2+1.20.1.jar",
+    "modId": "cardiac",
+    "name": "Cardiac",
+    "version": "0.5.3.2",
+    "curseForgeHash": 22334699,
+    "modrinthHash": "54a1af82cdb61dd540277a6c1ffaea595f890212"
+  },
+  "cardinal-components-api-5.2.3.jar": {
+    "jarName": "cardinal-components-api-5.2.3.jar",
+    "modId": "cardinal-components",
+    "name": "Cardinal Components API",
+    "version": "5.2.3",
+    "curseForgeHash": 3768083891,
+    "modrinthHash": "d0d687d8fc3f367bf696fa0059bccdf0591c51f4"
+  },
+  "carrasconlib-fabric-1.20.1-0.1.jar": {
+    "jarName": "carrasconlib-fabric-1.20.1-0.1.jar",
+    "modId": "carrasconlib",
+    "name": "Carrascon Lib",
+    "version": "1.20.1-0.1",
+    "curseForgeHash": 3211262632,
+    "modrinthHash": "8e39960dac7f80100196602e785d4b85fcf4c3a6"
+  },
+  "CatBurger-Refabriced-fabric-1.20.1-1.0.3_fix2.jar": {
+    "jarName": "CatBurger-Refabriced-fabric-1.20.1-1.0.3_fix2.jar",
+    "modId": "catburger",
+    "name": "Catburger",
+    "version": "1.0.3_fix2",
+    "curseForgeHash": 518037458,
+    "modrinthHash": "1616eca3a2b5d72c5855288c08e9d87a36bcaaca"
+  },
+  "certain_questing_additions-fabric-1.1.7+mc1.20.1.jar": {
+    "jarName": "certain_questing_additions-fabric-1.1.7+mc1.20.1.jar",
+    "modId": "certain_questing_additions",
+    "name": "Certain Questing Additions",
+    "version": "1.1.7",
+    "curseForgeHash": 180825043,
+    "modrinthHash": "d678cf6a12636a98e9fd822a076aa3d4c498c1c3"
+  },
+  "chesttracker-2.6.7+1.20.1.jar": {
+    "jarName": "chesttracker-2.6.7+1.20.1.jar",
+    "modId": "chesttracker",
+    "name": "Chest Tracker",
+    "version": "2.6.7+1.20.1",
+    "curseForgeHash": 4077490239,
+    "modrinthHash": "eb2cc1acf591013b9f6ec8450f09888e6670fa54"
+  },
+  "chipped-fabric-1.20.1-3.0.7.jar": {
+    "jarName": "chipped-fabric-1.20.1-3.0.7.jar",
+    "modId": "chipped",
+    "name": "Chipped",
+    "version": "3.0.7",
+    "curseForgeHash": 4186287027,
+    "modrinthHash": "add35e79f6a930825e4dbe77d5d0468fb96c533f"
+  },
+  "ChippedExpress-universal-20x.jar": {
+    "jarName": "ChippedExpress-universal-20x.jar",
+    "modId": "chipped_express",
+    "name": "Chipped-Express",
+    "version": "1.3.2",
+    "curseForgeHash": 1286999688,
+    "modrinthHash": "47fd0dc3aff5b5069e657629646541c688383bc0"
+  },
+  "Chunky-1.3.146.jar": {
+    "jarName": "Chunky-1.3.146.jar",
+    "modId": "chunky",
+    "name": "Chunky",
+    "version": "1.3.146",
+    "curseForgeHash": 970200318,
+    "modrinthHash": "b5672d69dc2b210ab2165a27afc03a424fa2b46a"
+  },
+  "cleannarsenal-1.0.13+1.20.1.jar": {
+    "jarName": "cleannarsenal-1.0.13+1.20.1.jar",
+    "modId": "cleannarsenal",
+    "name": "cleannarsenal",
+    "version": "1.0.13+1.20.1",
+    "curseForgeHash": 1447648836,
+    "modrinthHash": "b253762273e94120584f4c084a069612edbb75d5"
+  },
+  "cloth-config-11.1.136-fabric.jar": {
+    "jarName": "cloth-config-11.1.136-fabric.jar",
+    "modId": "cloth-config",
+    "name": "Cloth Config v11",
+    "version": "11.1.136",
+    "curseForgeHash": 3135011606,
+    "modrinthHash": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
+  },
+  "cloth-config-5.3.58-fabric.jar": {
+    "jarName": "cloth-config-5.3.58-fabric.jar",
+    "modId": "cloth-config2",
+    "name": "Cloth Config v5",
+    "version": "5.3.58",
+    "curseForgeHash": 3591598947,
+    "modrinthHash": "0ecf4d2a977d7a81800e44fefbd62c3de7f76387"
+  },
+  "Clumps-fabric-1.20.1-12.0.0.4.jar": {
+    "jarName": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+    "modId": "clumps",
+    "name": "Clumps",
+    "version": "12.0.0.4",
+    "curseForgeHash": 179162416,
+    "modrinthHash": "4a845a29ddfd40bcc4695bbbc82872c237dbbac5"
+  },
+  "clutter-1.20-0.6.2.jar": {
+    "jarName": "clutter-1.20-0.6.2.jar",
+    "modId": "clutter",
+    "name": "Clutter",
+    "version": "1.20-0.6.2",
+    "curseForgeHash": 2811420502,
+    "modrinthHash": "246f0f195629186b0441b5da7b0aa30a236ab5ae"
+  },
+  "Cluttered-2.1.0-1.20.1[Fabric].jar": {
+    "jarName": "Cluttered-2.1.0-1.20.1[Fabric].jar",
+    "modId": "luphieclutteredmod",
+    "name": "Cluttered",
+    "version": "2.1.0+1.20.1",
+    "curseForgeHash": 2806294383,
+    "modrinthHash": "38581f6fcbcd2ca3959354cd196b52502f0548dd"
+  },
+  "cobweb-fabric-1.20.1-1.0.1.jar": {
+    "jarName": "cobweb-fabric-1.20.1-1.0.1.jar",
+    "modId": "cobweb",
+    "name": "Cobweb",
+    "version": "1.0.1",
+    "curseForgeHash": 2634990830,
+    "modrinthHash": "12881898e377de6f11f1b195b833c10df1b86755"
+  },
+  "collective-1.20.1-8.22.jar": {
+    "jarName": "collective-1.20.1-8.22.jar",
+    "modId": "collective",
+    "name": "Collective",
+    "version": "8.22",
+    "curseForgeHash": 1537661902,
+    "modrinthHash": "14928c245ac6966bf9316be5233a8aead943e6d4"
+  },
+  "combatroll-fabric-1.3.3+1.20.1.jar": {
+    "jarName": "combatroll-fabric-1.3.3+1.20.1.jar",
+    "modId": "combatroll",
+    "name": "Combat Roll",
+    "version": "1.3.3+1.20.1",
+    "curseForgeHash": 2416426154,
+    "modrinthHash": "7711c08770aa5d15f215093b6884c473350e2e1f"
+  },
+  "common-networking-fabric-1.0.5-1.20.1.jar": {
+    "jarName": "common-networking-fabric-1.0.5-1.20.1.jar",
+    "modId": "commonnetworking",
+    "name": "Common Network",
+    "version": "1.0.5-1.20.1",
+    "curseForgeHash": 623237312,
+    "modrinthHash": "fac58a3f0ca411689474413338933b55e877610d"
+  },
+  "CompletionistsIndex-v8.0.0-1.20.1-Fabric.jar": {
+    "jarName": "CompletionistsIndex-v8.0.0-1.20.1-Fabric.jar",
+    "modId": "completionistsindex",
+    "name": "Completionist\u0027s Index",
+    "version": "8.0.0",
+    "curseForgeHash": 1518023071,
+    "modrinthHash": "6bbb4d6f15c2d79a70283301b96c5bdc0f01a712"
+  },
+  "compressedblocks-fabric-1.20.2-1.6.2-1.20.2.jar": {
+    "jarName": "compressedblocks-fabric-1.20.2-1.6.2-1.20.2.jar",
+    "modId": "compressedblocks",
+    "name": "Compressed Blocks",
+    "version": "1.6.2-1.20.2",
+    "curseForgeHash": 3570079198,
+    "modrinthHash": "8f4a051839e8d03e0a141a6bbf41f05048c11ef4"
+  },
+  "Configurable-2.2.3-fabric-yarn+1.20.1.jar": {
+    "jarName": "Configurable-2.2.3-fabric-yarn+1.20.1.jar",
+    "modId": "configurable",
+    "name": "Configurable",
+    "version": "2.2.3",
+    "curseForgeHash": 2467601185,
+    "modrinthHash": "f5047294f0a407807ac59d71f3e615718a39e37c"
+  },
+  "configured-fabric-1.20.1-2.2.3.jar": {
+    "jarName": "configured-fabric-1.20.1-2.2.3.jar",
+    "modId": "configured",
+    "name": "Configured",
+    "version": "2.2.3",
+    "curseForgeHash": 3341344245,
+    "modrinthHash": "c85adcba2f4cd0252dc8698d00a24b1e283d2cb8"
+  },
+  "consularsorigins-1.11.0.jar": {
+    "jarName": "consularsorigins-1.11.0.jar",
+    "modId": "consularsorigins",
+    "name": "Consulars Origins",
+    "version": "1.11.0",
+    "curseForgeHash": 91408870,
+    "modrinthHash": "f00bfbbb2078119d2ba20bf7ab1b7d8921d39a39"
+  },
+  "Controlling-fabric-1.20.1-12.0.2.jar": {
+    "jarName": "Controlling-fabric-1.20.1-12.0.2.jar",
+    "modId": "controlling",
+    "name": "Controlling For Fabric",
+    "version": "12.0.2",
+    "curseForgeHash": 2424502133,
+    "modrinthHash": "8a61ca1600e33c73598530f1e208bb07081fdcd6"
+  },
+  "CopperandTuffBackport-1.2.jar": {
+    "jarName": "CopperandTuffBackport-1.2.jar",
+    "modId": "copperandtuffbackport",
+    "name": "CopperandTuffBackport",
+    "version": "1.2",
+    "curseForgeHash": 536119999,
+    "modrinthHash": "dc57968ed2f5c8a0f864a71f9822417921a690b5"
+  },
+  "cosmetica-fabric-2.0.1-1.20.1.jar": {
+    "jarName": "cosmetica-fabric-2.0.1-1.20.1.jar",
+    "modId": "cosmetica",
+    "name": "Cosmetica",
+    "version": "2.0.1-1.20.1",
+    "curseForgeHash": 4283144526,
+    "modrinthHash": "53c0a74e2f3e2c7f71ff317c1dbe4d26dd7d63ff"
+  },
+  "CrashAssistant-fabric-1.19-1.20.1-1.11.9.jar": {
+    "jarName": "CrashAssistant-fabric-1.19-1.20.1-1.11.9.jar",
+    "modId": "crash_assistant",
+    "name": "Crash Assistant",
+    "version": "1.11.9",
+    "curseForgeHash": 3026271758,
+    "modrinthHash": "282bcc85874cc653fe5f44b9b8cfc98b911a4457"
+  },
+  "crashexploitfixer-fabric-1.1.0+1.20.1.jar": {
+    "jarName": "crashexploitfixer-fabric-1.1.0+1.20.1.jar",
+    "modId": "crashexploitfixer",
+    "name": "CrashExploitFixer",
+    "version": "1.1.0",
+    "curseForgeHash": 1496623083,
+    "modrinthHash": "9e5a00f412cf288988281e0da37b776a7bc0380b"
+  },
+  "CraterLib-Fabric-1.20-3.0.1.jar": {
+    "jarName": "CraterLib-Fabric-1.20-3.0.1.jar",
+    "modId": "craterlib",
+    "name": "CraterLib",
+    "version": "3.0.1",
+    "curseForgeHash": 2009721886,
+    "modrinthHash": "940a4b9c1f3e99a25cca85a48d5bfdf42fe81ff6"
+  },
+  "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar": {
+    "jarName": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+    "modId": "create",
+    "name": "Create",
+    "version": "6.0.8.1+build.1744-mc1.20.1",
+    "curseForgeHash": 348258636,
+    "modrinthHash": "f750d019bc1230c8c7a8a4ccf549d1db192d7a69"
+  },
+  "create-food-1.20.1-1.1.13-fabric.jar": {
+    "jarName": "create-food-1.20.1-1.1.13-fabric.jar",
+    "modId": "createfood",
+    "name": "Create: Food",
+    "version": "1.1.13",
+    "curseForgeHash": 1729633181,
+    "modrinthHash": "5d6ed0cf611d72c0f8793a22b19a4530892e6dc8"
+  },
+  "create_diamond_factory-1.0.2-1.20.1-fabric.jar": {
+    "jarName": "create_diamond_factory-1.0.2-1.20.1-fabric.jar",
+    "modId": "create_diamond_factory",
+    "name": "Create: Diamond \u0026 Factory",
+    "version": "1.0.2-1.20.1-fabric",
+    "curseForgeHash": 1166896825,
+    "modrinthHash": "643589ec664e145b7ee555f0b2f5695233ea968f"
+  },
+  "create_repair-fabric-1.20.1-1.1.1.jar": {
+    "jarName": "create_repair-fabric-1.20.1-1.1.1.jar",
+    "modId": "create_repair",
+    "name": "Create Repair: Unofficial Create Community Patch",
+    "version": "1.1.1",
+    "curseForgeHash": 2658532236,
+    "modrinthHash": "ba0577ebc288e6b9cbf2b980fb57dfb1023167cf"
+  },
+  "CreateBetterFps-1.1.1.jar": {
+    "jarName": "CreateBetterFps-1.1.1.jar",
+    "modId": "createbetterfps",
+    "name": "CreateBetterFps",
+    "version": "1.1.1",
+    "curseForgeHash": 3532233731,
+    "modrinthHash": "73739bc8abf307021dc23ffec35c6950b1894b36"
+  },
+  "CreativeCore_FABRIC_v2.12.36_mc1.20.1.jar": {
+    "jarName": "CreativeCore_FABRIC_v2.12.36_mc1.20.1.jar",
+    "modId": "creativecore",
+    "name": "CreativeCore",
+    "version": "2.12.36",
+    "curseForgeHash": 2847145205,
+    "modrinthHash": "6861c616b23a1952ab9046c4e37aa487d7a432e7"
+  },
+  "crittersandcompanions-fabric-1.20.1-2.3.5.jar": {
+    "jarName": "crittersandcompanions-fabric-1.20.1-2.3.5.jar",
+    "modId": "crittersandcompanions",
+    "name": "Critters and Companions",
+    "version": "1.20.1-2.3.5",
+    "curseForgeHash": 3555264492,
+    "modrinthHash": "57214ad9519ff18de2eb9755b640def48216a302"
+  },
+  "Croptopia-1.20.1-FABRIC-3.0.4.jar": {
+    "jarName": "Croptopia-1.20.1-FABRIC-3.0.4.jar",
+    "modId": "croptopia",
+    "name": "Croptopia",
+    "version": "3.0.3",
+    "curseForgeHash": 2191288463,
+    "modrinthHash": "2ea5a79912d7ddc72d08328c43f6ea22cf6c409e"
+  },
+  "croptopiadelight-1.0.1.jar": {
+    "jarName": "croptopiadelight-1.0.1.jar",
+    "modId": "croptopiadelight",
+    "name": "Croptopia Delight",
+    "version": "1.0.1",
+    "curseForgeHash": 80542478,
+    "modrinthHash": "fd94902f695f79c02d941845858973e12bc8e24d"
+  },
+  "crystals_overhauled_v2.1.3_FABRIC_1.20.1.jar": {
+    "jarName": "crystals_overhauled_v2.1.3_FABRIC_1.20.1.jar",
+    "modId": "crystals_overhauled",
+    "name": "Crystals Overhauled",
+    "version": "2.1.3",
+    "curseForgeHash": 2601149754,
+    "modrinthHash": "2fd853d781d410cdc15d0984b64965043bf5167f"
+  },
+  "cushypillows-1.0.3+1.20.1.jar": {
+    "jarName": "cushypillows-1.0.3+1.20.1.jar",
+    "modId": "cushypillows",
+    "name": "Cushy Pillows",
+    "version": "1.0.3+1.20.1",
+    "curseForgeHash": 1611115508,
+    "modrinthHash": "904fd687c159f43c36dd11855072e619b6cd1b54"
+  },
+  "darkbindings-fabric-1.20.1-1.4.8.jar": {
+    "jarName": "darkbindings-fabric-1.20.1-1.4.8.jar",
+    "modId": "darkbindings",
+    "name": "DarkBindings - Custom Recipes",
+    "version": "1.3.9",
+    "curseForgeHash": 3795033641,
+    "modrinthHash": "5d4217364c06a060c3287fde71d88eaa28e1cb58"
+  },
+  "darkblades-fabric-1.20.1-1.2.3.jar": {
+    "jarName": "darkblades-fabric-1.20.1-1.2.3.jar",
+    "modId": "darkblades",
+    "name": "DarkBlades - End Game Weapons",
+    "version": "1.2.3",
+    "curseForgeHash": 934056085,
+    "modrinthHash": "904e5349083cdfe3ae0279e033d25b655db61163"
+  },
+  "darkbosses-fabric-1.20.1-1.0.4.jar": {
+    "jarName": "darkbosses-fabric-1.20.1-1.0.4.jar",
+    "modId": "darkbosses",
+    "name": "DarkBosses - Boss Advancements",
+    "version": "1.0.4",
+    "curseForgeHash": 3146382081,
+    "modrinthHash": "268e8c9038b6bcb4a46de9161e0b1fd7211ccc1d"
+  },
+  "darkbread-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "darkbread-fabric-1.20.1-1.0.0.jar",
+    "modId": "darkbread",
+    "name": "DarkBread",
+    "version": "1.0.0",
+    "curseForgeHash": 1196489651,
+    "modrinthHash": "809fc94d04b2cc052a93d087c8fd8091cef7e1a5"
+  },
+  "darkcap-fabric-1.20.1-1.1.5.jar": {
+    "jarName": "darkcap-fabric-1.20.1-1.1.5.jar",
+    "modId": "darkcap",
+    "name": "DarkCap - Cap Your XP!",
+    "version": "1.1.5",
+    "curseForgeHash": 1142444655,
+    "modrinthHash": "b36cad6cb18b935752e2b84da21b0e02a8359762"
+  },
+  "darkcasino-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "darkcasino-fabric-1.20.1-1.0.0.jar",
+    "modId": "darkcasino",
+    "name": "DarkCasino - RPG Casino",
+    "version": "1.0.0",
+    "curseForgeHash": 3748519264,
+    "modrinthHash": "a57b5e1a97d89fa0641af2b61b787b86955f889b"
+  },
+  "darkchidori-fabric-1.20.1-1.0.8.jar": {
+    "jarName": "darkchidori-fabric-1.20.1-1.0.8.jar",
+    "modId": "darkchidori",
+    "name": "Dark Chidori Origin",
+    "version": "1.0.8",
+    "curseForgeHash": 789870966,
+    "modrinthHash": "45599eb3403a26ed7c8bde5c8c8963b4583f1d78"
+  },
+  "darkdeath-fabric-1.20.1-1.1.2.jar": {
+    "jarName": "darkdeath-fabric-1.20.1-1.1.2.jar",
+    "modId": "darkdeath",
+    "name": "DarkDeath - Trigger Death Command",
+    "version": "1.1.2",
+    "curseForgeHash": 1575398341,
+    "modrinthHash": "b9468418458a09b2b1e07798c1a13b92b8a199db"
+  },
+  "darkfeather-fabric-1.20.1-1.0.2.jar": {
+    "jarName": "darkfeather-fabric-1.20.1-1.0.2.jar",
+    "modId": "darkfeather",
+    "name": "DarkFeather - Golden Feather",
+    "version": "1.0.2",
+    "curseForgeHash": 3740429659,
+    "modrinthHash": "cd116fb101354ee4b7b2822f39a90a731553d66d"
+  },
+  "darkflight-fabric-1.20.1-1.1.6.jar": {
+    "jarName": "darkflight-fabric-1.20.1-1.1.6.jar",
+    "modId": "darkflight",
+    "name": "DarkFlight - Simple Jetpack",
+    "version": "1.1.6",
+    "curseForgeHash": 2926492206,
+    "modrinthHash": "0a014a6c04d28abff6cd25aabf119693fdf0220f"
+  },
+  "darkglint-fabric-1.20.1-1.1.2.jar": {
+    "jarName": "darkglint-fabric-1.20.1-1.1.2.jar",
+    "modId": "darkglint",
+    "name": "DarkGlint - Enchantment Glint",
+    "version": "1.1.2",
+    "curseForgeHash": 2835933091,
+    "modrinthHash": "782f0154ad0dbb6608ed009393c48cef5af53200"
+  },
+  "darkheads-fabric-1.20.1-1.1.3.jar": {
+    "jarName": "darkheads-fabric-1.20.1-1.1.3.jar",
+    "modId": "darkheads",
+    "name": "DarkHeads- Player Heads",
+    "version": "1.1.3",
+    "curseForgeHash": 731816003,
+    "modrinthHash": "30ec0499affe786d987341d3a2f32aa076c3862d"
+  },
+  "darkinventory-fabric-1.20.1-1.1.4.jar": {
+    "jarName": "darkinventory-fabric-1.20.1-1.1.4.jar",
+    "modId": "darkinventory",
+    "name": "DarkInventory - Keep Inventory On",
+    "version": "1.1.4",
+    "curseForgeHash": 456627793,
+    "modrinthHash": "f29fdceda42c2c230e4a0537ed2771fc55c86b10"
+  },
+  "darkirondwarf-fabric-1.20.1-1.0.1.jar": {
+    "jarName": "darkirondwarf-fabric-1.20.1-1.0.1.jar",
+    "modId": "darkirondwarf",
+    "name": "Dark Iron Dwarf",
+    "version": "1.0.0",
+    "curseForgeHash": 1391611345,
+    "modrinthHash": "3ba8581dd283a362069b1df160d333b2c113ddc0"
+  },
+  "darkloot-fabric-1.20.1-1.2.6a.jar": {
+    "jarName": "darkloot-fabric-1.20.1-1.2.6a.jar",
+    "modId": "darkloot",
+    "name": "DarkLoot - Better Mob Loot",
+    "version": "1.2.6",
+    "curseForgeHash": 2133311085,
+    "modrinthHash": "d87504280d5738abd83935d726fddeeaa5c93bb7"
+  },
+  "darkmenu-fabric-1.20.1-1.1.9.jar": {
+    "jarName": "darkmenu-fabric-1.20.1-1.1.9.jar",
+    "modId": "darkmenu",
+    "name": "DarkMenu - DarkRPG Legacy Menu",
+    "version": "1.1.9",
+    "curseForgeHash": 1958386565,
+    "modrinthHash": "f4f2b8f2261fa84a2f6e332f5ea0db32d59c1e44"
+  },
+  "darkmining-fabric-1.20.1-1.1.8.jar": {
+    "jarName": "darkmining-fabric-1.20.1-1.1.8.jar",
+    "modId": "darkmining",
+    "name": "DarkMining - Better Block Drops",
+    "version": "1.1.8",
+    "curseForgeHash": 1645407911,
+    "modrinthHash": "043cc0fb871a1e0420255b7e3889a512f71e429d"
+  },
+  "darkmobs-fabric-1.20.1-1.1.9a.jar": {
+    "jarName": "darkmobs-fabric-1.20.1-1.1.9a.jar",
+    "modId": "darkmobs",
+    "name": "DarkMobs - Increase Mob Difficulty",
+    "version": "1.1.9",
+    "curseForgeHash": 3054039425,
+    "modrinthHash": "5cb9184366799a6437ce1024c17a77e99a70799b"
+  },
+  "darkorb-fabric-1.20.1-1.0.4.jar": {
+    "jarName": "darkorb-fabric-1.20.1-1.0.4.jar",
+    "modId": "darkorb",
+    "name": "DarkOrb - Orb of Origin Recipes",
+    "version": "1.0.4",
+    "curseForgeHash": 2919430867,
+    "modrinthHash": "4897a6d6c9e831cda88e390aebba9176aaf79172"
+  },
+  "darkquesting-fabric-1.20.1-1.2.4b.jar": {
+    "jarName": "darkquesting-fabric-1.20.1-1.2.4b.jar",
+    "modId": "darkquesting",
+    "name": "DarkQuesting - A Quest Mod",
+    "version": "1.2.4",
+    "curseForgeHash": 2612643614,
+    "modrinthHash": "e9c71ce6d19af169abdebcd4a3c6248cbc70a4e4"
+  },
+  "darkrewards-fabric-1.20.1-1.1.6.jar": {
+    "jarName": "darkrewards-fabric-1.20.1-1.1.6.jar",
+    "modId": "darkrewards",
+    "name": "DarkRewards - Item Rewards",
+    "version": "1.1.6",
+    "curseForgeHash": 3261060834,
+    "modrinthHash": "7d70f4f62fce5dc3aed2f3fd2207777ecc96ab5e"
+  },
+  "darkrtp-fabric-1.20.1-1.1.7.jar": {
+    "jarName": "darkrtp-fabric-1.20.1-1.1.7.jar",
+    "modId": "darkrtp",
+    "name": "DarkRTP - RTP Teleport",
+    "version": "1.1.7",
+    "curseForgeHash": 1673717447,
+    "modrinthHash": "e5b90cb9fdf37f88dfddc25eb160988729bd56b6"
+  },
+  "darksleep-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "darksleep-fabric-1.20.1-1.0.0.jar",
+    "modId": "darksleep",
+    "name": "DarkSleep - Change Player Sleep Percentage",
+    "version": "1.0.0",
+    "curseForgeHash": 3780467884,
+    "modrinthHash": "68bca9999bd3f1f2bdde2253ba959192daf4fcfa"
+  },
+  "darksmelting-fabric-1.20.1-1.1.3.jar": {
+    "jarName": "darksmelting-fabric-1.20.1-1.1.3.jar",
+    "modId": "darksmelting",
+    "name": "DarkSmelting - Smelt Armor and Tools",
+    "version": "1.1.3",
+    "curseForgeHash": 4078503586,
+    "modrinthHash": "d109ba441c59e6a956c96472a0cbcc4b0615d8d7"
+  },
+  "darksmithing-fabric-1.20.1-1.1.2.jar": {
+    "jarName": "darksmithing-fabric-1.20.1-1.1.2.jar",
+    "modId": "darksmithing",
+    "name": "DarkSmithing - Smithing Template Recipes (for Trims)",
+    "version": "1.1.2",
+    "curseForgeHash": 1455867394,
+    "modrinthHash": "f63664be43351195134ebebb6560d2ec3753c6f9"
+  },
+  "darkspawn-fabric-1.20.1-1.1.9.jar": {
+    "jarName": "darkspawn-fabric-1.20.1-1.1.9.jar",
+    "modId": "darkspawn",
+    "name": "DarkSpawn - Teleport to Spawn",
+    "version": "1.1.9",
+    "curseForgeHash": 1164405071,
+    "modrinthHash": "715e2548f756a48821ff533a5eda4b380b76e6a5"
+  },
+  "darkspins-fabric-1.20.1-1.2.0b.jar": {
+    "jarName": "darkspins-fabric-1.20.1-1.2.0b.jar",
+    "modId": "darkspins",
+    "name": "DarkSpins - XP Casino",
+    "version": "1.2.0",
+    "curseForgeHash": 4051957360,
+    "modrinthHash": "9cb1da380a572e41598045be920bb3b5d8e808c8"
+  },
+  "darkstarter-fabric-1.20.1-1.1.4.jar": {
+    "jarName": "darkstarter-fabric-1.20.1-1.1.4.jar",
+    "modId": "darkstarter",
+    "name": "DarkStarter - Starter Items",
+    "version": "1.1.4",
+    "curseForgeHash": 1566561593,
+    "modrinthHash": "f3693eba51172ba6b18be311043d4d91d71c4d14"
+  },
+  "darktides-fabric-1.20.1-1.1.9a.jar": {
+    "jarName": "darktides-fabric-1.20.1-1.1.9a.jar",
+    "modId": "darktides",
+    "name": "DarkTides - Breathe Underwater",
+    "version": "1.1.9",
+    "curseForgeHash": 215399406,
+    "modrinthHash": "4e66b51931465a69a193da4698145be91b7a6f74"
+  },
+  "darktimer-fabric-1.20.1-1.1.9.jar": {
+    "jarName": "darktimer-fabric-1.20.1-1.1.9.jar",
+    "modId": "darktimer",
+    "name": "DarkTimer - Clear Entity Lag",
+    "version": "1.1.9",
+    "curseForgeHash": 171695942,
+    "modrinthHash": "e4cbdbfda5e076eb7ded298defff55b004d64e4c"
+  },
+  "darkunbug-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "darkunbug-fabric-1.20.1-1.0.0.jar",
+    "modId": "allow-editing-player-data",
+    "name": "DarkUnbug",
+    "version": "1.0.0",
+    "curseForgeHash": 1868566135,
+    "modrinthHash": "b794913384def09397af5dded3ed8659d8009e0a"
+  },
+  "darkwooly-fabric-1.20.1-1.1.3.jar": {
+    "jarName": "darkwooly-fabric-1.20.1-1.1.3.jar",
+    "modId": "darkwooly",
+    "name": "DarkWooly - Get More Wool",
+    "version": "1.1.3",
+    "curseForgeHash": 2873885570,
+    "modrinthHash": "3bb8732cbdfa44ac1f082f1041a8cff09e9a49c7"
+  },
+  "darkzoom-fabric-1.20.1-1.0.6.jar": {
+    "jarName": "darkzoom-fabric-1.20.1-1.0.6.jar",
+    "modId": "darkzoom",
+    "name": "DarkZoom - Simplest Zoom",
+    "version": "1.0.6",
+    "curseForgeHash": 1213437669,
+    "modrinthHash": "fd0509c7407b7e216a40929738e863375797e113"
+  },
+  "death_knights-fabric-1.0.0-1.20.1.jar": {
+    "jarName": "death_knights-fabric-1.0.0-1.20.1.jar",
+    "modId": "death_knights",
+    "name": "Death Knights",
+    "version": "1.0.0",
+    "curseForgeHash": 2962556237,
+    "modrinthHash": "61511112de79a2e712b9a7520e9b7807ad19c190"
+  },
+  "default_skill_trees-1.1.jar": {
+    "jarName": "default_skill_trees-1.1.jar",
+    "modId": "default_skill_trees",
+    "name": "Default Skill Trees",
+    "version": "1.1",
+    "curseForgeHash": 4236465901,
+    "modrinthHash": "564a1320a4d26de1ad476687ce1920ccd12c142c"
+  },
+  "diamondeconomy-1.5.6.jar": {
+    "jarName": "diamondeconomy-1.5.6.jar",
+    "modId": "diamondeconomy",
+    "name": "Diamond Economy",
+    "version": "1.5.6",
+    "curseForgeHash": 499092535,
+    "modrinthHash": "98fd71fa92cef0764c8cb992e11d2153badac988"
+  },
+  "diamondsauctionhouse-1.1.5+1.20.jar": {
+    "jarName": "diamondsauctionhouse-1.1.5+1.20.jar",
+    "modId": "diamondsauctionhouse",
+    "name": "Diamond Auction House",
+    "version": "1.1.5+1.20",
+    "curseForgeHash": 1597312784,
+    "modrinthHash": "41ed33445661e44368bffa2ac40c9bef4e9a3fb2"
+  },
+  "DoggyTalentsNext[Fabric]-1.20.1-1.18.46.jar": {
+    "jarName": "DoggyTalentsNext[Fabric]-1.20.1-1.18.46.jar",
+    "modId": "doggytalents",
+    "name": "Doggy Talents Next",
+    "version": "1.18.46",
+    "curseForgeHash": 1156366183,
+    "modrinthHash": "5b6b75c7ea571618cdc9cc48a75fa8794fe098c4"
+  },
+  "doublejumpattribute-1.0.9.jar": {
+    "jarName": "doublejumpattribute-1.0.9.jar",
+    "modId": "doublejumpattribute",
+    "name": "Double Jump Attribute",
+    "version": "1.0.9",
+    "curseForgeHash": 3038052380,
+    "modrinthHash": "6d22e2f4e9579bc72f0d36fae78b15611a9d5b61"
+  },
+  "dragonloot-1.1.4.jar": {
+    "jarName": "dragonloot-1.1.4.jar",
+    "modId": "dragonloot",
+    "name": "DragonLoot",
+    "version": "1.1.4",
+    "curseForgeHash": 190933508,
+    "modrinthHash": "831e2ac7ed00b3addf8fe592bcac704e62450e21"
+  },
+  "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar": {
+    "jarName": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+    "modId": "dramaticdoors",
+    "name": "Dramatic Doors (QuiFabrge)",
+    "version": "1.20.1-3.3.3",
+    "curseForgeHash": 3942619337,
+    "modrinthHash": "26be5d33ff11263476fdff781b48a13208b22fa1"
+  },
+  "druids-0.9.8.0.jar": {
+    "jarName": "druids-0.9.8.0.jar",
+    "modId": "druids",
+    "name": "Druids of Storm and Spirit",
+    "version": "0.9.8.0",
+    "curseForgeHash": 372406010,
+    "modrinthHash": "80697ff36e46c0fb2b5e0579e147bd0503ff455c"
+  },
+  "dummmmmmy-1.20-2.0.8-fabric.jar": {
+    "jarName": "dummmmmmy-1.20-2.0.8-fabric.jar",
+    "modId": "dummmmmmy",
+    "name": "MmmMmmMmmMmm",
+    "version": "1.20-2.0.8",
+    "curseForgeHash": 2916042952,
+    "modrinthHash": "dc8efc52f45f36ad23a8ce9143eaa2e521e34daf"
+  },
+  "DungeonsArise-1.20.x-2.1.58-fabric-release.jar": {
+    "jarName": "DungeonsArise-1.20.x-2.1.58-fabric-release.jar",
+    "modId": "dungeons_arise",
+    "name": "When Dungeons Arise",
+    "version": "2.1.58",
+    "curseForgeHash": 2664792706,
+    "modrinthHash": "9a10b4e3b7b3f69bd9a2ff1560fe0a22d87d9f09"
+  },
+  "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar": {
+    "jarName": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+    "modId": "dungeons_arise_seven_seas",
+    "name": "When Dungeons Arise: Seven Seas",
+    "version": "1.0.2",
+    "curseForgeHash": 82524464,
+    "modrinthHash": "f71f5c74875e036cc697370c3088e2bee68fd25c"
+  },
+  "Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar": {
+    "jarName": "Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar",
+    "modId": "eldritch_end",
+    "name": "Eldritch End",
+    "version": "0.3.4",
+    "curseForgeHash": 1465740887,
+    "modrinthHash": "ee250b9796fa3af0396adc5ff8de8ec1931cf6fc"
+  },
+  "elemental_wizards_rpg-1.3.6-1.20.1.jar": {
+    "jarName": "elemental_wizards_rpg-1.3.6-1.20.1.jar",
+    "modId": "elemental_wizards_rpg",
+    "name": "Elemental Wizards (RPG Class)",
+    "version": "1.3.6-1.20.1",
+    "curseForgeHash": 927489055,
+    "modrinthHash": "2b68cc6ceb563c22de84d3e549adf796ae9e4935"
+  },
+  "elytraslot-fabric-6.4.4+1.20.1.jar": {
+    "jarName": "elytraslot-fabric-6.4.4+1.20.1.jar",
+    "modId": "elytraslot",
+    "name": "Elytra Slot",
+    "version": "6.4.4+1.20.1",
+    "curseForgeHash": 3943521273,
+    "modrinthHash": "1c8ac3502cb72cd76a804fa7ee31ea535de0bcdf"
+  },
+  "emi-1.1.22+1.20.1+fabric.jar": {
+    "jarName": "emi-1.1.22+1.20.1+fabric.jar",
+    "modId": "emi",
+    "name": "EMI",
+    "version": "1.1.22+1.20.1+fabric",
+    "curseForgeHash": 1111485060,
+    "modrinthHash": "968357a16a878d1a0a2063d1d2dfc5eb2ae3ac3b"
+  },
+  "emi_loot-0.7.9+1.20.1+fabric.jar": {
+    "jarName": "emi_loot-0.7.9+1.20.1+fabric.jar",
+    "modId": "emi_loot",
+    "name": "EMI Loot",
+    "version": "0.7.9+1.20.1+fabric",
+    "curseForgeHash": 2874236853,
+    "modrinthHash": "b968b5a439b12d2b70dbeb1141b574c88e1c5f95"
+  },
+  "emitrades-fabric-1.2.1+mc1.20.1.jar": {
+    "jarName": "emitrades-fabric-1.2.1+mc1.20.1.jar",
+    "modId": "emitrades",
+    "name": "EMI Trades",
+    "version": "1.2.1+mc1.20.1",
+    "curseForgeHash": 3399349697,
+    "modrinthHash": "72b51627c09e539e9f6194fc5aad862ff5f09461"
+  },
+  "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar": {
+    "jarName": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+    "modId": "emotecraft",
+    "name": "Emotecraft",
+    "version": "2.2.7-b.build.50",
+    "curseForgeHash": 696647992,
+    "modrinthHash": "222c93e8a63a6b486f223714a5b20b2e0f206954"
+  },
+  "enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar": {
+    "jarName": "enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+    "modId": "evs",
+    "name": "Enchanted Vertical Slabs",
+    "version": "2.2.1-backport1.20.1",
+    "curseForgeHash": 760771231,
+    "modrinthHash": "a3da82b5bc47cd8940cde546d37ffe017547ec2b"
+  },
+  "EnchantedToolTips-1.3.7-1.20.jar": {
+    "jarName": "EnchantedToolTips-1.3.7-1.20.jar",
+    "modId": "enchantedtooltips",
+    "name": "Enchanted ToolTips",
+    "version": "1.3.7-1.20",
+    "curseForgeHash": 1293540970,
+    "modrinthHash": "2aa0abc7ac306e627b7f846b82b52d671aff3276"
+  },
+  "EnderZoology-v8.0.3-1.20.1-Fabric.jar": {
+    "jarName": "EnderZoology-v8.0.3-1.20.1-Fabric.jar",
+    "modId": "enderzoology",
+    "name": "Ender Zoology",
+    "version": "8.0.3",
+    "curseForgeHash": 1386249139,
+    "modrinthHash": "729e5c8c61c434b3f476a779c97889777b9b1402"
+  },
+  "enhancedblockentities-0.9+1.20.jar": {
+    "jarName": "enhancedblockentities-0.9+1.20.jar",
+    "modId": "enhancedblockentities",
+    "name": "Enhanced Block Entities",
+    "version": "0.9+1.20",
+    "curseForgeHash": 2842999336,
+    "modrinthHash": "61cfe50f69f8ef9e3640c0269ef158870f5b0410"
+  },
+  "EpheroLib-1.20.1-FABRIC-1.2.0.jar": {
+    "jarName": "EpheroLib-1.20.1-FABRIC-1.2.0.jar",
+    "modId": "epherolib",
+    "name": "EpheroLib",
+    "version": "1.2.0",
+    "curseForgeHash": 2323599747,
+    "modrinthHash": "5a54bffb127857fe0d62a8708c5789db49ad71fd"
+  },
+  "eternal_attributes-fabric-1.0.0-1.20.1.jar": {
+    "jarName": "eternal_attributes-fabric-1.0.0-1.20.1.jar",
+    "modId": "eternal_attributes",
+    "name": "Eternal Attributes",
+    "version": "1.0.0",
+    "curseForgeHash": 3529921088,
+    "modrinthHash": "b256a1e8c45eba5e576b0b8165b0e9cf90024f0f"
+  },
+  "ExplorersCompass-1.20.1-2.6.0-fabric.jar": {
+    "jarName": "ExplorersCompass-1.20.1-2.6.0-fabric.jar",
+    "modId": "explorerscompass",
+    "name": "Explorer\u0027s Compass",
+    "version": "1.20.1-2.6.0-fabric",
+    "curseForgeHash": 702244988,
+    "modrinthHash": "b24709f8ac486a5107532a9f572cefcf28298598"
+  },
+  "expores-1.0.0+mc1.20.1.jar": {
+    "jarName": "expores-1.0.0+mc1.20.1.jar",
+    "modId": "expores",
+    "name": "Exp Ores",
+    "version": "1.0.0+mc1.20.1",
+    "curseForgeHash": 4166233644,
+    "modrinthHash": "cf714fe23103a6b462bf1ab7753872c9dd15fcd2"
+  },
+  "exposure-fabric-1.20.1-1.9.20.jar": {
+    "jarName": "exposure-fabric-1.20.1-1.9.20.jar",
+    "modId": "exposure",
+    "name": "Exposure",
+    "version": "1.9.20",
+    "curseForgeHash": 2383045934,
+    "modrinthHash": "7f76eeac53b2a7a26d52c3023e983ad41a57900b"
+  },
+  "exposure_catalog-fabric-1.20.1-1.1.1.jar": {
+    "jarName": "exposure_catalog-fabric-1.20.1-1.1.1.jar",
+    "modId": "exposure_catalog",
+    "name": "Exposure Catalog",
+    "version": "1.1.1",
+    "curseForgeHash": 535084539,
+    "modrinthHash": "cd6869d9f29e4aaed2f4d25fc46f2c5c57e3af38"
+  },
+  "exposure_chests-1.3-fabric-1.20.1.jar": {
+    "jarName": "exposure_chests-1.3-fabric-1.20.1.jar",
+    "modId": "exposure_chests",
+    "name": "Exposure Chests",
+    "version": "1.3",
+    "curseForgeHash": 2162126900,
+    "modrinthHash": "ae29bce1882a9240974547848b4e70354c4a8f12"
+  },
+  "exposure_polaroid-fabric-1.20.1-1.1.4.jar": {
+    "jarName": "exposure_polaroid-fabric-1.20.1-1.1.4.jar",
+    "modId": "exposure_polaroid",
+    "name": "Exposure Polaroid",
+    "version": "1.1.4",
+    "curseForgeHash": 3505736942,
+    "modrinthHash": "c35c8af32c4b7e153d26f3ec6c2a8a31d3ebab27"
+  },
+  "extrakeybinds-0.5.0+1.17-1.19.4.jar": {
+    "jarName": "extrakeybinds-0.5.0+1.17-1.19.4.jar",
+    "modId": "extrakeybinds",
+    "name": "ThatRobins Extra Origins Keybinds",
+    "version": "0.5.0+1.17-1.19.4",
+    "curseForgeHash": 300393867,
+    "modrinthHash": "8443586048b6e43253bb05a0db10b52becc6faf2"
+  },
+  "extraorigins-1.20-8.jar": {
+    "jarName": "extraorigins-1.20-8.jar",
+    "modId": "extraorigins",
+    "name": "Extra Origins",
+    "version": "1.20-8",
+    "curseForgeHash": 2030190541,
+    "modrinthHash": "fc82b9fc86ed9be11d6d47ae117e2d9c5bcd47b0"
+  },
+  "extraspellattributes-1.3.2.jar": {
+    "jarName": "extraspellattributes-1.3.2.jar",
+    "modId": "extraspellattributes",
+    "name": "Extra RPG Attributes",
+    "version": "1.3.2",
+    "curseForgeHash": 3260785644,
+    "modrinthHash": "d385d6b2cac6b45da39f7d2c8e8c733e70f2ca04"
+  },
+  "extrasponges-1.5.0.jar": {
+    "jarName": "extrasponges-1.5.0.jar",
+    "modId": "extrasponges",
+    "name": "ExtraSponges",
+    "version": "1.5.0",
+    "curseForgeHash": 1568124916,
+    "modrinthHash": "80fffc15ee3a609ca1c5c55c962bfbd2ee2ed8b2"
+  },
+  "fabric-api-0.92.8+1.20.1.jar": {
+    "jarName": "fabric-api-0.92.8+1.20.1.jar",
+    "modId": "fabric-api",
+    "name": "Fabric API",
+    "version": "0.92.8+1.20.1",
+    "curseForgeHash": 2423979846,
+    "modrinthHash": "a563c74897cb0391cb754c7b16971f747d270ff1"
+  },
+  "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar": {
+    "jarName": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+    "modId": "fabric-language-kotlin",
+    "name": "Fabric Language Kotlin",
+    "version": "1.13.11+kotlin.2.3.21",
+    "curseForgeHash": 3596689969,
+    "modrinthHash": "b6190b247c557c493dc4204121744f289a1d1837"
+  },
+  "fabric-seasons-2.4.2-BETA+1.20.jar": {
+    "jarName": "fabric-seasons-2.4.2-BETA+1.20.jar",
+    "modId": "seasons",
+    "name": "Fabric Seasons",
+    "version": "2.4.2-BETA+1.20",
+    "curseForgeHash": 2588283336,
+    "modrinthHash": "635c16010a0e9003c99154b15dfc53ac0d28fd3b"
+  },
+  "fabric-seasons-croptopia-2.2.2-compat-1.0.jar": {
+    "jarName": "fabric-seasons-croptopia-2.2.2-compat-1.0.jar",
+    "modId": "seasonscroptopiacompat",
+    "name": "Fabric Seasons: Croptopia Compat",
+    "version": "1.0-2.2.2",
+    "curseForgeHash": 2719062891,
+    "modrinthHash": "561fa88280b3f6e7d716fd592faa4cdabd93eb93"
+  },
+  "fabric-seasons-delight-1.3.9-compat-1.0.jar": {
+    "jarName": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
+    "modId": "seasonsdelightcompat",
+    "name": "Fabric Seasons: Delight Compat",
+    "version": "1.0-1.3.9",
+    "curseForgeHash": 3366170014,
+    "modrinthHash": "21d5240e95a5cdda5b33a77f24ab35a3ee4569c8"
+  },
+  "fabric-seasons-extras-1.3.2-BETA+1.20.jar": {
+    "jarName": "fabric-seasons-extras-1.3.2-BETA+1.20.jar",
+    "modId": "seasonsextras",
+    "name": "Fabric Seasons: Extras",
+    "version": "1.3.2-BETA+1.20",
+    "curseForgeHash": 1482704385,
+    "modrinthHash": "492b0c0c60068544926ea3a6c4f5c24fb85d7553"
+  },
+  "fakerlib-0.1.5.jar": {
+    "jarName": "fakerlib-0.1.5.jar",
+    "modId": "fakerlib",
+    "name": "fakerlib",
+    "version": "0.1.5",
+    "curseForgeHash": 1844679495,
+    "modrinthHash": "1a7092b7986ebba46dbbfd7f7facb6401b57757a"
+  },
+  "fancyframes-fabric-1.20.1-1.0.1.jar": {
+    "jarName": "fancyframes-fabric-1.20.1-1.0.1.jar",
+    "modId": "fancyframes",
+    "name": "Fancy Frames",
+    "version": "1.0.1",
+    "curseForgeHash": 3543240194,
+    "modrinthHash": "c596d7cd4eec3e2476f36658c8be02ea9b030aba"
+  },
+  "FarmersDelight-1.20.1-2.4.1+refabricated.jar": {
+    "jarName": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+    "modId": "farmersdelight",
+    "name": "Farmer\u0027s Delight",
+    "version": "1.20.1-2.4.1+refabricated",
+    "curseForgeHash": 3311199603,
+    "modrinthHash": "b8dded252730b2d47655813dde9d743785c0b107"
+  },
+  "fastboot-1.20.x-1.2fabric.jar": {
+    "jarName": "fastboot-1.20.x-1.2fabric.jar",
+    "modId": "fastboot",
+    "name": "FastBoot",
+    "version": "1.2-fabric",
+    "curseForgeHash": 1962038261,
+    "modrinthHash": "72c11409a1c70c787ffb66329a87b21ba27ad4bd"
+  },
+  "fastpaintings-1.20-1.2.7-fabric.jar": {
+    "jarName": "fastpaintings-1.20-1.2.7-fabric.jar",
+    "modId": "fastpaintings",
+    "name": "Fast Paintings",
+    "version": "1.20-1.2.7",
+    "curseForgeHash": 500536338,
+    "modrinthHash": "cc967836211a3e3b511486670bba712aab43df91"
+  },
+  "ferritecore-6.0.1-fabric.jar": {
+    "jarName": "ferritecore-6.0.1-fabric.jar",
+    "modId": "ferritecore",
+    "name": "FerriteCore",
+    "version": "6.0.1",
+    "curseForgeHash": 2896907526,
+    "modrinthHash": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
+  },
+  "forcecrawl-fabric-1.20-1.0.4.jar": {
+    "jarName": "forcecrawl-fabric-1.20-1.0.4.jar",
+    "modId": "forcecrawl",
+    "name": "Force Crawl",
+    "version": "1.0.4",
+    "curseForgeHash": 2260113163,
+    "modrinthHash": "c4026a44f6592a5ebe112e6c0dc7282d2fbb4085"
+  },
+  "forcemaster-class-mod-1.2.6-1.20.1.jar": {
+    "jarName": "forcemaster-class-mod-1.2.6-1.20.1.jar",
+    "modId": "forcemaster_rpg",
+    "name": "Forcemaster Class Mod",
+    "version": "1.2.6-1.20.1",
+    "curseForgeHash": 1863559180,
+    "modrinthHash": "f6f069e151a23a3772d23fc42b229ee515bc116a"
+  },
+  "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar": {
+    "jarName": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+    "modId": "forgeconfigapiport",
+    "name": "Forge Config API Port",
+    "version": "8.0.3",
+    "curseForgeHash": 2938757620,
+    "modrinthHash": "41f146d16a37f62e84e60cab226058d1a87f9cec"
+  },
+  "ForgeConfigScreens-v8.0.2-1.20.1-Fabric.jar": {
+    "jarName": "ForgeConfigScreens-v8.0.2-1.20.1-Fabric.jar",
+    "modId": "forgeconfigscreens",
+    "name": "Forge Config Screens",
+    "version": "8.0.2",
+    "curseForgeHash": 1436709736,
+    "modrinthHash": "d10defe8ab8ebf93c6adf33ab36bb9dc4e82b825"
+  },
+  "forgivingvoid-fabric-1.20.1-10.0.3.jar": {
+    "jarName": "forgivingvoid-fabric-1.20.1-10.0.3.jar",
+    "modId": "forgivingvoid",
+    "name": "Forgiving Void",
+    "version": "10.0.3",
+    "curseForgeHash": 836767368,
+    "modrinthHash": "8a743881627fc099cb9a3a686a06b10c92085c63"
+  },
+  "framework-fabric-1.20.1-0.8.0.jar": {
+    "jarName": "framework-fabric-1.20.1-0.8.0.jar",
+    "modId": "framework",
+    "name": "Framework",
+    "version": "0.8.0",
+    "curseForgeHash": 180329781,
+    "modrinthHash": "e7e5ef024c2e8f9cdbae960a31de972f405d47e7"
+  },
+  "ftb-library-fabric-2001.2.12.jar": {
+    "jarName": "ftb-library-fabric-2001.2.12.jar",
+    "modId": "ftblibrary",
+    "name": "FTB Library",
+    "version": "2001.2.12",
+    "curseForgeHash": 333504375,
+    "modrinthHash": "974823aa0fcb3420cae1e7a0148469672d0bc186"
+  },
+  "ftb-quests-fabric-2001.4.21.jar": {
+    "jarName": "ftb-quests-fabric-2001.4.21.jar",
+    "modId": "ftbquests",
+    "name": "FTB Quests",
+    "version": "2001.4.21",
+    "curseForgeHash": 476110738,
+    "modrinthHash": "77514da99f63b117ba76665a3b4d94fc1e521de0"
+  },
+  "ftb-teams-fabric-2001.3.2.jar": {
+    "jarName": "ftb-teams-fabric-2001.3.2.jar",
+    "modId": "ftbteams",
+    "name": "FTB Teams",
+    "version": "2001.3.2",
+    "curseForgeHash": 3109380051,
+    "modrinthHash": "fcfc1afb1aef5a7878f56a09868b9b6a74bf841b"
+  },
+  "ftb-ultimine-fabric-2001.1.8.jar": {
+    "jarName": "ftb-ultimine-fabric-2001.1.8.jar",
+    "modId": "ftbultimine",
+    "name": "FTB Ultimine",
+    "version": "2001.1.8",
+    "curseForgeHash": 3495027635,
+    "modrinthHash": "3c4a0cd9129034cd25f85535b02efeaf8eb9b3ba"
+  },
+  "full-slabs-3.4.0.jar": {
+    "jarName": "full-slabs-3.4.0.jar",
+    "modId": "full_slabs",
+    "name": "FullSlabs",
+    "version": "3.4.0",
+    "curseForgeHash": 2834833317,
+    "modrinthHash": "0f2e0316b56096389e8167308536b574dc52d2f3"
+  },
+  "fzzy_config-0.7.6+1.20.1.jar": {
+    "jarName": "fzzy_config-0.7.6+1.20.1.jar",
+    "modId": "fzzy_config",
+    "name": "Fzzy Config",
+    "version": "0.7.6+1.20.1",
+    "curseForgeHash": 1045887984,
+    "modrinthHash": "86a3f59b61583527f222c6fc2d7fcef555e1ac56"
+  },
+  "fzzy_core-0.5.1+1.20.1.jar": {
+    "jarName": "fzzy_core-0.5.1+1.20.1.jar",
+    "modId": "fzzy_core",
+    "name": "Fzzy Core",
+    "version": "0.5.1+1.20.1",
+    "curseForgeHash": 3277403665,
+    "modrinthHash": "72b76630165621f8c268af7356a3c4f9c25dbc20"
+  },
+  "gazebo-1.1.1+1.20.1.jar": {
+    "jarName": "gazebo-1.1.1+1.20.1.jar",
+    "modId": "gazebo",
+    "name": "Gazebos",
+    "version": "1.1.1+1.20.1",
+    "curseForgeHash": 1242574374,
+    "modrinthHash": "e8a341fc5db0d62bc82995adcecfd6404f3c4a0e"
+  },
+  "gear_core-0.3.8+1.20.1.jar": {
+    "jarName": "gear_core-0.3.8+1.20.1.jar",
+    "modId": "gear_core",
+    "name": "Gear Core",
+    "version": "0.3.8+1.20.1",
+    "curseForgeHash": 1133595096,
+    "modrinthHash": "39414965a1c421adf04f75b0ff9093f8ef926849"
+  },
+  "geckolib-fabric-1.20.1-4.8.3.jar": {
+    "jarName": "geckolib-fabric-1.20.1-4.8.3.jar",
+    "modId": "geckolib",
+    "name": "GeckoLib 4",
+    "version": "4.8.3",
+    "curseForgeHash": 1249272985,
+    "modrinthHash": "4ed1ca003d1ba6c48bace04ba5797616854157a1"
+  },
+  "geode_plus-fabric-1.2.5-1.20.1.jar": {
+    "jarName": "geode_plus-fabric-1.2.5-1.20.1.jar",
+    "modId": "geode_plus",
+    "name": "Geode Plus",
+    "version": "1.2.5",
+    "curseForgeHash": 3092557055,
+    "modrinthHash": "448cf528d4ffddd129d8899d57d5d75a87757c79"
+  },
+  "Geophilic v3.4.6.mod.jar": {
+    "jarName": "Geophilic v3.4.6.mod.jar",
+    "modId": "geophilic",
+    "name": "Geophilic",
+    "version": "3.4.6",
+    "curseForgeHash": 1693878,
+    "modrinthHash": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
+  },
+  "getittogetherdrops-fabric-1.20-1.3.1.jar": {
+    "jarName": "getittogetherdrops-fabric-1.20-1.3.1.jar",
+    "modId": "getittogetherdrops",
+    "name": "Get It Together, Drops!",
+    "version": "fabric-1.20-1.3.1",
+    "curseForgeHash": 2054596981,
+    "modrinthHash": "cdf7f844b1d710cabb41eed13f66b3aab75aaaee"
+  },
+  "giftsofgiving-fabric-1.20.1-1.1.1.jar": {
+    "jarName": "giftsofgiving-fabric-1.20.1-1.1.1.jar",
+    "modId": "giftsofgiving",
+    "name": "Gifts of Giving",
+    "version": "1.1.1",
+    "curseForgeHash": 1502578377,
+    "modrinthHash": "4564c16938a866398c4ac11ee07c8687037de93e"
+  },
+  "goblintraders-fabric-1.20.1-1.11.5.jar": {
+    "jarName": "goblintraders-fabric-1.20.1-1.11.5.jar",
+    "modId": "goblintraders",
+    "name": "Goblin Traders",
+    "version": "1.11.5",
+    "curseForgeHash": 2500662225,
+    "modrinthHash": "c976251276e3d62de46c34cbd25a29a926215484"
+  },
+  "Golden Berries-fabric-1.20.1-1.1.4.jar": {
+    "jarName": "Golden Berries-fabric-1.20.1-1.1.4.jar",
+    "modId": "goldenberry",
+    "name": "Golden Berries",
+    "version": "1.1.4",
+    "curseForgeHash": 2908535726,
+    "modrinthHash": "45918af988164a68dd6fca1a7b49b1779bed7ab4"
+  },
+  "golem.jar": {
+    "jarName": "golem.jar",
+    "modId": "iron_golem_origins",
+    "name": "Iron Golem",
+    "version": "1.0.0",
+    "curseForgeHash": 2295820809,
+    "modrinthHash": "1ca93959a90fa7ad990ca97b500354eb83fa85bd"
+  },
+  "grind-enchantments-3.1.4+1.20.1.jar": {
+    "jarName": "grind-enchantments-3.1.4+1.20.1.jar",
+    "modId": "grindenchantments",
+    "name": "Grind Enchantments",
+    "version": "3.1.4+1.20.1",
+    "curseForgeHash": 1854894456,
+    "modrinthHash": "bba13284d4ae21d65fff90f97a61a1e3d49306ba"
+  },
+  "handcrafted-fabric-1.20.1-3.0.6.jar": {
+    "jarName": "handcrafted-fabric-1.20.1-3.0.6.jar",
+    "modId": "handcrafted",
+    "name": "Handcrafted",
+    "version": "3.0.6",
+    "curseForgeHash": 1521066989,
+    "modrinthHash": "459ccaa507c4c28738c6d821e12b66de31861c66"
+  },
+  "happygolucky-fabric-1.20.1-1.0.3.jar": {
+    "jarName": "happygolucky-fabric-1.20.1-1.0.3.jar",
+    "modId": "happygolucky",
+    "name": "Happy Go Lucky",
+    "version": "1.0.3",
+    "curseForgeHash": 2079224102,
+    "modrinthHash": "822a496cf0f880cb934eae08972a0681de3f9d8c"
+  },
+  "harvest-with-ease-fabric-1.20.1-9.4.0.jar": {
+    "jarName": "harvest-with-ease-fabric-1.20.1-9.4.0.jar",
+    "modId": "harvest_with_ease",
+    "name": "Harvest with ease",
+    "version": "9.4.0",
+    "curseForgeHash": 1128469498,
+    "modrinthHash": "f5bfc4d1023c6d9511afa543063cbde8a6b4b6c3"
+  },
+  "hatlist-1.5.jar": {
+    "jarName": "hatlist-1.5.jar",
+    "modId": "hatlist",
+    "name": "Hat List",
+    "version": "1.5",
+    "curseForgeHash": 462948198,
+    "modrinthHash": "2e59faa6d63a8423d8b07e02f11a803320f68ab1"
+  },
+  "held-item-info-1.5.0.jar": {
+    "jarName": "held-item-info-1.5.0.jar",
+    "modId": "held-item-info",
+    "name": "Held Item Info",
+    "version": "1.5.0",
+    "curseForgeHash": 3304191127,
+    "modrinthHash": "495ebabae738f8c6dd97563e8b347781a5261fc2"
+  },
+  "hollow_knight_origins-0.22-1.20.X.jar": {
+    "jarName": "hollow_knight_origins-0.22-1.20.X.jar",
+    "modId": "juknight_origins",
+    "name": "Hollow Knight: An Origins Addon",
+    "version": "0.22-1.20.X",
+    "curseForgeHash": 512053817,
+    "modrinthHash": "c6a72fd7ecdd30f38cb50e2a650460409cecff80"
+  },
+  "Icarus-Fabric-2.13.2.jar": {
+    "jarName": "Icarus-Fabric-2.13.2.jar",
+    "modId": "icarus",
+    "name": "Icarus",
+    "version": "2.13.2",
+    "curseForgeHash": 1585847379,
+    "modrinthHash": "3a8f0970959fe58ce61879d431ab1987cf6d64c6"
+  },
+  "imbued_gear-0.4.0+1.20.1.jar": {
+    "jarName": "imbued_gear-0.4.0+1.20.1.jar",
+    "modId": "imbued_gear",
+    "name": "Imbued Gear",
+    "version": "0.4.0+1.20.1",
+    "curseForgeHash": 1705014655,
+    "modrinthHash": "7d9be02f96116c62062974e84344bd7adad2fd87"
+  },
+  "immersive_aircraft-1.4.0+1.20.1-fabric.jar": {
+    "jarName": "immersive_aircraft-1.4.0+1.20.1-fabric.jar",
+    "modId": "immersive_aircraft",
+    "name": "Immersive Aircraft",
+    "version": "1.4.0+1.20.1",
+    "curseForgeHash": 292862863,
+    "modrinthHash": "4c38293da3561c861429263b16aede300148c4b4"
+  },
+  "immersive_armors-1.7.1+1.20.1-fabric.jar": {
+    "jarName": "immersive_armors-1.7.1+1.20.1-fabric.jar",
+    "modId": "immersive_armors",
+    "name": "Immersive Armors",
+    "version": "1.7.1+1.20.1",
+    "curseForgeHash": 1898223191,
+    "modrinthHash": "a28582c00a49caf757a401364aa3917c18c0a03c"
+  },
+  "immersive_melodies-0.6.0+1.20.1-fabric.jar": {
+    "jarName": "immersive_melodies-0.6.0+1.20.1-fabric.jar",
+    "modId": "immersive_melodies",
+    "name": "Immersive Melodies",
+    "version": "0.6.0+1.20.1",
+    "curseForgeHash": 1265003794,
+    "modrinthHash": "45c9e5b8b2900a7190117ebd85ae34dd468a1738"
+  },
+  "immersive_paintings-0.6.11+1.20.1-fabric.jar": {
+    "jarName": "immersive_paintings-0.6.11+1.20.1-fabric.jar",
+    "modId": "immersive_paintings",
+    "name": "Immersive Paintings",
+    "version": "0.6.11+1.20.1",
+    "curseForgeHash": 3259673664,
+    "modrinthHash": "6468c87bae03d2a19aef7ae67d2bd8be356062de"
+  },
+  "indium-1.0.36+mc1.20.1.jar": {
+    "jarName": "indium-1.0.36+mc1.20.1.jar",
+    "modId": "indium",
+    "name": "Indium",
+    "version": "1.0.36+mc1.20.1",
+    "curseForgeHash": 1094098662,
+    "modrinthHash": "d824614e7a173d273167969f427702f51846aca7"
+  },
+  "InventorySorter-1.9.0-1.20.jar": {
+    "jarName": "InventorySorter-1.9.0-1.20.jar",
+    "modId": "inventorysorter",
+    "name": "Inventory Sorter",
+    "version": "1.9.0-1.20",
+    "curseForgeHash": 1398127217,
+    "modrinthHash": "19b4af69600fc940112f36a3256d492670d8d4c5"
+  },
+  "invoke-1.0.3.1-1.20.1.jar": {
+    "jarName": "invoke-1.0.3.1-1.20.1.jar",
+    "modId": "invoke",
+    "name": "Invocations Mod",
+    "version": "1.0.3.1-1.20.1",
+    "curseForgeHash": 1804162077,
+    "modrinthHash": "70e4711d393a7e22764e1f046b74d74a110baf9f"
+  },
+  "InvView-1.4.12-1.20+.jar": {
+    "jarName": "InvView-1.4.12-1.20+.jar",
+    "modId": "invview",
+    "name": "InvView",
+    "version": "1.4.12-1.20+",
+    "curseForgeHash": 2125256254,
+    "modrinthHash": "f6775526021843c16dc7847bbf0b8dbcca434454"
+  },
+  "iris-1.7.6+mc1.20.1.jar": {
+    "jarName": "iris-1.7.6+mc1.20.1.jar",
+    "modId": "iris",
+    "name": "Iris",
+    "version": "1.7.6+mc1.20.1",
+    "curseForgeHash": 3034512682,
+    "modrinthHash": "880c0b9ce38bb4997645793407c1801df83f4233"
+  },
+  "ironchests-5.0.2-fabric.jar": {
+    "jarName": "ironchests-5.0.2-fabric.jar",
+    "modId": "ironchests",
+    "name": "Iron Chests: Restocked",
+    "version": "5.0.2",
+    "curseForgeHash": 3178449871,
+    "modrinthHash": "d6a4e18873de5caa6456ee9f95d33b7e6904be5c"
+  },
+  "Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar": {
+    "jarName": "Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+    "modId": "item_obliterator",
+    "name": "Item Obliterator",
+    "version": "2.3.0",
+    "curseForgeHash": 1892110577,
+    "modrinthHash": "f03f73b69303aaf4306b6b35be223d780fc15f8d"
+  },
+  "Jewelry-1.3.7+1.20.1.jar": {
+    "jarName": "Jewelry-1.3.7+1.20.1.jar",
+    "modId": "jewelry",
+    "name": "Jewelry (RPG Series)",
+    "version": "1.3.7+1.20.1",
+    "curseForgeHash": 3639966956,
+    "modrinthHash": "4943324eb735305ae42e619a78d11e5136e1d321"
+  },
+  "kevslibrary-1.1.2.jar": {
+    "jarName": "kevslibrary-1.1.2.jar",
+    "modId": "kevslibrary",
+    "name": "Kev\u0027s Library",
+    "version": "1.1.2",
+    "curseForgeHash": 3925161972,
+    "modrinthHash": "30976391253fa4ef63753e018da2362dc50d6570"
+  },
+  "kevstierifymodifiers-1.5.6.jar": {
+    "jarName": "kevstierifymodifiers-1.5.6.jar",
+    "modId": "kevstierifymodifiers",
+    "name": "Kev\u0027s Tierify Modifiers",
+    "version": "1.5.6",
+    "curseForgeHash": 1921313774,
+    "modrinthHash": "377e702c3e81614dc5e89f1df419f50832c0e6bc"
+  },
+  "kleeslabs-fabric-1.20.1-15.0.11.jar": {
+    "jarName": "kleeslabs-fabric-1.20.1-15.0.11.jar",
+    "modId": "kleeslabs",
+    "name": "KleeSlabs",
+    "version": "15.0.11",
+    "curseForgeHash": 1062193047,
+    "modrinthHash": "f72a2539b8a58da2e62947260bf4fb33fed46692"
+  },
+  "lambdynamiclights-4.4.0+1.20.1.jar": {
+    "jarName": "lambdynamiclights-4.4.0+1.20.1.jar",
+    "modId": "lambdynlights",
+    "name": "LambDynamicLights",
+    "version": "4.4.0+1.20.1",
+    "curseForgeHash": 1191101451,
+    "modrinthHash": "eeab178cb91f18bc72f990c2097b5f0103f01c06"
+  },
+  "landchidori-fabric-1.20.1-1.0.9.jar": {
+    "jarName": "landchidori-fabric-1.20.1-1.0.9.jar",
+    "modId": "landchidori",
+    "name": "Land Chidori Origin",
+    "version": "1.0.9",
+    "curseForgeHash": 1832083805,
+    "modrinthHash": "3e05a174dfe2284cb3d93bd61d3b6953d0e5ab34"
+  },
+  "lavender-0.1.9+1.20.jar": {
+    "jarName": "lavender-0.1.9+1.20.jar",
+    "modId": "lavender",
+    "name": "Lavender",
+    "version": "0.1.9+1.20",
+    "curseForgeHash": 3977998799,
+    "modrinthHash": "5803e3bc8ff760967475f0839bd4c66888f514a8"
+  },
+  "leaderboards-1.20.1-Fabric-2.0.2.jar": {
+    "jarName": "leaderboards-1.20.1-Fabric-2.0.2.jar",
+    "modId": "leaderboards",
+    "name": "Leaderboards",
+    "version": "2.0.2",
+    "curseForgeHash": 3613901065,
+    "modrinthHash": "35d1f76958e1750745a6cadf38b58f09c138b68e"
+  },
+  "ledger-1.3.18.jar": {
+    "jarName": "ledger-1.3.18.jar",
+    "modId": "ledger",
+    "name": "Ledger",
+    "version": "1.3.18",
+    "curseForgeHash": 3302312075,
+    "modrinthHash": "8f79138753048db50df7e8038101af72a45f8e3a"
+  },
+  "libraryferret-fabric-1.20.1-4.0.0.jar": {
+    "jarName": "libraryferret-fabric-1.20.1-4.0.0.jar",
+    "modId": "libraryferret",
+    "name": "Library ferret",
+    "version": "4.0.0",
+    "curseForgeHash": 2421877802,
+    "modrinthHash": "ec87a635904ac0d52e619fa004e93c406cc0d671"
+  },
+  "libreexpfix-0.2.7+1.18b14-BETA-fabric.jar": {
+    "jarName": "libreexpfix-0.2.7+1.18b14-BETA-fabric.jar",
+    "modId": "libreexpfix",
+    "name": "LibreExpFix",
+    "version": "0.2.7b14-BETA",
+    "curseForgeHash": 4034734465,
+    "modrinthHash": "cd701ad5cd93a1a7676b3e903d344f3c3988470a"
+  },
+  "libz-1.0.3.jar": {
+    "jarName": "libz-1.0.3.jar",
+    "modId": "libz",
+    "name": "LibZ",
+    "version": "1.0.3",
+    "curseForgeHash": 901245984,
+    "modrinthHash": "bdd66120c88a66de9c1ec997404ad5121b3f2f7f"
+  },
+  "lighty-fabric-2.1.2+1.20.1.jar": {
+    "jarName": "lighty-fabric-2.1.2+1.20.1.jar",
+    "modId": "lighty",
+    "name": "Lighty",
+    "version": "2.1.2+1.20.1",
+    "curseForgeHash": 3678901771,
+    "modrinthHash": "61fbbce7185d314ebeb1b89cc4e6228360a9b559"
+  },
+  "LimitedSpawners-fabric-1.20.1-1.0.8.jar": {
+    "jarName": "LimitedSpawners-fabric-1.20.1-1.0.8.jar",
+    "modId": "limitedspawners",
+    "name": "Limited Spawner",
+    "version": "1.0.8",
+    "curseForgeHash": 3140147907,
+    "modrinthHash": "ef0b7ea73a3d9e722e01493bb8aec048a7f5d0ef"
+  },
+  "lne_archers-0.1.9-1.20.1.jar": {
+    "jarName": "lne_archers-0.1.9-1.20.1.jar",
+    "modId": "lne_archers",
+    "name": "L\u0026E Archers-Add On",
+    "version": "0.1.9-1.20.1",
+    "curseForgeHash": 4101283065,
+    "modrinthHash": "9a2ab776052567e14713f915c7216ebea949a9ea"
+  },
+  "lne_paladins-0.1.12-1.20.1.jar": {
+    "jarName": "lne_paladins-0.1.12-1.20.1.jar",
+    "modId": "lne_paladins",
+    "name": "L\u0026E Paladins-Add On",
+    "version": "0.1.12-1.20.1",
+    "curseForgeHash": 349584938,
+    "modrinthHash": "60dec210b613b26a2aaeb114a49d2bf56fac2c3e"
+  },
+  "lne_rogues-0.1.6-1.20.1.jar": {
+    "jarName": "lne_rogues-0.1.6-1.20.1.jar",
+    "modId": "lne_rogues",
+    "name": "L\u0026E Rogues-Add On",
+    "version": "0.1.6-1.20.1",
+    "curseForgeHash": 2272244186,
+    "modrinthHash": "775edc0dcda4bc217eeeb092d413ee6ea207cb97"
+  },
+  "lne_wizards-0.1.11-1.20.1.jar": {
+    "jarName": "lne_wizards-0.1.11-1.20.1.jar",
+    "modId": "lne_wizards",
+    "name": "L\u0026E Wizards-Add On",
+    "version": "0.1.11-1.20.1",
+    "curseForgeHash": 3017358608,
+    "modrinthHash": "77c9ac9e400433dbc12a52b76f48d8c027c8752a"
+  },
+  "loadingscreentips-1.3.1.jar": {
+    "jarName": "loadingscreentips-1.3.1.jar",
+    "modId": "loadingscreentips",
+    "name": "Loading Screen Tips",
+    "version": "1.3.1",
+    "curseForgeHash": 883596297,
+    "modrinthHash": "27041d9bb759a8a7cb474e8b1a32750bab7e602a"
+  },
+  "Log-Begone-Fabric-1.20.1-1.0.8.jar": {
+    "jarName": "Log-Begone-Fabric-1.20.1-1.0.8.jar",
+    "modId": "logbegone",
+    "name": "Log Begone",
+    "version": "1.0.8",
+    "curseForgeHash": 1348549460,
+    "modrinthHash": "f1c697ffcf7ec79e458b3af3d32392d75bf2caff"
+  },
+  "LongNbtKiller-Fabric-1.20.1-1.0.0.jar": {
+    "jarName": "LongNbtKiller-Fabric-1.20.1-1.0.0.jar",
+    "modId": "longnbtkiller",
+    "name": "longnbtkiller",
+    "version": "Fabric-1.20.1-1.0.0",
+    "curseForgeHash": 3823324823,
+    "modrinthHash": "886eeca34e46327d99e5a01003075b57c58d6e44"
+  },
+  "loot_n_explore-0.1.12-1.20.1.jar": {
+    "jarName": "loot_n_explore-0.1.12-1.20.1.jar",
+    "modId": "loot_n_explore",
+    "name": "Loot \u0026 Explore",
+    "version": "0.1.12-1.20.1",
+    "curseForgeHash": 751561596,
+    "modrinthHash": "da63893b927092dad9c096f4f8e03b004ec945fe"
+  },
+  "lootr-fabric-1.20-0.7.35.86.jar": {
+    "jarName": "lootr-fabric-1.20-0.7.35.86.jar",
+    "modId": "lootr",
+    "name": "Lootr",
+    "version": "0.7.35.86",
+    "curseForgeHash": 2545620956,
+    "modrinthHash": "7750c9abdc5b0e023b69461e9d0350fbfb066fda"
+  },
+  "MagicParticles-1.2.1+1.20.1.jar": {
+    "jarName": "MagicParticles-1.2.1+1.20.1.jar",
+    "modId": "magic-particles",
+    "name": "Magic Particles",
+    "version": "1.2.1+1.20.1",
+    "curseForgeHash": 823551678,
+    "modrinthHash": "1d043393b601368e8ba2e67ef01705b19424873e"
+  },
+  "MagnumTorch-v8.0.2-1.20.1-Fabric.jar": {
+    "jarName": "MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+    "modId": "magnumtorch",
+    "name": "Magnum Torch",
+    "version": "8.0.2",
+    "curseForgeHash": 1726905962,
+    "modrinthHash": "194fa271356f83b75d4a4c9cca2856ee52556e05"
+  },
+  "malilib-fabric-1.20.1-0.16.3.jar": {
+    "jarName": "malilib-fabric-1.20.1-0.16.3.jar",
+    "modId": "malilib",
+    "name": "MaLiLib",
+    "version": "0.16.3",
+    "curseForgeHash": 973624155,
+    "modrinthHash": "94d4dd8a82e493d956b423019134d8c48ee737be"
+  },
+  "MaxHealthFix-Fabric-1.20.1-12.0.4.jar": {
+    "jarName": "MaxHealthFix-Fabric-1.20.1-12.0.4.jar",
+    "modId": "maxhealthfix",
+    "name": "MaxHealthFix",
+    "version": "12.0.4",
+    "curseForgeHash": 3716217384,
+    "modrinthHash": "0a081bde9fc2ae8d43e05abd281137bb1157e92c"
+  },
+  "mcda-5.0.2.jar": {
+    "jarName": "mcda-5.0.2.jar",
+    "modId": "mcda",
+    "name": "MC Dungeons Armors",
+    "version": "5.0.2",
+    "curseForgeHash": 2454147124,
+    "modrinthHash": "b65ccedcc1323b02eb66433e0c8c99c7ddcfe7b9"
+  },
+  "mcdar-4.0.5.jar": {
+    "jarName": "mcdar-4.0.5.jar",
+    "modId": "mcdar",
+    "name": "MC Dungeons Artifacts",
+    "version": "4.0.5",
+    "curseForgeHash": 1787627715,
+    "modrinthHash": "1d8541b12457eb4228c5466a8449ac0c4a79b915"
+  },
+  "mcdw-9.0.4.jar": {
+    "jarName": "mcdw-9.0.4.jar",
+    "modId": "mcdw",
+    "name": "MC Dungeons Weapons",
+    "version": "9.0.4",
+    "curseForgeHash": 2412554346,
+    "modrinthHash": "3412ce494badd3b583d2f7c9a3460511db38d11b"
+  },
+  "medievalorigins-fabric-1.20.1-6.7.3.jar": {
+    "jarName": "medievalorigins-fabric-1.20.1-6.7.3.jar",
+    "modId": "medievalorigins",
+    "name": "Medieval Origins Revival",
+    "version": "6.7.3",
+    "curseForgeHash": 2200821371,
+    "modrinthHash": "c75b7b481a4572353206e3d7470dfbfc25cec013"
+  },
+  "megalodon-origin-1.0.0.jar": {
+    "jarName": "megalodon-origin-1.0.0.jar",
+    "modId": "megalodon-origin",
+    "name": "Megalodon Origin",
+    "version": "1.0.0",
+    "curseForgeHash": 2944198989,
+    "modrinthHash": "a5c2e23ee5b6d91a3219398048821d9191857d7c"
+  },
+  "MeliusCommands-2.0.2+1.20.1.jar": {
+    "jarName": "MeliusCommands-2.0.2+1.20.1.jar",
+    "modId": "melius-commands",
+    "name": "Melius Commands",
+    "version": "2.0.2+1.20.1",
+    "curseForgeHash": 2249327182,
+    "modrinthHash": "1e5956dd42d2c15b4777bc314a97860a2c867e5d"
+  },
+  "memoryleakfix-fabric-1.17+-1.1.2.jar": {
+    "jarName": "memoryleakfix-fabric-1.17+-1.1.2.jar",
+    "modId": "memoryleakfix",
+    "name": "Memory Leak Fix",
+    "version": "1.1.2",
+    "curseForgeHash": 2542479170,
+    "modrinthHash": "b0eecb140bd124c781469aa0f48bc888072b4ac5"
+  },
+  "memorysweep-1.20.1-2.0.3-fabric.jar": {
+    "jarName": "memorysweep-1.20.1-2.0.3-fabric.jar",
+    "modId": "memorysweep",
+    "name": "MemorySweep",
+    "version": "2.0.3",
+    "curseForgeHash": 1485861211,
+    "modrinthHash": "e7169f50b67b069420ad3fa42db74403e1e2bc2a"
+  },
+  "memoryusagetitle-fabric-1.0.1.jar": {
+    "jarName": "memoryusagetitle-fabric-1.0.1.jar",
+    "modId": "memoryusagetitle",
+    "name": "Memory Usage Title",
+    "version": "1.0.1",
+    "curseForgeHash": 1549102646,
+    "modrinthHash": "dc94dfc07667ddf7648ae753ed85884e6a5d9654"
+  },
+  "mermod-fabric-3.0.2+1.20.1.jar": {
+    "jarName": "mermod-fabric-3.0.2+1.20.1.jar",
+    "modId": "mermod",
+    "name": "Mermod",
+    "version": "3.0.2",
+    "curseForgeHash": 4214232073,
+    "modrinthHash": "8f8eacde24627c1113e089464da531e4edc4ea9a"
+  },
+  "midas-hunger-2.2.3+1.20.jar": {
+    "jarName": "midas-hunger-2.2.3+1.20.jar",
+    "modId": "midashunger",
+    "name": "Midas Hunger",
+    "version": "2.2.3+1.20",
+    "curseForgeHash": 3529860612,
+    "modrinthHash": "0fd1551f4c583ad359833b083870c3e89ab061ec"
+  },
+  "minecord-2.1.0+1.20.1.jar": {
+    "jarName": "minecord-2.1.0+1.20.1.jar",
+    "modId": "minecord",
+    "name": "Minecord",
+    "version": "2.1.0+1.20.1",
+    "curseForgeHash": 3115707615,
+    "modrinthHash": "9d366f1f6b97da4be33d18e43571ecc7c3063ff0"
+  },
+  "minihud-fabric-1.20.1-0.27.0.jar": {
+    "jarName": "minihud-fabric-1.20.1-0.27.0.jar",
+    "modId": "minihud",
+    "name": "MiniHUD",
+    "version": "0.27.0",
+    "curseForgeHash": 94607654,
+    "modrinthHash": "ab371c460a00cb18bfe41c49e5645dfe0e133d65"
+  },
+  "MobLassos-v8.0.1-1.20.1-Fabric.jar": {
+    "jarName": "MobLassos-v8.0.1-1.20.1-Fabric.jar",
+    "modId": "moblassos",
+    "name": "Mob Lassos",
+    "version": "8.0.1",
+    "curseForgeHash": 745713642,
+    "modrinthHash": "ba265768bcd14a2ed8f1726ad9f4f09ad0dfde83"
+  },
+  "modernfix-fabric-5.25.2+mc1.20.1.jar": {
+    "jarName": "modernfix-fabric-5.25.2+mc1.20.1.jar",
+    "modId": "modernfix",
+    "name": "ModernFix",
+    "version": "5.25.2+mc1.20.1",
+    "curseForgeHash": 3161076511,
+    "modrinthHash": "be03b9eb570c1e9df7593e68623f0fecbd039460"
+  },
+  "modmenu-7.2.2.jar": {
+    "jarName": "modmenu-7.2.2.jar",
+    "modId": "modmenu",
+    "name": "Mod Menu",
+    "version": "7.2.2",
+    "curseForgeHash": 2167359578,
+    "modrinthHash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
+  },
+  "moonlight-1.20-2.16.29-fabric.jar": {
+    "jarName": "moonlight-1.20-2.16.29-fabric.jar",
+    "modId": "moonlight",
+    "name": "Moonlight",
+    "version": "1.20-2.16.29",
+    "curseForgeHash": 2984924037,
+    "modrinthHash": "6e5912c0121c0bb91457118fca76fb53a97bb2ac"
+  },
+  "more_rpg_classes-1.2.18-1.20.1.jar": {
+    "jarName": "more_rpg_classes-1.2.18-1.20.1.jar",
+    "modId": "more_rpg_classes",
+    "name": "More RPG Classes",
+    "version": "1.2.18-1.20.1",
+    "curseForgeHash": 1468198977,
+    "modrinthHash": "840123ddec8a7ed2c859a4f5979673c174c1fcc7"
+  },
+  "morningglory-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "morningglory-fabric-1.20.1-1.0.0.jar",
+    "modId": "morningglory",
+    "name": "Morning Glory - Cat Morning Gift",
+    "version": "1.0.0",
+    "curseForgeHash": 4154548730,
+    "modrinthHash": "9f1b6b3a6eb655957783a34c12792aa56bc8f8aa"
+  },
+  "MouseTweaks-fabric-mc1.20-2.26.jar": {
+    "jarName": "MouseTweaks-fabric-mc1.20-2.26.jar",
+    "modId": "mousetweaks",
+    "name": "Mouse Tweaks",
+    "version": "2.26",
+    "curseForgeHash": 3496890947,
+    "modrinthHash": "6a6b977e671b1ab625e740fc70fb5300c21bb841"
+  },
+  "mushroomorigins-1.4.jar": {
+    "jarName": "mushroomorigins-1.4.jar",
+    "modId": "mushroomorigins",
+    "name": "Mushroom Origins",
+    "version": "1.4",
+    "curseForgeHash": 1100830345,
+    "modrinthHash": "d5ffb983c28c60837e88d6d39a48303942c078f2"
+  },
+  "MutantMonsters-v8.0.8-1.20.1-Fabric.jar": {
+    "jarName": "MutantMonsters-v8.0.8-1.20.1-Fabric.jar",
+    "modId": "mutantmonsters",
+    "name": "Mutant Monsters",
+    "version": "8.0.8",
+    "curseForgeHash": 2781808743,
+    "modrinthHash": "c697d776ff761b98fa4da289502a173feda06cba"
+  },
+  "mythic-mounts-1.20.1-7.4.jar": {
+    "jarName": "mythic-mounts-1.20.1-7.4.jar",
+    "modId": "mythicmounts",
+    "name": "Mythic Mounts",
+    "version": "1.20.1-7.4",
+    "curseForgeHash": 3205493028,
+    "modrinthHash": "d23154438b735bf79543d3191d6e0cd8f1d8aed8"
+  },
+  "mythiclib-2.0+mc1.20.1.jar": {
+    "jarName": "mythiclib-2.0+mc1.20.1.jar",
+    "modId": "mythiclib",
+    "name": "Mythic Lib",
+    "version": "2.0+mc1.20.1",
+    "curseForgeHash": 3945923386,
+    "modrinthHash": "513008192af81d7354d1d8eb6604a09ed1240387"
+  },
+  "mythicmetals-0.19.11+1.20.1.jar": {
+    "jarName": "mythicmetals-0.19.11+1.20.1.jar",
+    "modId": "mythicmetals",
+    "name": "Mythic Metals",
+    "version": "0.19.11+1.20.1",
+    "curseForgeHash": 2639297559,
+    "modrinthHash": "55567a86821357224d636fa0348309297cf6a452"
+  },
+  "mythicmetals-decorations-0.6.4+1.20.1.jar": {
+    "jarName": "mythicmetals-decorations-0.6.4+1.20.1.jar",
+    "modId": "mythicmetals_decorations",
+    "name": "Mythic Metals Decorations",
+    "version": "0.6.4+1.20.1",
+    "curseForgeHash": 172275131,
+    "modrinthHash": "269dad4c1045d5eeddc8f80be717b6515fe516c7"
+  },
+  "mythicupgrades-4.2.0+mc1.20.1.jar": {
+    "jarName": "mythicupgrades-4.2.0+mc1.20.1.jar",
+    "modId": "mythicupgrades",
+    "name": "Mythic Upgrades",
+    "version": "4.2.0+mc1.20.1",
+    "curseForgeHash": 3532751540,
+    "modrinthHash": "20977e8848b8920e6559c2d5af588594bd593b04"
+  },
+  "NaturesCompass-1.20.1-2.6.0-fabric.jar": {
+    "jarName": "NaturesCompass-1.20.1-2.6.0-fabric.jar",
+    "modId": "naturescompass",
+    "name": "Nature\u0027s Compass",
+    "version": "1.20.1-2.6.0-fabric",
+    "curseForgeHash": 766081451,
+    "modrinthHash": "632368dbfe05d11addc7e6bb6a7a5cc7e60e7828"
+  },
+  "Necronomicon-Fabric-1.6.0+1.20.1.jar": {
+    "jarName": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
+    "modId": "necronomicon",
+    "name": "Necronomicon",
+    "version": "1.6.0",
+    "curseForgeHash": 372877596,
+    "modrinthHash": "86e4ba3727be9ef8816844aa15f45db099ecb858"
+  },
+  "neruina-3.3.1+1.20.1-fabric.jar": {
+    "jarName": "neruina-3.3.1+1.20.1-fabric.jar",
+    "modId": "neruina",
+    "name": "Neruina",
+    "version": "3.3.1",
+    "curseForgeHash": 4285442755,
+    "modrinthHash": "aa8979b3d2b7476b09eb4125711a05836293a5af"
+  },
+  "NethersDelight-Refabricated-1.20.1-4.1.1.jar": {
+    "jarName": "NethersDelight-Refabricated-1.20.1-4.1.1.jar",
+    "modId": "nethersdelight",
+    "name": "Nether\u0027s Delight Refabricated",
+    "version": "1.20.1-4.1.1",
+    "curseForgeHash": 1629744961,
+    "modrinthHash": "8f95130d4ec2f03d4ebbf1002e385a5346d95368"
+  },
+  "no-resource-pack-warnings-1.3.1.jar": {
+    "jarName": "no-resource-pack-warnings-1.3.1.jar",
+    "modId": "no-resource-pack-warnings",
+    "name": "No Resource Pack Warnings",
+    "version": "1.3.1",
+    "curseForgeHash": 3100539583,
+    "modrinthHash": "7a21f4604fab946201e2cfc1a9a8f526f5581cdf"
+  },
+  "NoChatReports-FABRIC-1.20.1-v2.2.2.jar": {
+    "jarName": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+    "modId": "nochatreports",
+    "name": "No Chat Reports",
+    "version": "1.20.1-v2.2.2",
+    "curseForgeHash": 1156441238,
+    "modrinthHash": "b99f23fb76aad5a944400717e6d71aa011c4d7f7"
+  },
+  "NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar": {
+    "jarName": "NoChatRestrictions-Fabric-MC1.20.1-v1.0.0.jar",
+    "modId": "nochatrestrictions",
+    "name": "No Chat Restrictions",
+    "version": "Fabric-MC1.20.1-v1.0.0",
+    "curseForgeHash": 4101601526,
+    "modrinthHash": "9eb4278d8cb2872cecb9385c22b73a5740705980"
+  },
+  "nofirespread-fabric-1.20.1-1.0.0.jar": {
+    "jarName": "nofirespread-fabric-1.20.1-1.0.0.jar",
+    "modId": "nofirespread",
+    "name": "nofirespread",
+    "version": "1.0.0",
+    "curseForgeHash": 841689986,
+    "modrinthHash": "c52ec5c2c8987dc743093e21a5611110753cda98"
+  },
+  "noglobalsounds-fabric-1.20.1-1.0.0a.jar": {
+    "jarName": "noglobalsounds-fabric-1.20.1-1.0.0a.jar",
+    "modId": "noglobalsounds",
+    "name": "noglobalsounds",
+    "version": "1.0.0",
+    "curseForgeHash": 2362232505,
+    "modrinthHash": "5263830cd04d0759058bafd27ac277aeb52be1cb"
+  },
+  "NoSeeNoTick-2.0.0-1.20.1.jar": {
+    "jarName": "NoSeeNoTick-2.0.0-1.20.1.jar",
+    "modId": "noseenotick",
+    "name": "No See, No tick",
+    "version": "2.0.0-build.9999",
+    "curseForgeHash": 4209529888,
+    "modrinthHash": "39be3bb98c52c54b85de4f8a8ca74b6ad4486071"
+  },
+  "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar": {
+    "jarName": "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+    "modId": "nerb",
+    "name": "Not Enough Recipe Book",
+    "version": "0.4.1",
+    "curseForgeHash": 2291658659,
+    "modrinthHash": "9088cb96c16372b339ca7f5b6e928938ebf97442"
+  },
+  "Nyctophobia_1.9_(FABRIC)_for_1.20+.jar": {
+    "jarName": "Nyctophobia_1.9_(FABRIC)_for_1.20+.jar",
+    "modId": "nyctophobia",
+    "name": "Nyctophobia",
+    "version": "1.9",
+    "curseForgeHash": 4109000025,
+    "modrinthHash": "aff39ddf6d9f896d5160dc885a673ccb0a78689c"
+  },
+  "nyfsbp-fabric-1.20.1-1.1.1.jar": {
+    "jarName": "nyfsbp-fabric-1.20.1-1.1.1.jar",
+    "modId": "nyfsbp",
+    "name": "Nyf\u0027s Banner Patterns",
+    "version": "1.1.1",
+    "curseForgeHash": 3410162493,
+    "modrinthHash": "b0ce4fc850edc94d7ac232d52a86f930cb6963b4"
+  },
+  "nyfsgenetics-fabric-1.20.1-1.0.1.jar": {
+    "jarName": "nyfsgenetics-fabric-1.20.1-1.0.1.jar",
+    "modId": "nyfsgenetics",
+    "name": "Nyf\u0027s Genetics",
+    "version": "1.0.1",
+    "curseForgeHash": 1864874453,
+    "modrinthHash": "9deff1eefe691c6fba2014e335cc88015f03170e"
+  },
+  "Obscure-API-16.jar": {
+    "jarName": "Obscure-API-16.jar",
+    "modId": "obscure_api",
+    "name": "Obscure API",
+    "version": "16",
+    "curseForgeHash": 2048513852,
+    "modrinthHash": "0272d0e5ddddd63a57b27130f3e317efb60ef509"
+  },
+  "oceansdelight-fdrf-fabric-1.0.2-1.20.jar": {
+    "jarName": "oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+    "modId": "oceansdelight",
+    "name": "Ocean\u0027s Delight",
+    "version": "fdrf-fabric-1.0.2-1.20",
+    "curseForgeHash": 853099694,
+    "modrinthHash": "304368f379aebb5f16b869a1d7ea52a88db68025"
+  },
+  "OctoLib-FABRIC-0.5.0.1+1.20.1.jar": {
+    "jarName": "OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+    "modId": "octolib",
+    "name": "OctoLib",
+    "version": "0.5.0.1",
+    "curseForgeHash": 1613623116,
+    "modrinthHash": "ea6763c11aac7635d9812dbccccba0d10b797a1d"
+  },
+  "OfflineCommands-1.0.2+1.20.1.jar": {
+    "jarName": "OfflineCommands-1.0.2+1.20.1.jar",
+    "modId": "offlinecommands",
+    "name": "OfflineCommands",
+    "version": "1.0.2+1.20.1",
+    "curseForgeHash": 3923229072,
+    "modrinthHash": "f534926f984ff8406da3393abbd25faa7e94b9cc"
+  },
+  "open-parties-and-claims-fabric-1.20.1-0.25.10.jar": {
+    "jarName": "open-parties-and-claims-fabric-1.20.1-0.25.10.jar",
+    "modId": "openpartiesandclaims",
+    "name": "Open Parties and Claims",
+    "version": "0.25.10",
+    "curseForgeHash": 283006754,
+    "modrinthHash": "364c93922de0c32d0222d4e9917ae09bfb9a9dc2"
+  },
+  "openblockselevator-0.0.3-1.20.1.jar": {
+    "jarName": "openblockselevator-0.0.3-1.20.1.jar",
+    "modId": "openblocks",
+    "name": "Open Block Elevator Mod",
+    "version": "0.0.3-1.20.1",
+    "curseForgeHash": 269877054,
+    "modrinthHash": "7a6a9f8c95d8d444d5d3ec7cd61fa5bba502eb71"
+  },
+  "Origins-1.20.1-1.10.0.jar": {
+    "jarName": "Origins-1.20.1-1.10.0.jar",
+    "modId": "origins",
+    "name": "Origins",
+    "version": "1.10.0",
+    "curseForgeHash": 472424321,
+    "modrinthHash": "e85bbe9554283840ca1d05b09181be29f3a623c0"
+  },
+  "Origins-Classes-1.20-1.7.0.jar": {
+    "jarName": "Origins-Classes-1.20-1.7.0.jar",
+    "modId": "origins-classes",
+    "name": "Origins: Classes",
+    "version": "1.7.0",
+    "curseForgeHash": 795538396,
+    "modrinthHash": "cb99c72a6f4f4fb40a225da7a52875a878b1168a"
+  },
+  "originsumbrellas-1.5.6.jar": {
+    "jarName": "originsumbrellas-1.5.6.jar",
+    "modId": "originsumbrellas",
+    "name": "Origins: Umbrellas",
+    "version": "1.5.6",
+    "curseForgeHash": 1350010087,
+    "modrinthHash": "a5acae1e42c78af849fb54ac35ee6b6c65ede0a9"
+  },
+  "OverflowingBars-v8.0.1-1.20.1-Fabric.jar": {
+    "jarName": "OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+    "modId": "overflowingbars",
+    "name": "Overflowing Bars",
+    "version": "8.0.1",
+    "curseForgeHash": 3679682296,
+    "modrinthHash": "1c713ab088c71082cfab392df602f45cdd6efbc0"
+  },
+  "owo-lib-0.11.2+1.20.jar": {
+    "jarName": "owo-lib-0.11.2+1.20.jar",
+    "modId": "owo",
+    "name": "oωo",
+    "version": "0.11.2+1.20",
+    "curseForgeHash": 2971442500,
+    "modrinthHash": "be88938ca5df78271e64bc9f85c3575754f33e2a"
+  },
+  "packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar": {
+    "jarName": "packetfixer-fabric-2.0.0-1.19-to-1.20.1.jar",
+    "modId": "packetfixer",
+    "name": "Packet Fixer",
+    "version": "2.0.0",
+    "curseForgeHash": 1489964735,
+    "modrinthHash": "2265238e396d23e457b181f7fa75ad3398f127ce"
+  },
+  "paladins-1.4.0+1.20.1.jar": {
+    "jarName": "paladins-1.4.0+1.20.1.jar",
+    "modId": "paladins",
+    "name": "Paladins \u0026 Priests (RPG Series)",
+    "version": "1.4.0+1.20.1",
+    "curseForgeHash": 594718119,
+    "modrinthHash": "0285345ee8b3f4684a64b9e2c011b965e7d4b9a3"
+  },
+  "Paraglider-fabric-20.1.4.jar": {
+    "jarName": "Paraglider-fabric-20.1.4.jar",
+    "modId": "paraglider",
+    "name": "Paragliders",
+    "version": "20.1.4",
+    "curseForgeHash": 4267949859,
+    "modrinthHash": "6493f42825c6df2780d56e45a20da2d44a54bb0f"
+  },
+  "particle_core-0.3.3+1.20.1.jar": {
+    "jarName": "particle_core-0.3.3+1.20.1.jar",
+    "modId": "particle_core",
+    "name": "Particle Core",
+    "version": "0.3.3+1.20.1",
+    "curseForgeHash": 1201271233,
+    "modrinthHash": "d4ae5e3b9583106782e2bb009ff3d426f381f493"
+  },
+  "Patchouli-1.20.1-84-FABRIC.jar": {
+    "jarName": "Patchouli-1.20.1-84-FABRIC.jar",
+    "modId": "patchouli",
+    "name": "Patchouli",
+    "version": "1.20.1-84-FABRIC",
+    "curseForgeHash": 1613838849,
+    "modrinthHash": "acbbeaae2f57052058a8444439f93d9a2d3efaf2"
+  },
+  "path_of_the_wizard.jar": {
+    "jarName": "path_of_the_wizard.jar",
+    "modId": "path_of_the_wizard",
+    "name": "Path of the Wizard",
+    "version": "1.0",
+    "curseForgeHash": 3446724756,
+    "modrinthHash": "3372558d0d98c72abc1bc51833d4b4cef835d3e5"
+  },
+  "Paxi-1.20-Fabric-4.0.jar": {
+    "jarName": "Paxi-1.20-Fabric-4.0.jar",
+    "modId": "paxi",
+    "name": "Paxi",
+    "version": "1.20-Fabric-4.0",
+    "curseForgeHash": 3724805714,
+    "modrinthHash": "21ef7cc460c6c1fd15443a69f77b165a4096b135"
+  },
+  "Pehkui-3.8.3+1.14.4-1.21.jar": {
+    "jarName": "Pehkui-3.8.3+1.14.4-1.21.jar",
+    "modId": "pehkui",
+    "name": "Pehkui",
+    "version": "3.8.3+1.14.4-1.21",
+    "curseForgeHash": 2865028280,
+    "modrinthHash": "3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+  },
+  "perfectbirbs-fabric-1.20.1-1.2.0.jar": {
+    "jarName": "perfectbirbs-fabric-1.20.1-1.2.0.jar",
+    "modId": "perfectbirbs",
+    "name": "Perfect Birbs",
+    "version": "1.2.0",
+    "curseForgeHash": 430724203,
+    "modrinthHash": "9fc294267a40c03d933a2f0264986bf3ba39a5d2"
+  },
+  "perfectplushies-fabric-1.20.1-1.13.3.jar": {
+    "jarName": "perfectplushies-fabric-1.20.1-1.13.3.jar",
+    "modId": "perfectplushies",
+    "name": "Perfect Plushies",
+    "version": "1.13.3",
+    "curseForgeHash": 3920335278,
+    "modrinthHash": "1d16c42e67b4ff65a94ca9b695bfe7dee8011a8e"
+  },
+  "PerPlayerWanderingTraders-1.0.2+1.20.1.jar": {
+    "jarName": "PerPlayerWanderingTraders-1.0.2+1.20.1.jar",
+    "modId": "perplayerwanderingtraders",
+    "name": "PerPlayerWanderingTraders",
+    "version": "1.0.2+1.20.1",
+    "curseForgeHash": 3953847076,
+    "modrinthHash": "99d5b1367bf8a2a213ee8d63dd026022e429b094"
+  },
+  "petshop-fabric-1.20.1-0.2.2.jar": {
+    "jarName": "petshop-fabric-1.20.1-0.2.2.jar",
+    "modId": "petshop",
+    "name": "Pet Shop",
+    "version": "0.2.2",
+    "curseForgeHash": 1997854165,
+    "modrinthHash": "68339e5995a0be8b66a1f6607ab770144fc45e2b"
+  },
+  "Platform-fabric-1.20.1-1.3.jar": {
+    "jarName": "Platform-fabric-1.20.1-1.3.jar",
+    "modId": "platform",
+    "name": "Platform",
+    "version": "1.3",
+    "curseForgeHash": 1879948224,
+    "modrinthHash": "06f332806aa5b05d5f6e1b5ec980e93257944850"
+  },
+  "player-animation-lib-fabric-1.0.2-rc1+1.20.jar": {
+    "jarName": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+    "modId": "player-animator",
+    "name": "Player Animator",
+    "version": "1.0.2-rc1+1.20",
+    "curseForgeHash": 750341031,
+    "modrinthHash": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
+  },
+  "plenty-of-armors-1.3.0+mc1.20.1.jar": {
+    "jarName": "plenty-of-armors-1.3.0+mc1.20.1.jar",
+    "modId": "plentyofarmors",
+    "name": "Plenty Of Armors",
+    "version": "1.3.0",
+    "curseForgeHash": 135015471,
+    "modrinthHash": "5d97c043dc4049e4af129ffc49e8a1e5f62dcc5c"
+  },
+  "plushables-1.1.4.jar": {
+    "jarName": "plushables-1.1.4.jar",
+    "modId": "plushables",
+    "name": "Plushables",
+    "version": "1.1.4",
+    "curseForgeHash": 2568130782,
+    "modrinthHash": "f435a641a68c788681d4af816f6005ccd7b5f674"
+  },
+  "plushies-1.4.0-fabric.jar": {
+    "jarName": "plushies-1.4.0-fabric.jar",
+    "modId": "plushies",
+    "name": "Plushie Mod",
+    "version": "1.4.0",
+    "curseForgeHash": 1884307894,
+    "modrinthHash": "5320de3a6d6b88c88c31eb2de8fea4fd461ad879"
+  },
+  "polymorph-fabric-0.49.10+1.20.1.jar": {
+    "jarName": "polymorph-fabric-0.49.10+1.20.1.jar",
+    "modId": "polymorph",
+    "name": "Polymorph",
+    "version": "0.49.10+1.20.1",
+    "curseForgeHash": 1033762985,
+    "modrinthHash": "2ffcd9f030e4bb1fe202710cbd945c7f44f880cf"
+  },
+  "PresenceFootsteps-1.10.1+1.20.1.jar": {
+    "jarName": "PresenceFootsteps-1.10.1+1.20.1.jar",
+    "modId": "presencefootsteps",
+    "name": "Presence Footsteps",
+    "version": "1.10.1+1.20.1",
+    "curseForgeHash": 4215778409,
+    "modrinthHash": "8f88195dea52509564fabc3dfac966b09290d905"
+  },
+  "projectile_damage-fabric-3.2.3+1.20.1.jar": {
+    "jarName": "projectile_damage-fabric-3.2.3+1.20.1.jar",
+    "modId": "projectile_damage",
+    "name": "Projectile Damage Attribute",
+    "version": "3.2.3+1.20.1",
+    "curseForgeHash": 1314184971,
+    "modrinthHash": "eee3c5e0a04ade8d52a5d51ef5826dc2577ec337"
+  },
+  "puffish_attributes-0.8.2-1.20-fabric.jar": {
+    "jarName": "puffish_attributes-0.8.2-1.20-fabric.jar",
+    "modId": "puffish_attributes",
+    "name": "Pufferfish\u0027s Attributes",
+    "version": "0.8.2",
+    "curseForgeHash": 3759813025,
+    "modrinthHash": "2f0bc1ab286f88f3f86b46a4e0466e59aa7a8ef1"
+  },
+  "puffish_skills-0.17.3-1.20-fabric.jar": {
+    "jarName": "puffish_skills-0.17.3-1.20-fabric.jar",
+    "modId": "puffish_skills",
+    "name": "Pufferfish\u0027s Skills",
+    "version": "0.17.3",
+    "curseForgeHash": 556468567,
+    "modrinthHash": "0c0877e606fbf7bd2f2189ccc2faefabe239c004"
+  },
+  "puffish_skills_origins-0.2.1-1.20.1-fabric.jar": {
+    "jarName": "puffish_skills_origins-0.2.1-1.20.1-fabric.jar",
+    "modId": "puffish_skills_origins",
+    "name": "Pufferfish\u0027s Skills x Origins",
+    "version": "0.2.1",
+    "curseForgeHash": 1494824886,
+    "modrinthHash": "62b39edf572f54f19d635076a45b172abf3bd221"
+  },
+  "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar": {
+    "jarName": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+    "modId": "puzzleslib",
+    "name": "Puzzles Lib",
+    "version": "8.1.33",
+    "curseForgeHash": 1322809292,
+    "modrinthHash": "13282e818c9b5d20ba9f50949e3776d678d6926d"
+  },
+  "pvptoggle-1.3.0+1.20.1.jar": {
+    "jarName": "pvptoggle-1.3.0+1.20.1.jar",
+    "modId": "pvptoggle",
+    "name": "pvptoggle",
+    "version": "1.3.0+1.20.1",
+    "curseForgeHash": 1593869600,
+    "modrinthHash": "5175aa15937f8d82e59e60b4265fa7db5f04af35"
+  },
+  "ranged_weapon_api-1.1.4+1.20.1.jar": {
+    "jarName": "ranged_weapon_api-1.1.4+1.20.1.jar",
+    "modId": "ranged_weapon_api",
+    "name": "RangedWeaponAPI",
+    "version": "1.1.4+1.20.1",
+    "curseForgeHash": 2598830297,
+    "modrinthHash": "0766a20408c19c5abed47784220f9d33fbac22dd"
+  },
+  "ReBalance-FABRIC-1.2.0.jar": {
+    "jarName": "ReBalance-FABRIC-1.2.0.jar",
+    "modId": "rebalance",
+    "name": "ReBalance",
+    "version": "1.2.0",
+    "curseForgeHash": 103525026,
+    "modrinthHash": "42dfe3160385c579b71a0df227593cb7587d3fdc"
+  },
+  "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar": {
+    "jarName": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+    "modId": "reeses-sodium-options",
+    "name": "Reese\u0027s Sodium Options",
+    "version": "1.7.2+mc1.20.1-build.101",
+    "curseForgeHash": 594864691,
+    "modrinthHash": "206f1b01b99ac3df99ddd84ed96b466a8700412d"
+  },
+  "refurbished_furniture-fabric-1.20.1-1.0.20.jar": {
+    "jarName": "refurbished_furniture-fabric-1.20.1-1.0.20.jar",
+    "modId": "refurbished_furniture",
+    "name": "MrCrayfish\u0027s Furniture Mod: Refurbished",
+    "version": "1.0.20",
+    "curseForgeHash": 2096795293,
+    "modrinthHash": "b16d2dbca7e831051ed15d5e510d310f11ce31e1"
+  },
+  "RegionsUnexploredFabric-0.5.6+1.20.1.jar": {
+    "jarName": "RegionsUnexploredFabric-0.5.6+1.20.1.jar",
+    "modId": "regions_unexplored",
+    "name": "Regions Unexplored",
+    "version": "0.5.6+1.20.1",
+    "curseForgeHash": 805648496,
+    "modrinthHash": "3b5df7c76431a47d80669f5c1be07136c3e160c0"
+  },
+  "registry_dumper_3000-fabric-1.0.0.jar": {
+    "jarName": "registry_dumper_3000-fabric-1.0.0.jar",
+    "modId": "registry_dumper_3000",
+    "name": "REGISTRY DUMPER 3000",
+    "version": "1.0.0",
+    "curseForgeHash": 3292803255,
+    "modrinthHash": "409d068935307e1436b6c162d24ed3324b129cb8"
+  },
+  "resourcefulconfig-fabric-1.20.1-2.1.3.jar": {
+    "jarName": "resourcefulconfig-fabric-1.20.1-2.1.3.jar",
+    "modId": "resourcefulconfig",
+    "name": "Resourcefulconfig",
+    "version": "2.1.3",
+    "curseForgeHash": 2279038293,
+    "modrinthHash": "d351fd7247c8adc0fe41d6b3a04bf869fdf4ddbc"
+  },
+  "resourcefullib-fabric-1.20.1-2.1.29.jar": {
+    "jarName": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+    "modId": "resourcefullib",
+    "name": "Resourceful Lib",
+    "version": "2.1.29",
+    "curseForgeHash": 4180398969,
+    "modrinthHash": "e1d85a3100c2f3683a65dca20518e3914d82b0f0"
+  },
+  "rogues-1.2.0+1.20.1.jar": {
+    "jarName": "rogues-1.2.0+1.20.1.jar",
+    "modId": "rogues",
+    "name": "Rogues \u0026 Warriors (RPG Series)",
+    "version": "1.2.0+1.20.1",
+    "curseForgeHash": 1961803175,
+    "modrinthHash": "de43a6cfb24127ecb47aeca18af5f201c47bc61b"
+  },
+  "rpgmana-1.1.0.jar": {
+    "jarName": "rpgmana-1.1.0.jar",
+    "modId": "rpgmana",
+    "name": "rpgmana",
+    "version": "1.1.0",
+    "curseForgeHash": 2115370661,
+    "modrinthHash": "fb762fc6079f38c7e0fe77c69e72a386075331ea"
+  },
+  "runes-0.9.13+1.20.1.jar": {
+    "jarName": "runes-0.9.13+1.20.1.jar",
+    "modId": "runes",
+    "name": "Runes",
+    "version": "0.9.13+1.20.1",
+    "curseForgeHash": 3521509255,
+    "modrinthHash": "9a13275dc0cf1c092fda619bfb88415fee7e2e67"
+  },
+  "Sakisiil _D.jar": {
+    "jarName": "Sakisiil _D.jar",
+    "modId": "beeorigin",
+    "name": "Sakisiil",
+    "version": ":D",
+    "curseForgeHash": 3601748835,
+    "modrinthHash": "3e4390dd1c62fd2d389f68012110abe710b469fb"
+  },
+  "sapling-tweaks-1.jar": {
+    "jarName": "sapling-tweaks-1.jar",
+    "modId": "mr_sapling_tweaks",
+    "name": "Sapling Tweaks",
+    "version": "1",
+    "curseForgeHash": 721164226,
+    "modrinthHash": "03e77dc89503a8fd860504fcfd5286f6a43972eb"
+  },
+  "sbaegis-origin-aio-1.20.1-1.3.jar": {
+    "jarName": "sbaegis-origin-aio-1.20.1-1.3.jar",
+    "modId": "sbaegis_origin_datapack_1_20_1_1_3",
+    "name": "sbaegis-origin-datapack-1.20.1-1.3",
+    "version": "1.20.1",
+    "curseForgeHash": 3530299044,
+    "modrinthHash": "9f3dffbc2d0499bfbfe97100aa9ba9768a137eea"
+  },
+  "Sculked_Magpie_No_Blue-2.0.0.jar": {
+    "jarName": "Sculked_Magpie_No_Blue-2.0.0.jar",
+    "modId": "sculkedmagpie",
+    "name": "Sculked Magpie",
+    "version": "1.1",
+    "curseForgeHash": 1992809267,
+    "modrinthHash": "0b13df4605901fa3589154dbe682beb076b0f99e"
+  },
+  "Searchables-fabric-1.20.1-1.0.3.jar": {
+    "jarName": "Searchables-fabric-1.20.1-1.0.3.jar",
+    "modId": "searchables",
+    "name": "Searchables",
+    "version": "1.0.3",
+    "curseForgeHash": 1490916762,
+    "modrinthHash": "3fe28bfd8de8f13adeefb4dd5c9a8f97b233a0a1"
+  },
+  "seasonhud-fabric-1.20.1-2.0.5.jar": {
+    "jarName": "seasonhud-fabric-1.20.1-2.0.5.jar",
+    "modId": "seasonhud",
+    "name": "SeasonHud",
+    "version": "2.0.5",
+    "curseForgeHash": 1376375696,
+    "modrinthHash": "03a22c60b137d6806ae229f37cee1f53bcfc11cf"
+  },
+  "servercore-fabric-1.5.2+1.20.1.jar": {
+    "jarName": "servercore-fabric-1.5.2+1.20.1.jar",
+    "modId": "servercore",
+    "name": "ServerCore",
+    "version": "1.5.2+1.20.1",
+    "curseForgeHash": 2415722253,
+    "modrinthHash": "681757921997f3ab8455a968bf77ee4f305b82ed"
+  },
+  "servercountryflags-1.10.3-1.20.1-FABRIC.jar": {
+    "jarName": "servercountryflags-1.10.3-1.20.1-FABRIC.jar",
+    "modId": "servercountryflags",
+    "name": "Server Country Flags",
+    "version": "1.10.3",
+    "curseForgeHash": 2287286327,
+    "modrinthHash": "cea9e22e216680dc0e17ef014e69e954c1bd66ba"
+  },
+  "shadowmounts-1.20.1-1.1.jar": {
+    "jarName": "shadowmounts-1.20.1-1.1.jar",
+    "modId": "shadowmounts",
+    "name": "Shadow Mounts",
+    "version": "1.1",
+    "curseForgeHash": 967640322,
+    "modrinthHash": "d758d767de411966babf5571f8d303501fbc17c2"
+  },
+  "ShieldAPI-1.0.1+1.20.1.jar": {
+    "jarName": "ShieldAPI-1.0.1+1.20.1.jar",
+    "modId": "shield_api",
+    "name": "Shield API",
+    "version": "1.0.1+1.20.1",
+    "curseForgeHash": 1519618520,
+    "modrinthHash": "3eff6896e92094df2fefc8175f8416d0532eec53"
+  },
+  "shut-up-mcd-1.2.0.jar": {
+    "jarName": "shut-up-mcd-1.2.0.jar",
+    "modId": "shut-up-mcd",
+    "name": "Shut Up MCD",
+    "version": "1.2.0",
+    "curseForgeHash": 3085818299,
+    "modrinthHash": "356297767da64864c71cc13ff6184dfa12856b45"
+  },
+  "SimpleRPC-4.0.5.jar": {
+    "jarName": "SimpleRPC-4.0.5.jar",
+    "modId": "simplerpc",
+    "name": "Simple RPC",
+    "version": "4.0.5",
+    "curseForgeHash": 2346985665,
+    "modrinthHash": "6ec6f18ac26b82101e5d78974a541f3dff6ca1c4"
+  },
+  "simplybows-fabric-0.1.2.jar": {
+    "jarName": "simplybows-fabric-0.1.2.jar",
+    "modId": "simplybows",
+    "name": "Simply Bows",
+    "version": "0.1.2",
+    "curseForgeHash": 1166634840,
+    "modrinthHash": "bfb7c4bb764ea110cdd4df687c2b16e1f9ef4067"
+  },
+  "SimplyHouses-1.1.4-1.20.1-fabric.jar": {
+    "jarName": "SimplyHouses-1.1.4-1.20.1-fabric.jar",
+    "modId": "simply_houses",
+    "name": "Simply Houses",
+    "version": "1.1.4-1.20.1",
+    "curseForgeHash": 3601224801,
+    "modrinthHash": "de7a399fcddce48dce4bfb6c7a941d70e3b52f17"
+  },
+  "simplymore-fabric-1.1.3.jar": {
+    "jarName": "simplymore-fabric-1.1.3.jar",
+    "modId": "simplymore",
+    "name": "Simply More",
+    "version": "1.1.3",
+    "curseForgeHash": 2353031815,
+    "modrinthHash": "52b57dde63b68c26827b9c0c5b93b52f2499daac"
+  },
+  "simplyswords-1.56.0-1.20.1.jar": {
+    "jarName": "simplyswords-1.56.0-1.20.1.jar",
+    "modId": "simplyswords",
+    "name": "Simply Swords",
+    "version": "1.56.0-1.20.1",
+    "curseForgeHash": 2704237102,
+    "modrinthHash": "6243b46a0ce782f6071243cd2a604470aaf38d77"
+  },
+  "SimplyTooltips-fabric-0.1.3.jar": {
+    "jarName": "SimplyTooltips-fabric-0.1.3.jar",
+    "modId": "simplytooltips",
+    "name": "Simply Tooltips",
+    "version": "0.1.3",
+    "curseForgeHash": 3932830784,
+    "modrinthHash": "0d8749647009e3105f7270bc6ecf405fd65aa725"
+  },
+  "sit-1.20.1-27.jar": {
+    "jarName": "sit-1.20.1-27.jar",
+    "modId": "sit",
+    "name": "Sit",
+    "version": "1.20.1-27",
+    "curseForgeHash": 4020386601,
+    "modrinthHash": "7a2d4e1fd19b5cb8948579ef72dd1467c6c3515f"
+  },
+  "skills_mastery.jar": {
+    "jarName": "skills_mastery.jar",
+    "modId": "skills_mastery",
+    "name": "Skills Mastery",
+    "version": "1.0",
+    "curseForgeHash": 2117483152,
+    "modrinthHash": "9a99801916489019fc8a2aad156d6159e3795f85"
+  },
+  "SkyVillages-1.0.4-1.19.2-1.20.1-fabric.jar": {
+    "jarName": "SkyVillages-1.0.4-1.19.2-1.20.1-fabric.jar",
+    "modId": "skyvillages",
+    "name": "Sky Villages",
+    "version": "1.0.4-1.19.2-1.20.1",
+    "curseForgeHash": 1189207347,
+    "modrinthHash": "40917a08d8738e52593980c9a530af676153d51f"
+  },
+  "slabsandstairs-1.7.2.jar": {
+    "jarName": "slabsandstairs-1.7.2.jar",
+    "modId": "slabsandstairs",
+    "name": "Frostbyte\u0027s Slabs \u0026 Stairs",
+    "version": "1.7.2",
+    "curseForgeHash": 3041642251,
+    "modrinthHash": "01d4a2b05920ecec87c2b0888f747e945932ff7e"
+  },
+  "SlotCycler-v8.0.1-1.20.1-Fabric.jar": {
+    "jarName": "SlotCycler-v8.0.1-1.20.1-Fabric.jar",
+    "modId": "slotcycler",
+    "name": "Slot Cycler",
+    "version": "8.0.1",
+    "curseForgeHash": 814649364,
+    "modrinthHash": "7f3bb31da87df7c9420f30011dce9371599b7a24"
+  },
+  "SmartBrainLib-fabric-1.20.1-1.15.jar": {
+    "jarName": "SmartBrainLib-fabric-1.20.1-1.15.jar",
+    "modId": "smartbrainlib",
+    "name": "SmartBrainLib",
+    "version": "1.15",
+    "curseForgeHash": 2858931198,
+    "modrinthHash": "6abaa9601d02c9941134fa310a7a3665d9bad285"
+  },
+  "snowyspirit-1.20-3.0.10-fabric.jar": {
+    "jarName": "snowyspirit-1.20-3.0.10-fabric.jar",
+    "modId": "snowyspirit",
+    "name": "Snowy Spirit",
+    "version": "1.20-3.0.10",
+    "curseForgeHash": 2447864534,
+    "modrinthHash": "23bcf6b59ba5182b06c65b3d305f51c7c0c67887"
+  },
+  "sodium-extra-0.5.9+mc1.20.1.jar": {
+    "jarName": "sodium-extra-0.5.9+mc1.20.1.jar",
+    "modId": "sodium-extra",
+    "name": "Sodium Extra",
+    "version": "0.5.9+mc1.20.1",
+    "curseForgeHash": 3278445562,
+    "modrinthHash": "0f97ec3f395b223848a63573b1a46cbecf97f19f"
+  },
+  "sodium-fabric-0.5.13+mc1.20.1.jar": {
+    "jarName": "sodium-fabric-0.5.13+mc1.20.1.jar",
+    "modId": "sodium",
+    "name": "Sodium",
+    "version": "0.5.13+mc1.20.1",
+    "curseForgeHash": 2838862230,
+    "modrinthHash": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
+  },
+  "soulslike-weaponry-1.3.1-1.20.1-fabric.jar": {
+    "jarName": "soulslike-weaponry-1.3.1-1.20.1-fabric.jar",
+    "modId": "soulsweapons",
+    "name": "Marium\u0027s Soulslike Weaponry",
+    "version": "1.3.1-1.20.1-fabric",
+    "curseForgeHash": 1365394739,
+    "modrinthHash": "d243144eda63a0f5bf1b416db2280f89d08ea4f5"
+  },
+  "speedometer-1.3.1.jar": {
+    "jarName": "speedometer-1.3.1.jar",
+    "modId": "speedometer",
+    "name": "Speedometer Mod",
+    "version": "1.3.1",
+    "curseForgeHash": 2453491677,
+    "modrinthHash": "d5a19f14eb6ffd2cad13b09b1b055ef69a02d29b"
+  },
+  "spell_engine-0.15.12+1.20.1.jar": {
+    "jarName": "spell_engine-0.15.12+1.20.1.jar",
+    "modId": "spell_engine",
+    "name": "Spell Engine",
+    "version": "0.15.12+1.20.1",
+    "curseForgeHash": 2286064743,
+    "modrinthHash": "beb07c4466257c32821c8461d52e121931e85de2"
+  },
+  "spell_power-0.12.0+1.20.1.jar": {
+    "jarName": "spell_power-0.12.0+1.20.1.jar",
+    "modId": "spell_power",
+    "name": "Spell Power Attribute",
+    "version": "0.12.0+1.20.1",
+    "curseForgeHash": 953494433,
+    "modrinthHash": "777fcfb31857f233977172370fd612d087650f94"
+  },
+  "spellbladenext-2.4.0+1.20.1.jar": {
+    "jarName": "spellbladenext-2.4.0+1.20.1.jar",
+    "modId": "spellbladenext",
+    "name": "Spellblades and Such",
+    "version": "2.4.0+1.20.1",
+    "curseForgeHash": 1184277161,
+    "modrinthHash": "f53ea7c599b0e0d98caac95f907712e6e730627a"
+  },
+  "spellslabextra-1.2-1.20.1.jar": {
+    "jarName": "spellslabextra-1.2-1.20.1.jar",
+    "modId": "spellslabextra",
+    "name": "Spells Lab : Extras",
+    "version": "1.2-1.20.1",
+    "curseForgeHash": 3819917056,
+    "modrinthHash": "cd5d958b8edeb96a882f870449349ceaff81a4b0"
+  },
+  "structure_pool_api-1.0+1.20.1.jar": {
+    "jarName": "structure_pool_api-1.0+1.20.1.jar",
+    "modId": "structure_pool_api",
+    "name": "Structure Pool API",
+    "version": "1.0+1.20.1",
+    "curseForgeHash": 3109860439,
+    "modrinthHash": "4af199a3930dc5b1d343a7824b69063d240f0c0f"
+  },
+  "structurecredits-LASTVERSION.jar": {
+    "jarName": "structurecredits-LASTVERSION.jar",
+    "modId": "structurecredits",
+    "name": "Structure Credits",
+    "version": "LASTVERSION",
+    "curseForgeHash": 3520651501,
+    "modrinthHash": "ae06f1b664e13d9ca16b7e444b9a4cdd7f635a02"
+  },
+  "styled-chat-2.2.4+1.20.1.jar": {
+    "jarName": "styled-chat-2.2.4+1.20.1.jar",
+    "modId": "styledchat",
+    "name": "Styled Chat",
+    "version": "2.2.4+1.20.1",
+    "curseForgeHash": 925702886,
+    "modrinthHash": "ce0c1b16bb22f90b23b1b9b63f2b334fc56f0d52"
+  },
+  "styledplayerlist-3.1.1+1.20.1.jar": {
+    "jarName": "styledplayerlist-3.1.1+1.20.1.jar",
+    "modId": "styledplayerlist",
+    "name": "Styled Player List",
+    "version": "3.1.1+1.20.1",
+    "curseForgeHash": 1656914041,
+    "modrinthHash": "8c6db42ea55444208010920547fa8cc2cb2f29d2"
+  },
+  "StylishEffects-v8.0.2-1.20.1-Fabric.jar": {
+    "jarName": "StylishEffects-v8.0.2-1.20.1-Fabric.jar",
+    "modId": "stylisheffects",
+    "name": "Stylish Effects",
+    "version": "8.0.2",
+    "curseForgeHash": 3444328283,
+    "modrinthHash": "88d7bdb5a4223d157f8e1c463a86505de7a2c4d1"
+  },
+  "TaxFreeLevels-1.4.14-fabric-1.20.1.jar": {
+    "jarName": "TaxFreeLevels-1.4.14-fabric-1.20.1.jar",
+    "modId": "taxfreelevels",
+    "name": "Tax Free Levels",
+    "version": "1.4.14",
+    "curseForgeHash": 1111706190,
+    "modrinthHash": "412f3be8a2b32cc7dac3108040e37e77716db0a5"
+  },
+  "TerraBlender-fabric-1.20.1-3.0.1.10.jar": {
+    "jarName": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+    "modId": "terrablender",
+    "name": "TerraBlender",
+    "version": "3.0.1.10",
+    "curseForgeHash": 1666407603,
+    "modrinthHash": "bc61e5ac5ec75f33827b65942df6d533c8d166e3"
+  },
+  "terraria_origins_4.jar": {
+    "jarName": "terraria_origins_4.jar",
+    "modId": "terrariaorigins",
+    "name": "Terraria Origins",
+    "version": "1.0.0",
+    "curseForgeHash": 1627178256,
+    "modrinthHash": "6568005b0366a7ff0de277023be560e29bd637ed"
+  },
+  "thaumon-fabric-2.3.0+1.20.1.jar": {
+    "jarName": "thaumon-fabric-2.3.0+1.20.1.jar",
+    "modId": "thaumon",
+    "name": "Thaumon",
+    "version": "2.3.0+1.20.1",
+    "curseForgeHash": 698748057,
+    "modrinthHash": "4160788cce0b4febd49d6699455dd4e2e8deaa88"
+  },
+  "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar": {
+    "jarName": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+    "modId": "graveyard",
+    "name": "The Graveyard",
+    "version": "3.0",
+    "curseForgeHash": 3155120207,
+    "modrinthHash": "a5cb5de7f0cb9931cae5526eb310e4c3017b7cfe"
+  },
+  "things-0.3.3+1.20.jar": {
+    "jarName": "things-0.3.3+1.20.jar",
+    "modId": "things",
+    "name": "Things",
+    "version": "0.3.3+1.20",
+    "curseForgeHash": 2182287218,
+    "modrinthHash": "7c1df2914ddda8b22b93d8823b8c5f3a7076afd4"
+  },
+  "tidal-towns-1.3.4.jar": {
+    "jarName": "tidal-towns-1.3.4.jar",
+    "modId": "mr_tidal_towns",
+    "name": "Tidal Towns",
+    "version": "1.3.4",
+    "curseForgeHash": 575360458,
+    "modrinthHash": "a0a8db8df7a471e75b53e3fa8cafc7ca767f5506"
+  },
+  "Tierify-FABRIC-1.20.1-1.2.0.jar": {
+    "jarName": "Tierify-FABRIC-1.20.1-1.2.0.jar",
+    "modId": "tiered",
+    "name": "Tierify",
+    "version": "1.2.0",
+    "curseForgeHash": 3077620179,
+    "modrinthHash": "d518fb9afefbd23acc9c0a41c5f7752cda5e7c55"
+  },
+  "timeoutout-1.0.3+1.19.1.jar": {
+    "jarName": "timeoutout-1.0.3+1.19.1.jar",
+    "modId": "timeoutout",
+    "name": "TimeOut Out",
+    "version": "1.0.3+1.19.1",
+    "curseForgeHash": 4012326280,
+    "modrinthHash": "ca85e8276c84d67361331ad2aadd5ed1eab3cf8c"
+  },
+  "tinypaper-fabric-1.20.1-1.0.1.jar": {
+    "jarName": "tinypaper-fabric-1.20.1-1.0.1.jar",
+    "modId": "tinypaper",
+    "name": "Tiny Paper Origin",
+    "version": "1.0.1",
+    "curseForgeHash": 1426204734,
+    "modrinthHash": "05080684a1e1f9994799b8dad7bb6116010d2816"
+  },
+  "toms_storage_fabric-1.20-1.7.1.jar": {
+    "jarName": "toms_storage_fabric-1.20-1.7.1.jar",
+    "modId": "toms_storage",
+    "name": "Tom\u0027s Simple Storage Mod",
+    "version": "1.7.1",
+    "curseForgeHash": 1727769284,
+    "modrinthHash": "adef379e843b6788f0743b035e4658e043baf2f5"
+  },
+  "toms_trading_network-fabric-1.20-0.3.0.jar": {
+    "jarName": "toms_trading_network-fabric-1.20-0.3.0.jar",
+    "modId": "toms_trading_network",
+    "name": "Tom\u0027s Trading Network",
+    "version": "0.3.0",
+    "curseForgeHash": 439662179,
+    "modrinthHash": "6d37130740a91b0531e05facd683fbf73aad97d1"
+  },
+  "toofast-fabric-1.20-1.2.0.jar": {
+    "jarName": "toofast-fabric-1.20-1.2.0.jar",
+    "modId": "toofast",
+    "name": "TooFast",
+    "version": "1.2.0",
+    "curseForgeHash": 2558428174,
+    "modrinthHash": "f28b24f929ffbf960e096fa0327d0d318cb851b3"
+  },
+  "tooltipoverhaul-fabric-1.20.1-1.4.3.jar": {
+    "jarName": "tooltipoverhaul-fabric-1.20.1-1.4.3.jar",
+    "modId": "tooltipoverhaul",
+    "name": "Tooltip Overhaul",
+    "version": "1.4.3",
+    "curseForgeHash": 1953247092,
+    "modrinthHash": "57237752f3bc398b52c6aacf7b72d56d3d7de2de"
+  },
+  "totw_additions-1.3.0-1.20.x-fabric.jar": {
+    "jarName": "totw_additions-1.3.0-1.20.x-fabric.jar",
+    "modId": "totw_additions",
+    "name": "Towers of the Wild: Additions",
+    "version": "1.3",
+    "curseForgeHash": 470428428,
+    "modrinthHash": "571b64441b4b45100bee9a218d7c944f62b23ae7"
+  },
+  "trade-cycling-fabric-1.20.1-1.0.7.jar": {
+    "jarName": "trade-cycling-fabric-1.20.1-1.0.7.jar",
+    "modId": "trade_cycling",
+    "name": "Trade Cycling",
+    "version": "1.20.1-1.0.7",
+    "curseForgeHash": 1859850879,
+    "modrinthHash": "8d9610407720e3fc646e604214a3b700b4943c41"
+  },
+  "transmog-fabric-1.3.0+1.20.jar": {
+    "jarName": "transmog-fabric-1.3.0+1.20.jar",
+    "modId": "transmog",
+    "name": "Transmog",
+    "version": "1.3.0+1.20",
+    "curseForgeHash": 436318405,
+    "modrinthHash": "abb0563086c258941355b4f092b3a4c18b91896f"
+  },
+  "trashslot-fabric-1.20.1-15.1.5.jar": {
+    "jarName": "trashslot-fabric-1.20.1-15.1.5.jar",
+    "modId": "trashslot",
+    "name": "TrashSlot",
+    "version": "15.1.5",
+    "curseForgeHash": 4180253997,
+    "modrinthHash": "2d974e659ddb6faff4bd9d58a4712d56d001aa92"
+  },
+  "travelersbackpack-fabric-1.20.1-9.1.52.jar": {
+    "jarName": "travelersbackpack-fabric-1.20.1-9.1.52.jar",
+    "modId": "travelersbackpack",
+    "name": "Traveler\u0027s Backpack",
+    "version": "9.1.52",
+    "curseForgeHash": 1311785786,
+    "modrinthHash": "3e65d00879f1eae1574beea38f75d997e6d3d472"
+  },
+  "TravelersTitles-1.20-Fabric-4.0.2.jar": {
+    "jarName": "TravelersTitles-1.20-Fabric-4.0.2.jar",
+    "modId": "travelerstitles",
+    "name": "Traveler\u0027s Titles",
+    "version": "1.20-Fabric-4.0.2",
+    "curseForgeHash": 2439138439,
+    "modrinthHash": "9698f7347b3c98276e4d4035e731e34e926e82d0"
+  },
+  "tridents_n_stuff-0.2.0+1.20.1.jar": {
+    "jarName": "tridents_n_stuff-0.2.0+1.20.1.jar",
+    "modId": "tridents_n_stuff",
+    "name": "Tridents \u0027n\u0027 Stuff",
+    "version": "0.2.0+1.20.1",
+    "curseForgeHash": 2436452043,
+    "modrinthHash": "bfefa7f6113e7fc837c9a9be5eb5ad1a1d9f64b1"
+  },
+  "trinkets-3.7.2.jar": {
+    "jarName": "trinkets-3.7.2.jar",
+    "modId": "trinkets",
+    "name": "Trinkets",
+    "version": "3.7.2",
+    "curseForgeHash": 1562565928,
+    "modrinthHash": "d58cc8759587f03f320f188972ca66baa788d008"
+  },
+  "triqueapi-mc1.20.1-1.1.0.jar": {
+    "jarName": "triqueapi-mc1.20.1-1.1.0.jar",
+    "modId": "triqueapi",
+    "name": "TriQue API",
+    "version": "mc1.20.1-1.1.0",
+    "curseForgeHash": 2726298062,
+    "modrinthHash": "40bcc0416578c2c06a37f7c3f4f1e44499b32d81"
+  },
+  "trowel-1.3.0-1.20.jar": {
+    "jarName": "trowel-1.3.0-1.20.jar",
+    "modId": "trowel",
+    "name": "Trowel",
+    "version": "1.3.0-1.20",
+    "curseForgeHash": 2435980819,
+    "modrinthHash": "e22fc91155a6ca5c8e5df943bc124403887879f9"
+  },
+  "UndergroundBunkers-1.0.3-1.19.2-1.20.4-fabric.jar": {
+    "jarName": "UndergroundBunkers-1.0.3-1.19.2-1.20.4-fabric.jar",
+    "modId": "underground_bunkers",
+    "name": "Underground Bunkers",
+    "version": "1.0.3",
+    "curseForgeHash": 3180057063,
+    "modrinthHash": "c36833ac1b8059b6deda6b98e5ef9707cc9f4469"
+  },
+  "underlay-1.0.1-fabric-mc1.20.1.jar": {
+    "jarName": "underlay-1.0.1-fabric-mc1.20.1.jar",
+    "modId": "underlay",
+    "name": "Underlay",
+    "version": "1.0.1",
+    "curseForgeHash": 3972526858,
+    "modrinthHash": "fbcea092259833fb73f716b5210a8d962bdab83f"
+  },
+  "UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar": {
+    "jarName": "UniversalBoneMeal-v8.0.1-1.20.1-Fabric.jar",
+    "modId": "universalbonemeal",
+    "name": "Universal Bone Meal",
+    "version": "8.0.1",
+    "curseForgeHash": 3346622789,
+    "modrinthHash": "31ed2b5b85d60017fc1692854efefa3836a545b7"
+  },
+  "unsafe-world-random-access-detector-1.1.0.jar": {
+    "jarName": "unsafe-world-random-access-detector-1.1.0.jar",
+    "modId": "unsafe-world-random-access-detector",
+    "name": "Unsafe World Random Access Detector",
+    "version": "1.1.0",
+    "curseForgeHash": 2870545794,
+    "modrinthHash": "c344c801f41b767c99ab7b0139ed72c7f86647f1"
+  },
+  "vanilla-permissions-0.2.9+1.20.1.jar": {
+    "jarName": "vanilla-permissions-0.2.9+1.20.1.jar",
+    "modId": "vanilla-permissions",
+    "name": "Vanilla Permissions",
+    "version": "0.2.9+1.20.1",
+    "curseForgeHash": 1303225473,
+    "modrinthHash": "ae74682f2e3ed9341c3c0889c66f7ccc11f13ed4"
+  },
+  "vanillabackport-fabric-1.20.1-1.1.4.3.jar": {
+    "jarName": "vanillabackport-fabric-1.20.1-1.1.4.3.jar",
+    "modId": "vanillabackport",
+    "name": "VanillaBackport",
+    "version": "1.1.4.3",
+    "curseForgeHash": 1663154767,
+    "modrinthHash": "f06acad0cfbb87ecf6a82895c1caff7797691c93"
+  },
+  "vanish-1.5.5+1.20.1.jar": {
+    "jarName": "vanish-1.5.5+1.20.1.jar",
+    "modId": "melius-vanish",
+    "name": "Vanish",
+    "version": "1.5.5+1.20.1",
+    "curseForgeHash": 249007517,
+    "modrinthHash": "032b1c8f2ec5e11be296a200f65d3693a8553662"
+  },
+  "variantbarrels-3.4.1.jar": {
+    "jarName": "variantbarrels-3.4.1.jar",
+    "modId": "variantbarrels",
+    "name": "Variant Barrels",
+    "version": "3.4.1",
+    "curseForgeHash": 701395501,
+    "modrinthHash": "ae36ec39e6ee4e51fb94caf52d1856cb55bf5f30"
+  },
+  "variantbeehives-1.2.jar": {
+    "jarName": "variantbeehives-1.2.jar",
+    "modId": "variantbeehives",
+    "name": "Variant Beehives",
+    "version": "1.2",
+    "curseForgeHash": 3717519014,
+    "modrinthHash": "f3df3628d0f9482576cb3be78207cb1cd3159cf1"
+  },
+  "variantbookshelves-2.3.8.jar": {
+    "jarName": "variantbookshelves-2.3.8.jar",
+    "modId": "variantbookshelves",
+    "name": "Variant Bookshelves",
+    "version": "2.3.8",
+    "curseForgeHash": 3832562564,
+    "modrinthHash": "e6739d80284e87b0d1e9da3a6ba2b9f2147cc34b"
+  },
+  "variantchiseledbookshelves-1.3.8.jar": {
+    "jarName": "variantchiseledbookshelves-1.3.8.jar",
+    "modId": "variantchiseledbookshelves",
+    "name": "Variant Chiseled Bookshelves",
+    "version": "1.3.8",
+    "curseForgeHash": 2391444578,
+    "modrinthHash": "f0181a3ea03ad9b7d987bf2dc713a99bc5b8f3d0"
+  },
+  "variantcomposters-2.4.1.jar": {
+    "jarName": "variantcomposters-2.4.1.jar",
+    "modId": "variantcomposters",
+    "name": "Variant Composters",
+    "version": "2.4.1",
+    "curseForgeHash": 3388102570,
+    "modrinthHash": "b62c9e26242daaf2d46976af27ede61d47c8a5f9"
+  },
+  "variantfletchingtables-1.2.1.jar": {
+    "jarName": "variantfletchingtables-1.2.1.jar",
+    "modId": "variantfletchingtables",
+    "name": "Variant Fletching Tables",
+    "version": "1.2.1",
+    "curseForgeHash": 3103260865,
+    "modrinthHash": "5a7cdf37299f80e39f2c77f196b0966e1be35987"
+  },
+  "variantlecterns-1.0.jar": {
+    "jarName": "variantlecterns-1.0.jar",
+    "modId": "variantlecterns",
+    "name": "Variant Lecterns",
+    "version": "1.0",
+    "curseForgeHash": 3512189789,
+    "modrinthHash": "b4fd062444c54ae4947b0f41f372b1d083c41c5b"
+  },
+  "variantshields-2.1.jar": {
+    "jarName": "variantshields-2.1.jar",
+    "modId": "variantshields",
+    "name": "Variant Shields",
+    "version": "2.1",
+    "curseForgeHash": 2204683937,
+    "modrinthHash": "0ce498913f4e3d7163c15eb27f3314ee659ebd70"
+  },
+  "villagerconfig-4.1.2+1.20.1.jar": {
+    "jarName": "villagerconfig-4.1.2+1.20.1.jar",
+    "modId": "villagerconfig",
+    "name": "VillagerConfig",
+    "version": "4.1.2+1.20.1",
+    "curseForgeHash": 2780317548,
+    "modrinthHash": "bd106010879bdf05b370e712c4512b7f3cd79a61"
+  },
+  "walljump-fabric-1.20.1-1.4.4.jar": {
+    "jarName": "walljump-fabric-1.20.1-1.4.4.jar",
+    "modId": "walljump",
+    "name": "Wall Jump",
+    "version": "1.4.4",
+    "curseForgeHash": 3258912966,
+    "modrinthHash": "7413559ed4bb213479fe6227be30a7b7e842d30c"
+  },
+  "wardentools-2.5.0+mc1.20.1.jar": {
+    "jarName": "wardentools-2.5.0+mc1.20.1.jar",
+    "modId": "wardentools",
+    "name": "Warden Tools",
+    "version": "2.5.0+mc1.20.1",
+    "curseForgeHash": 2611836903,
+    "modrinthHash": "651a2aabf34c01dd10faf94f0cb72d8faa6ebc04"
+  },
+  "waterballoon-fabric-1.20.1-1.0.1.jar": {
+    "jarName": "waterballoon-fabric-1.20.1-1.0.1.jar",
+    "modId": "waterballoon",
+    "name": "Water Balloon Mod",
+    "version": "1.0.1",
+    "curseForgeHash": 203440979,
+    "modrinthHash": "569006b804602733b6ba30f56b1d2525de883393"
+  },
+  "waystones-fabric-1.20.1-14.1.20.jar": {
+    "jarName": "waystones-fabric-1.20.1-14.1.20.jar",
+    "modId": "waystones",
+    "name": "Waystones",
+    "version": "14.1.20",
+    "curseForgeHash": 1675595864,
+    "modrinthHash": "e1a800ab1ebcd7c12f42a55d9eb728e6b4d33e21"
+  },
+  "WeatherRefind-fabric-1.20.x-v1.4.jar": {
+    "jarName": "WeatherRefind-fabric-1.20.x-v1.4.jar",
+    "modId": "weatherrefind",
+    "name": "WeatherRefind",
+    "version": "1.4.0",
+    "curseForgeHash": 3144317434,
+    "modrinthHash": "efb50e7e9ff0d5a2808964fad2a61c36d4856d64"
+  },
+  "wetlands-1.2-1.20.1.jar": {
+    "jarName": "wetlands-1.2-1.20.1.jar",
+    "modId": "wetlands",
+    "name": "Beneath the Wetlands",
+    "version": "1.2",
+    "curseForgeHash": 925044939,
+    "modrinthHash": "a9c011e66bdf4b18dc2b2539043e5fb765660ed6"
+  },
+  "WI-Zoom-1.6-MC1.20.1.jar": {
+    "jarName": "WI-Zoom-1.6-MC1.20.1.jar",
+    "modId": "wi_zoom",
+    "name": "WI Zoom",
+    "version": "1.6-MC1.20.1",
+    "curseForgeHash": 2563045447,
+    "modrinthHash": "5d42fe9bed0c8653697fe0fa77c174df40c0259b"
+  },
+  "winterly-0.9.3+1.20.jar": {
+    "jarName": "winterly-0.9.3+1.20.jar",
+    "modId": "winterly",
+    "name": "Winterly",
+    "version": "0.9.3+1.20",
+    "curseForgeHash": 1020243947,
+    "modrinthHash": "6586e290b065930d0560a0f2cd459d8a324e0ac3"
+  },
+  "witcher-class-mod-1.2.3-1.20.1.jar": {
+    "jarName": "witcher-class-mod-1.2.3-1.20.1.jar",
+    "modId": "witcher_rpg",
+    "name": "Witcher Class Mod",
+    "version": "1.2.3-1.20.1",
+    "curseForgeHash": 3844911722,
+    "modrinthHash": "8be0da563bdfd57e6dde213f45c6198056466859"
+  },
+  "wizards-1.4.1+1.20.1.jar": {
+    "jarName": "wizards-1.4.1+1.20.1.jar",
+    "modId": "wizards",
+    "name": "Wizards (RPG Series)",
+    "version": "1.4.1+1.20.1",
+    "curseForgeHash": 2658353924,
+    "modrinthHash": "f898ae53feaf42c0f14fb2b12ac52df84e215d8f"
+  },
+  "wthit-1.20.1-fabric-8.21.1.jar": {
+    "jarName": "wthit-1.20.1-fabric-8.21.1.jar",
+    "modId": "wthit",
+    "name": "wthit",
+    "version": "8.21.1",
+    "curseForgeHash": 861847181,
+    "modrinthHash": "dc9e8fe26d44300314df50cc7f203117456355cb"
+  },
+  "xaerominimap-fabric-1.20.1-25.3.10.jar": {
+    "jarName": "xaerominimap-fabric-1.20.1-25.3.10.jar",
+    "modId": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "25.3.10",
+    "curseForgeHash": 3608356765,
+    "modrinthHash": "2fc54c6af762147657ec0c06c03e2fd0339783ee"
+  },
+  "xaeroworldmap-fabric-1.20.1-1.40.6.jar": {
+    "jarName": "xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+    "modId": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.40.6",
+    "curseForgeHash": 3861621124,
+    "modrinthHash": "6477dd04fa180ed3ed1f342ea37c3f2ba4f500b8"
+  },
+  "YeehawTowns-1.0.1-1.20.1-fabric.jar": {
+    "jarName": "YeehawTowns-1.0.1-1.20.1-fabric.jar",
+    "modId": "yeehaw_towns",
+    "name": "Yeehaw Towns",
+    "version": "1.0.1",
+    "curseForgeHash": 2869722629,
+    "modrinthHash": "3b31dfbfa21f44e8570a071c2c64b1b32ca559d1"
+  },
+  "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar": {
+    "jarName": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+    "modId": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "version": "3.6.6+1.20.1-fabric",
+    "curseForgeHash": 4220070944,
+    "modrinthHash": "dc5ac6c6c4d1e48e8e520b9a41b41e704e82cf55"
+  },
+  "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar": {
+    "jarName": "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar",
+    "modId": "ysns",
+    "name": "You Shall Not Spawn",
+    "version": "2.0.2",
+    "curseForgeHash": 1092410339,
+    "modrinthHash": "6ae7a59c180302a3dfa83611dbdbea6305a28547"
+  },
+  "YungsApi-1.20-Fabric-4.0.6.jar": {
+    "jarName": "YungsApi-1.20-Fabric-4.0.6.jar",
+    "modId": "yungsapi",
+    "name": "YUNG\u0027s API",
+    "version": "1.20-Fabric-4.0.6",
+    "curseForgeHash": 3864163444,
+    "modrinthHash": "8d39c739b534e7351e9fdabf045f171a4e45c98a"
+  },
+  "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar": {
+    "jarName": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+    "modId": "betterendisland",
+    "name": "YUNG\u0027s Better End Island",
+    "version": "1.20-Fabric-2.0.6",
+    "curseForgeHash": 3065227995,
+    "modrinthHash": "169bc72b247240b79cad00751e2d5a2b7493a389"
+  },
+  "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar": {
+    "jarName": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+    "modId": "betterfortresses",
+    "name": "YUNG\u0027s Better Nether Fortresses",
+    "version": "1.20-Fabric-2.0.6",
+    "curseForgeHash": 2871372311,
+    "modrinthHash": "837560db615bad870809e09436e943c4324301d1"
+  },
+  "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar": {
+    "jarName": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+    "modId": "betteroceanmonuments",
+    "name": "YUNG\u0027s Better Ocean Monuments",
+    "version": "1.20-Fabric-3.0.4",
+    "curseForgeHash": 3761173128,
+    "modrinthHash": "e4e512ae388a57d4eb383657e52707c01283d7be"
+  },
+  "zenith_attributes-0.2.10.jar": {
+    "jarName": "zenith_attributes-0.2.10.jar",
+    "modId": "zenith_attributes",
+    "name": "Zenith Attributes",
+    "version": "0.2.10",
+    "curseForgeHash": 2579336057,
+    "modrinthHash": "565b372c8d0978c4bc7e2c7b03bdd130476efa1d"
+  }
+}

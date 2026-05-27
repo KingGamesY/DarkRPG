@@ -1,0 +1,25 @@
+{
+    "name": "Rejuvenate",
+    "description": "You can heal yourself up to full health, but it comes with a cost...",
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:feed",
+                "food": -10,
+                "saturation": 0
+            },
+            {
+                "type": "origins:heal",
+                "amount": 20
+            }
+        ]
+    },
+    "cooldown": 3600,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 24
+    }
+}

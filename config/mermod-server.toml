@@ -1,0 +1,10 @@
+[Server]
+	#Swim speed multiplier
+	#Range: 1.0 ~ 10.0
+	swimSpeedMultiplier = 2.0
+	#Aqua affinity (underwater mining speed)
+	aquaAffinity = true
+	#Night vision
+	nightVision = true
+	#Water breathing
+	waterBreathing = true

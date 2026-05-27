@@ -1,0 +1,16 @@
+{
+    "name": "Diurnal",
+    "description": "You are more powerful during the day.",
+    "condition": {
+        "type": "origins:daytime"
+    },
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effects": {
+        "effect": "minecraft:strength",
+        "show_particles": false,
+        "show_icon": false
+    }
+}

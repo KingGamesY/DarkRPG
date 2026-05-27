@@ -1,0 +1,29 @@
+{
+    "name": "Soul Suck",
+    "description": "You can freeze someone in place for a short amount of time, allowing for a good 1 2 punch.",
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "execute as @p at @s anchored eyes facing entity @e[sort=nearest,limit=1] eyes anchored feet positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^-1 if entity @s[distance=..0.3] run effect give @e[sort=nearest,limit=1] slowness 5 250 true",
+                "permission_level": 4
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "execute as @p at @s anchored eyes facing entity @e[sort=nearest,limit=1] eyes anchored feet positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^-1 if entity @s[distance=..0.3] run effect give @e[sort=nearest,limit=1] blindness 5 250 true",
+                "permission_level": 4
+            }
+        ]
+    },
+    "cooldown": 2400,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+        "bar_index": 19
+    },
+    "key": {
+        "key": "key.origins.secondary_active"
+    }
+}

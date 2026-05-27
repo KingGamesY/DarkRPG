@@ -1,0 +1,113 @@
+{
+    "type": "origins:multiple",
+
+    "near_water": {
+        "type": "origins:stacking_status_effect",
+        "min_stacks": 0,
+        "max_stacks": 1,
+        "duration_per_stack": 100,
+        "effect": {
+            "effect": "minecraft:regeneration",
+            "duration": 100,
+            "amplifier": 0,
+            "is_ambient": false,
+            "show_icon": true,
+            "show_particles": false
+        },
+        "condition": {
+            "type": "origins:biome",
+            "biomes": [
+                "minecraft:river",
+                "minecraft:frozen_river",
+                "minecraft:ocean",
+                "minecraft:cold_ocean",
+                "minecraft:deep_ocean",
+                "minecraft:warm_ocean",
+                "minecraft:frozen_ocean",
+                "minecraft:deep_cold_ocean",
+                "minecraft:lukewarm_ocean",
+                "minecraft:deep_frozen_ocean",
+                "minecraft:deep_lukewarm_ocean",
+                "minecraft:swamp",
+                "minecraft:mangrove_swamp"
+            ]
+        }
+    },
+
+    "water_vision": {
+        "type": "origins:toggle_night_vision",
+        "strength": 0.5,
+        "active_by_default": false,
+        "key": {
+            "key": "key.origins.secondary_active",
+            "continuous": false
+            },
+        "condition": {
+            "type": "origins:submerged_in",
+            "fluid": "minecraft:water"
+        }
+    },
+
+    "vision_icon": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 7,
+        "hud_render": {
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_points_01.png",
+            "bar_index": 12,
+            "condition": {
+                "type": "origins:resource",
+                "comparison": ">=",
+                "compare_to": 1,
+                "resource": "*:*_vision_icon"
+            }
+        }
+    },
+
+    "vision_trigger": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "*:*_vision_icon",
+            "operation": "set",
+            "change": 1
+        },
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_water_vision"
+        },
+        "interval": 1
+    },
+
+    "vision_remove_icon": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "*:*_vision_icon",
+            "operation": "set",
+            "change": 0
+        },
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:*_water_vision",
+            "inverted": true
+        },
+        "interval": 1
+    },
+
+    "badges": [
+		{
+			"type": "origins:tooltip",
+			"sprite": "origins:textures/gui/badge/star.png",
+			"text": "§2[+] Passive Regeneration effect while in river, ocean or swamp biomes.\n[+] You can toggle underwater vision while submerged in water\n\n§6Water Vision being turned On will be signalised by Eye Icon above your hunger bar"
+		},
+        {
+            "type": "origins:keybind",
+            "sprite": "origins:textures/gui/badge/toggle.png",
+            "text": "Switch between night vision or normal one using [§2Secondary§f] while in water."
+        }
+	],
+
+    "name": "§f[§2+§f] §2Waterfowl",
+    "description": "Your species loves to be around water, so you feel refreshed in biomes overflowing with it. You can also sharpen your eyesight while underwater to spot possible food faster."
+}

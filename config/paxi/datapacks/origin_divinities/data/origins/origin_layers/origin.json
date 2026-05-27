@@ -1,0 +1,9 @@
+{
+    "origins": [
+        "angelic:angelic",
+        "demonic:demonic",
+        "purger:purger"
+    ],
+    "enabled": true,
+    "replace": false
+}

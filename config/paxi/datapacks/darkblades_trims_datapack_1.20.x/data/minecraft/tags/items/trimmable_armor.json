@@ -1,0 +1,9 @@
+{
+"replace": false,
+  "values": [
+    "darkblades:dark_netherite_armor_helmet",
+	"darkblades:dark_netherite_armor_chestplate",
+	"darkblades:dark_netherite_armor_leggings",
+	"darkblades:dark_netherite_armor_boots"
+	]
+}

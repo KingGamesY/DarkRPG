@@ -1,0 +1,103 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	default_quest_size: 2.0d
+	filename: "auctions"
+	group: "60505EDC54C4319F"
+	icon: {
+		Count: 1
+		id: "basicweapons:golden_hammer"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "2121B8BF3E1C12A0"
+	images: [{
+		height: 1.0d
+		image: "minecraft:item/auction-house"
+		rotation: 0.0d
+		width: 8.984126984126984d
+		x: -3.0d
+		y: -5.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7EF96F079CAA9709"]
+			description: [
+				"The economy works on diamonds"
+				"(1 diamond = $1)"
+				"&4/diamonds&r is the main command you will use for this"
+				"&4/diamonds deposit/withdraw <amount>&r will add or take from your balance and give you the diamonds back, or take diamonds from your inventory and add them to your balance"
+				"to see your balance do &4/diamonds balance&r"
+				""
+				"To spend your diamonds you can go to the auction house"
+			]
+			id: "077E4C674A6E3617"
+			tasks: [{
+				id: "204B6E04B91C71E1"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			title: "I'm Rich!!"
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7EF96F079CAA9709"]
+			description: [
+				"The Auction house allows you to sell your items to other players, and also buy items from other players"
+				""
+				"To open the auction house do &4/auc&r"
+				""
+				"To sell an item on the auction house do &4/auc <price>&r"
+				"(price is how many $ you want to sell your items for to other players)"
+			]
+			icon: "handcrafted:oak_side_table"
+			id: "380954766C69BE57"
+			tasks: [{
+				id: "6665917B887FBC26"
+				type: "checkmark"
+			}]
+			title: "Auction House"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7EF96F079CAA9709"]
+			description: ["You can also use vending machines to sell any item locally for any currency."]
+			id: "4CC7D1942875EBB2"
+			rewards: [{
+				count: 3
+				id: "60C4EDD834E138B1"
+				item: "goldenberry:golden_berries"
+				type: "item"
+			}]
+			tasks: [{
+				id: "094CE3A5FCF6DFE0"
+				item: "toms_trading_network:vending_machine"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"These will explain how the currency system, auction house and player shops work in DarkRPG."
+				""
+				"Also check out the casino tab to see how to win big prizes!"
+			]
+			icon: "aquamirae:treasure_pouch"
+			id: "7EF96F079CAA9709"
+			tasks: [{
+				id: "50309DCF0D8DEDCF"
+				title: "Big Spender"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+	]
+	title: "Auctions"
+}

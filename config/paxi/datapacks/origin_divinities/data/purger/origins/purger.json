@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "purger:purgery",
+        "purger:soul",
+        "purger:hungry",
+        "purger:final",
+        "purger:bound",
+        "purger:end"
+    ],
+    "icon": "minecraft:ender_eye",
+    "order": 12,
+    "impact": 3,
+    "name": "Purger",
+    "description": "The Purger Race is the oldest one on this list, having been there since the big bang. They feed off of the power of others to become the most powerful people in all the land."
+}

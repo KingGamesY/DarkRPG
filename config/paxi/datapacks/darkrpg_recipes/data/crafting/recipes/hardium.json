@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ade",
+    " b ",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "mythicupgrades:ruby_ingot"
+    },
+    "b": {
+      "item": "darkblades:dark_hammer"
+    },
+    "c": {
+      "item": "clutter:sulphur"
+    },
+	"d": {
+      "item": "anotherqualityoreset:easium_ingot"
+    },
+	"e": {
+      "item": "anotherqualityoreset:medium_ingot"
+    }
+  },
+  "result": {
+    "item": "anotherqualityoreset:hardium_ingot",
+    "count": 1
+  }
+}

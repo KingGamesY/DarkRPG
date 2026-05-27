@@ -1,0 +1,19 @@
+{
+	"totem_effect_active": true,
+	"wake_up_can_reset_cooldown": true,
+	"totem_cooldown": 36000,
+	"trinket_cooldown": 1200,
+	"food_restoration_form_trinket": 1,
+	"food_max_restoration": 18,
+	"health_restoration_form_totem": 20,
+	"food_restoration_form_totem": 20,
+	"saturation_restoration_form_totem": 20,
+	"client": {
+		"scale": 0.7,
+		"float_distance": 0.1,
+		"time": 40.0,
+		"front_back_offset": 0.0,
+		"vertical_offset": 0.0,
+		"left_right_offset": -0.8
+	}
+}

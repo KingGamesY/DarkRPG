@@ -1,0 +1,10 @@
+{
+    "name": "Hungry",
+    "description": "You lose much more hunger from everybody else due to your nature to feed.",
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 1,
+        "name": "Extra exhaustion from large appetite"
+    }
+}

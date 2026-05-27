@@ -1,0 +1,17 @@
+{
+	id: "78e5ed0d-3a1c-3eae-8729-1d2575cc650a"
+	type: "player"
+	player_name: "ok_98"
+	ranks: {
+		78e5ed0d-3a1c-3eae-8729-1d2575cc650a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ok_98"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

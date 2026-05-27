@@ -1,0 +1,71 @@
+{
+  "weapons": {
+    "staff_seismic": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:earth",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_tidecaller": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:water",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_arcane_dragon": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:arcane",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_zephyrwing": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:air",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_netherflame": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:fire",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "staff_everfrost": {
+      "attack_damage": 4.0,
+      "attack_speed": -3.0,
+      "attributes": [
+        {
+          "id": "spell_power:frost",
+          "value": 7.0,
+          "operation": "ADDITION"
+        }
+      ]
+    }
+  },
+  "armor_sets": {}
+}

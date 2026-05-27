@@ -1,0 +1,42 @@
+{
+    "type": "origins:multiple",
+
+    "water_walk": {
+        "type": "origins:walk_on_fluid",
+        "fluid": "minecraft:water",
+        "condition": {
+            "type": "origins:and",
+            "conditions": [ 
+                {
+                    "type": "origins:fluid_height",
+                    "fluid": "minecraft:water",
+                    "comparison": "<=",
+                    "compare_to": 0.4
+                },
+                {
+                    "type": "origins:sneaking",
+                    "inverted": true
+                }
+            ]
+        }
+    },
+
+    "swim": {
+        "type": "origins:modify_swim_speed",
+        "modifier": {
+            "operation": "addition",
+            "value": 0.015
+        }
+    },
+
+    "badges": [
+		{
+			"type": "origins:tooltip",
+			"sprite": "origins:textures/gui/badge/star.png",
+			"text": "§2[+] You can walk on water §f(shift while on water to dive)\n§2[+] Your swim speed is faster\n§c[-] You still need air while underwater"
+		}
+	],
+
+    "name": "§f[§2+§f] §2Waterproof Feathers",
+    "description": "Your fins and waterproof feathers not only allow you to move on the surface of the water, but also increase your speed underwater. Remember, however, that you still need air!"
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Final Hope",
+    "description": "You get a surge of power when you are at low health.",
+    "condition": {
+        "type": "origins:health",
+        "comparison": "<=",
+        "compare_to": 6
+    },
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 10,
+    "effects": [
+        {
+            "effect": "minecraft:strength",
+            "duration": 100,
+            "amplifier": 0,
+            "is_ambient": false,
+            "show_particles": false,
+            "show_icon": false
+        },
+        {
+            "effect": "minecraft:resistance",
+            "duration": 100,
+            "amplifier": 0,
+            "is_ambient": false,
+            "show_particles": false,
+            "show_icon": false
+        }
+    ]
+}

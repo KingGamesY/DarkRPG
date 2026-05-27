@@ -1,0 +1,8 @@
+{
+  "toggle_cooldown": 30.0,
+  "combat_flag_duration": 60.0,
+  "broadcast_to_other_ops": false,
+  "punish_combat_log": true,
+  "protect_tameables": true,
+  "force_pvp_in_other_dimensions": false
+}

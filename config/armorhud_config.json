@@ -1,0 +1,15 @@
+{
+  "relX": 0.0,
+  "relY": 0.43759398496240604,
+  "showMainHand": true,
+  "showOffHand": true,
+  "durabilityDisplayMode": "PERCENTAGE",
+  "showItemCount": true,
+  "scale": 0.60366213,
+  "backgroundEnabled": false,
+  "backgroundOpacity": 0.0,
+  "backgroundColorRed": 0,
+  "backgroundColorGreen": 0,
+  "backgroundColorBlue": 0,
+  "backgroundColorAlpha": 128
+}

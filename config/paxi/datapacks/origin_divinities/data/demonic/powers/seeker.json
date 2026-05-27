@@ -1,0 +1,56 @@
+{
+    "name": "Shadow Seeker",
+    "description": "You can seep through the shadows, like a phantom.",
+    "type": "origins:multiple",
+    "phase": {
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:toggle"
+        },
+        "type": "origins:phasing",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "origins:unphasable"
+        },
+        "blacklist": true,
+        "render_type": "blindness",
+        "view_distance": 10,
+        "phase_down_condition": {
+            "type": "origins:and",
+            "conditions": [
+                {
+                    "type": "origins:sneaking"
+                },
+                {
+                    "type": "origins:on_block"
+                }
+            ]
+        }
+    },
+    "shadowform": {
+        "condition": {
+            "type": "origins:power_active",
+            "power": "*:toggle"
+        },
+        "type": "origins:stacking_status_effect",
+        "min_stacks": 0,
+        "max_stacks": 2,
+        "duration_per_stack": 9,
+        "effects": [
+            {
+                "effect": "minecraft:slowness",
+                "amplifier": 0,
+                "ambient": true,
+                "show_particles": false,
+                "show_icon": false
+            },
+            {
+                "effect": "minecraft:weakness",
+                "amplifier": 0,
+                "ambient": true,
+                "show_particles": false,
+                "show_icon": false
+            }
+        ]
+    }
+}

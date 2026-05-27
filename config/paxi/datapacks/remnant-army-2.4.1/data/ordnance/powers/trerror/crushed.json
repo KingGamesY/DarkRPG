@@ -1,0 +1,87 @@
+{
+	"type": "origins:multiple",
+	"callback":
+	{
+		"type": "origins:action_on_callback",
+		"entity_action_gained": {
+			"type": "origins:and",
+			"actions": [
+				{
+					"type": "origins:execute_command",
+					"command": "scale delay set 0 @s"
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "scale divide pehkui:height 10 @s"
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "scale persist set true @s"
+				},
+				{
+					"type": "origins:and",
+					"actions":[
+						{
+							"type": "origins:damage",
+							"amount": 5,
+							"source": {
+								"name": "anvil",
+								"bypasses_armor": true,
+								"unblockable": true
+							}
+						}
+					]
+				}
+			]
+		},
+		"entity_action_lost":{
+			"type": "origins:and",
+			"actions": [
+				{
+					"type": "origins:execute_command",
+					"command": "scale delay reset 0 @s"
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "scale multiply pehkui:height 10 @s"
+				}
+			]
+		}
+	},
+	"no_jumping":
+	{
+		"type": "origins:modify_jump",
+		"modifier": {
+			"operation": "multiply_total",
+			"value": -1
+		}
+	},
+	"remove": 
+	{
+		"type": "origins:resource",
+		"min": 0,
+		"max": 5,
+		"start_value": 5,
+		"hud_render": {
+			"should_render": false
+		},
+		"min_action":{
+			"type": "origins:delay",
+			"ticks": 10,
+				"action":{
+				"type": "origins:execute_command",
+				"command": "power revoke @s ordnance:trerror/crushed trerror"
+			}
+		}
+	},
+	"timer": 
+	{
+		"type": "origins:action_over_time",
+		"interval": 20,
+		"entity_action":{
+			"type": "origins:change_resource",
+			"resource": "*:*_remove",
+			"change": -1
+		}
+	}
+}

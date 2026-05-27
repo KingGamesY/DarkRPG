@@ -1,0 +1,13 @@
+{
+    "name": "Glowing",
+    "description": "Due to your heavenly origins, you glow.",
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 20,
+    "effects": {
+        "effect": "minecraft:glowing",
+        "show_particles": false,
+        "show_icon": false
+    }
+}

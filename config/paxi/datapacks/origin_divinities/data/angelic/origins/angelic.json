@@ -1,0 +1,17 @@
+{
+    "name": "Angelic",
+    "description": "The Angelics have heard that the Demonics were coming, and have come to this mortal plane to protect it from the devious demons with their healing abilities and shocking strengths.",
+    "powers": [
+        "angelic:rejuvenate",
+        "angelic:support",
+        "angelic:thunderbolt",
+        "angelic:diurnal",
+        "angelic:pyrophobia",
+        "angelic:nether",
+        "origins:slow_falling",
+        "angelic:glowing"
+    ],
+	"icon": "minecraft:cyan_dye",
+    "order": 10,
+    "impact": 3
+}

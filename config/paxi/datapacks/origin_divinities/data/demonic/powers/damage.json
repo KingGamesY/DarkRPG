@@ -1,0 +1,28 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:or",
+        "conditions": [
+            {
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:water"
+            },
+            {
+                "type": "origins:fluid_height",
+                "fluid": "minecraft:water",
+                "comparison": ">",
+                "compare_to": 0
+            }
+        ]
+    },
+    "type": "origins:action_on_land",
+    "entity_action": {
+        "type": "origins:damage",
+        "amount": 4,
+        "source": {
+            "name": "onFire",
+            "bypasses_armor": false,
+            "fire": true
+        }
+    }
+}

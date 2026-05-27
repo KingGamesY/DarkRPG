@@ -1,0 +1,547 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "origins"
+	group: "50B8F4219D9C0508"
+	icon: "origins:orb_of_origin"
+	id: "26BFC30FD3888337"
+	images: [{
+		height: 1.0d
+		image: "minecraft:item/origins"
+		rotation: 0.0d
+		width: 4.886075949367089d
+		x: 0.0d
+		y: -7.0d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Choose an &eOrigin&r and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay."
+				""
+				"Use an &6Orb of Origin&r to change your origin. Here's some on the house.  Use EMI to view recipes on crafting the Orb of Origin."
+				""
+				"&aNote: Some origins may be disabled on the official servers.&r"
+				""
+				"&cNote: Creating a singleplayer world and choosing an origin can fix your server related origin issues.&r"
+				""
+				"[\"\",{\"text\":\"Click Here for info on the original Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/origins\"}}]"
+			]
+			icon: "origins:orb_of_origin"
+			id: "1DEDAC7EF7F5C79B"
+			rewards: [{
+				count: 3
+				id: "007F13A502968AA0"
+				item: "origins:orb_of_origin"
+				type: "item"
+			}]
+			size: 1.3d
+			tasks: [{
+				id: "2DA5BAB00F71F5EF"
+				title: "Introduction to Origins"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.8500000000000005d
+		}
+		{
+			dependencies: ["1DEDAC7EF7F5C79B"]
+			description: [
+				"In addition to choosing an origin, you now also choose a class. &dClasses&r provide smaller benefits than origins, but they come without drawbacks."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Classes\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/origins-classes\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "simplyswords:iron_chakram"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4800A8127F884CC2"
+			tasks: [{
+				id: "42D8CA80E2877645"
+				title: "Classes"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1DEDAC7EF7F5C79B"]
+			description: [
+				"When you first join the game, you are taken to the &bAspects&r selection screen. Each Aspect has its respective upsides and downsides. Your choice of Aspect determines your options for the second choice layer, the Types."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Aspects\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/aspects-origins-addon\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "mcda:wolf_armor_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "2F2573C3755910DD"
+			tasks: [{
+				id: "17321FA996D93E90"
+				title: "Aspects"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			description: [
+				"When holding the &6Umbrella&r, Enderians and origins hurt by rain become immune to rain and Phatoms become immune to sunlight.  "
+				""
+				"Umbrellas loose durability when held up in rain and stop working once they hit 1 durability. the umbrellas will slowly dry out when not in use and will dry out faster when your in the desert / nether. "
+				""
+				"Umbrellas are also dyeable like leather armor so  you can have an umbrella with whatever color you please!"
+				""
+				"Use EMI to view umbrella recipes."
+			]
+			icon: "consularsorigins:brown_umbrella"
+			id: "56B703F81189CC04"
+			rewards: [{
+				id: "00777A3E8EE85945"
+				item: "consularsorigins:brown_umbrella"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7AACA71C76CA9ED7"
+				title: "Umbrella"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"Place a &eWater Bucket&r in your &aoffhand&r slot and use the command &9/trigger breathe&r to gain Water Breathing, Night Vision and Fast Swimming status effects"
+				""
+				"The status effects last for 5mins and can be activated again."
+				""
+				"Water based Origins like Merling will benefit from this mod - You can now walk on land without getting damaged. After the timer runs out, simply go back into water and repeat the process."
+			]
+			icon: "aquamirae:spinefish"
+			id: "5DD08B3C9C684A67"
+			tasks: [{
+				id: "290E12AC78DE0FB0"
+				title: "DarkTides"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"Adds few more origins to the origins mod."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Extra Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/extra-origins\"}}]"
+			]
+			icon: "chipped:button_red_mushroom"
+			id: "5357FAECC9C7CEB4"
+			tasks: [{
+				id: "25573AE53E799200"
+				title: "Extra Origins"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Medieval Origins Revival is an addon for the Origins mod, adding medieval, fantasy, and mythology inspired origins."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Medieval Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/medieval-origins-revival\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "soulsweapons:dark_moon_greatsword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "44D25BB8AACA9683"
+			tasks: [{
+				id: "0EFDEF5629D2AB80"
+				title: "Medieval Origins"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"This collection contains 4 Chidori Origins: "
+				"- &9Air&r Chidori"
+				"- &2Land&r Chidori"
+				"- &bAqua&r Chidori"
+				"- &cDark&r Chidori."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Chidori Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/chidori-origins-collection\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "icarus:blue_feathered_wings"
+				tag: { }
+			}
+			id: "00889CE252B2EEC9"
+			tasks: [{
+				id: "3EC97D2C53BEFC23"
+				title: "Chidori Origins"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"When the cave collapsed, a magpie was tapped inside. Now the greedy bird has been infected by sculk spores, turning it into a creature with the desire to spread more spores and find lost treasures."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Sculked Magpie Origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/sculked-magpie-origin\"}}]"
+			]
+			icon: "minecraft:sculk_sensor"
+			id: "7BD997F008B48D9B"
+			tasks: [{
+				id: "076928E9EB2EC376"
+				title: "Sculked Magpie Origin"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"A spirit tied to a suit of armor, determined to protect others and get back what was lost!"
+				""
+				"[\"\",{\"text\":\"Click Here for info on Spellbound Aegis Origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/spellbound-aegis-origin\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:netherite_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7A2D0E0215D5E20B"
+			rewards: [{
+				id: "666D62102DCEEB49"
+				item: {
+					Count: 1
+					id: "minecraft:leather_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B77DB5CDEB73664"
+				title: "Spellbound Aegis Origin"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This adds interesting origins and classes."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Apocalypse Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/apocalypse-origins\"}}]"
+			]
+			icon: "apocalypse_origins:syringe_end"
+			id: "3C15AAB745E5B9E9"
+			tasks: [{
+				id: "6D2A0DC6F41BFC46"
+				title: "Apocalypse Origins"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"Adds a kitsune origin so you can play with your friends. This is based off the Kitsune Spirit allowing you to have some magical abilities to use."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Kitsune Origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/kitsune-origin\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "plushables:cap_fox"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1A3265099C9BE7C7"
+			tasks: [{
+				id: "71BF451F938E86F3"
+				title: "Kitsune Origin"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"A very tiny origin based on paper. Lost in the vast lands, you are trying to put the pieces of paper together to find your true origin."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Tiny Paper Origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/tiny-paper-origin\"}}]"
+			]
+			icon: "minecraft:paper"
+			id: "562A261D108E8B4C"
+			tasks: [{
+				id: "6B0B72E67ADF76AA"
+				title: "Tiny Paper Origin"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"The objective here is to port the experience of playing as the Knight from the hit indie game Hollow Knight to Origins with slightly better results than it’s been done before and in a somewhat game-accurate manner, trying to preserve as many mechanics as possible as they are in the original game."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Hollow Knight Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/hollow-knight-an-origins-addon\"}}]"
+			]
+			icon: "juknight_origins:mask"
+			id: "7534BD9BD729E822"
+			tasks: [{
+				id: "2705E299576524E6"
+				title: "Hollow Knight Origins"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This origins addon adds 8 new origins into the game, these consist of the Goblin, Rat, Fire Born, Desperate, Underling, Riptider, Night Dancer and Obsidian Golem."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Acclaimed Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/acclaimed-origins\"}}]"
+			]
+			icon: "plushables:goblin_plushable"
+			id: "375ACD96076541FA"
+			tasks: [{
+				id: "70171BDD2E332B3F"
+				title: "Acclaimed Origins"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Remnant Army is a datapack that has a variety of semi-complex origins within (all of them are impact 3, though you could argue some are impact 2)."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Remnant Army Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/data-packs/an-origins-datapack-remnant-army\"}}]"
+			]
+			icon: "immersive_aircraft:industrial_gears"
+			id: "00F6E1E48CD925E1"
+			tasks: [{
+				id: "79B4C975F1CB1AA8"
+				title: "Remnant Army Origins"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"This modpack contains some mystery origins which you will have to discover by playing them.."
+				""
+				"These inlclude:"
+				"- &3Dolphling&r Origin"
+				"- &5Warden Hunter&r Origin"
+				"- &9Wooly&r Origin"
+				"- &6Bumblebee&r Origin"
+			]
+			icon: "wardentools:warden_soul"
+			id: "52A5DDACC7F4FEFD"
+			tasks: [{
+				id: "6755427212490A31"
+				title: "Mystery Origins"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Dwarf Origin based on the Dark Iron Dwarf from World of Warcraft."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Dark Iron Dwarf Origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/dark-iron-dwarf-origin\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "darkblades:dark_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "45FE8773DE604065"
+			tasks: [{
+				id: "182EE184D75E11E0"
+				title: "Dark Iron Dwarf Origin"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1DEDAC7EF7F5C79B"]
+			description: ["Use &bWater Protection&r enchants to protect yourself from water damage."]
+			icon: "throwablefluids:throwable_water"
+			id: "481FED29A71408FE"
+			rewards: [{
+				id: "7AC7FE9A5D220D31"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "origins:water_protection"
+							lvl: 1s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C8353CF59BA28EF"
+				title: "Water Protection"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			description: [
+				"Have you ever wondered, how it would feel like to be a duck?"
+				""
+				"[\"\",{\"text\":\"Quack\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/data-packs/duck-origin\"}}]"
+			]
+			icon: "darkfeather:golden_feather"
+			id: "3C6C7BC166B6E7A5"
+			tasks: [{
+				id: "794873B8A11D8D33"
+				title: "Duck Origin"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Divinities Origins is an addon for the Origins mod, that adds 3 new origins inspired in different divine beings."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Divinities Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/divinities-origins\"}}]"
+			]
+			icon: "minecraft:fire_charge"
+			id: "70EB0DCA34E070C0"
+			tasks: [{
+				id: "24709895F136E181"
+				title: "Divinities Origins"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"10 origins inspired by the popular indie game, Terraria!"
+				""
+				"[\"\",{\"text\":\"Click Here for info on Terrarian Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/terraria-origins\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "extensivediamonds:green_diamond_sword"
+				tag: {
+					Damage: 0
+					reinforce_level: 0
+					reinforce_max: 10
+				}
+			}
+			id: "20B9D01E027D4D3E"
+			tasks: [{
+				id: "7232B7DADD42245E"
+				type: "checkmark"
+			}]
+			title: "Terrarian Origins"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Adds a Megalodon Origin for the Origins Mod, and a reworked version of the Land Shark Origin from Origins ++"
+				""
+				"[\"\",{\"text\":\"Click Here for info on Megalodon Origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/megalodon-origin\"}}]"
+			]
+			icon: "plushables:goldfish_plushable"
+			id: "24979261AB1937F7"
+			tasks: [{
+				id: "202078A4E36961BB"
+				type: "checkmark"
+			}]
+			title: "Megalodon Origin"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Adds to the original origins list the Golem origin, a big and slow one."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Only the golem origin\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/only-the-golem-origin\"}}]"
+			]
+			icon: "minecraft:iron_ingot"
+			id: "0A730CD466E6007B"
+			tasks: [{
+				id: "09767695569D9FDA"
+				title: "Iron Golem Origin"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This mod adds 3 new fungus themed origins for the Origins mod: shroomling, mushling, and snail."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Mushroom Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/mushroom-origins\"}}]"
+			]
+			icon: {
+				Count: 1
+				id: "plushables:cap_mushroom"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "64EA7E786DD2E8C3"
+			tasks: [{
+				id: "0368610CCFB0524B"
+				title: "Mushroom Origins"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Adds several new origins to the Origins mod."
+				""
+				"[\"\",{\"text\":\"Click Here for info on Consular's Origins\",\"color\":\"blue\",\"bold\":true,\"underlined\":false,\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.curseforge.com/minecraft/mc-mods/consulars-origins\"}}]"
+			]
+			icon: "consularsorigins:coffin"
+			id: "581B18B58DE678F4"
+			tasks: [{
+				id: "717730C6B09F6729"
+				type: "checkmark"
+			}]
+			title: "Consular's Origins"
+			x: 0.0d
+			y: -1.5d
+		}
+	]
+	title: "Origins"
+}

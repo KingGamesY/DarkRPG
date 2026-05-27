@@ -1,0 +1,141 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "heart"
+	filename: "casino"
+	group: "60505EDC54C4319F"
+	icon: "plushables:powered_heart"
+	id: "13F19D620EE0805D"
+	images: [{
+		height: 1.0d
+		image: "minecraft:item/casino"
+		rotation: 0.0d
+		width: 4.506329113924051d
+		x: 0.5d
+		y: -1.5d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Stand on a &bDiamond Block&r, equip &bDiamonds&r in &6main hand slot&r and begin to alternate it from main hand to offhand (press F).  The cost is &a5 diamonds&r. Each spin will give you prizes. Some spins may not be so lucky and reward basic prizes so keep trying. Good Luck! "]
+			icon: "chipped:creeper_amethyst_block_carving"
+			id: "2B593D2E674E944E"
+			size: 2.0d
+			tasks: [{
+				id: "3CDE7EC3511AF323"
+				title: "Creeper Casino"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			description: ["Stand on a &bDiamond Block&r, equip a &bDiamond Sword&r in main hand slot and begin to alternate it from main hand to offhand (press F).  The cost is &d3 XP Levels&r. Each 3 XP Level will spin the XP Wheel and give you a rare prize. Some spins may not be so lucky and reward basic prizes while some may give you enchanting bottles which you can use to get more XP back. The more you spin the more you win!"]
+			icon: "expores:nether_experience_ore"
+			id: "4EA8492FE55FE94D"
+			size: 2.0d
+			tasks: [{
+				id: "75E701566E491400"
+				title: "XP Casino"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EA8492FE55FE94D"]
+			description: [
+				"You can win any of the following:-"
+				""
+				"- &9Experience Bottle&r x20"
+				"- &9Stick&r x12"
+				"- &9Coal&r x5"
+				"- &9Golden Carrot&r x1"
+				"- &9Skeleton Skull&r x1"
+				"- &9Gold Nugget&r x15"
+				"- &9White Glazed Terracotta&r x5"
+				"- &9Nether Star&r x1"
+				"- &9Diamond Pickaxe&r x1"
+				"- &9Ancient Debris&r x1"
+				"- &9Iron Ore&r x5"
+				"- &9Crying Obsidian&r x4"
+				"- &9Ender Pearl&r x4"
+				"- &9Redstone&r x5"
+				"- &9Echo Shard&r x2"
+				"- &9Pink Shulker Box&r x1"
+				"- &9Elytra&r x1"
+				"- &9Firework Rocket&r x45"
+				"- &9Nautilus Shell&r x3"
+				"- &9Chiseled Stone Bricks&r x5"
+				"- &9Glowstone Dust&r x9"
+				"- &9Gilded Blackstone&r x2 "
+			]
+			icon: "amethyst_imbuement:xp_bush_seed"
+			id: "0C2FDFEABB612D80"
+			shape: "circle"
+			tasks: [{
+				id: "2099C6C820DD4365"
+				title: "XP Casino Rewards"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2B593D2E674E944E"]
+			description: [
+				"You can win any of the following:-"
+				""
+				"- &6Rotten Flesh&r x45"
+				"- &6Totem of Undying&r x2"
+				"- &6End Crystal&r x1"
+				"- &6Elytra&r x1"
+				"- &6Sponge&r x10"
+				"- &6Nether Star&r x1"
+				"- &6Netherite Sword&r x1"
+				"- &6Netherite Pickaxe&r x1"
+				"- &6Netherite Ingots&r x6"
+				"- &6Gold Ingots&r x25"
+				"- &6Iron Ingots&r x45"
+				"- &6Diamond Ores&r x5"
+				"- &6Lapis Lazuli&r x5"
+				"- &6Enchanted Golden Apples&r x10"
+				"- &6Heart of the Sea&r x1"
+				"- &6Firework Rockets&r x45"
+				"- &6Gray Shulker Boxes&r x3"
+				"- &6Stone&r x1"
+			]
+			icon: "chipped:creeper_lime_concrete"
+			id: "2044E8478648D548"
+			shape: "circle"
+			tasks: [{
+				id: "066F73BF1233720F"
+				title: "Creeper Casino Rewards"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2044E8478648D548"]
+			description: ["Stand on a &eCrafting Table&r and convert &c9 Rotten Flesh&r into &b1 Diamond&r by switching rotten flesh from main hand to offhand (Press F)"]
+			icon: "batsgalore:zombie_flesh_lollipop"
+			id: "3C087ED730E43311"
+			rewards: [{
+				id: "6C57E30AFB2D3829"
+				item: "batsgalore:zombie_flesh_lollipop"
+				type: "item"
+			}]
+			shape: "circle"
+			subtitle: "Just when I thought I was out, they pull me back in!"
+			tasks: [{
+				id: "62903B7809EBB02F"
+				title: "Rotten Flesh Convert"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+	]
+	title: "Casino"
+}
