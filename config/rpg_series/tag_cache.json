@@ -176,14 +176,6 @@
       "forcemaster_rpg:aken_head",
       "forcemaster_rpg:aken_legs",
       "forcemaster_rpg:aken_chest",
-      "paladins:netherite_crusader_armor_head",
-      "paladins:netherite_crusader_armor_chest",
-      "paladins:netherite_crusader_armor_legs",
-      "paladins:netherite_crusader_armor_feet",
-      "paladins:netherite_prior_robe_head",
-      "paladins:netherite_prior_robe_chest",
-      "paladins:netherite_prior_robe_legs",
-      "paladins:netherite_prior_robe_feet",
       "rogues:netherite_assassin_armor_head",
       "rogues:netherite_assassin_armor_chest",
       "rogues:netherite_assassin_armor_legs",
@@ -214,8 +206,7 @@
       "additional_rpg_jewelry:cactea_ring",
       "additional_rpg_jewelry:dripstone_necklace",
       "jewelry:emerald_necklace",
-      "jewelry:diamond_necklace",
-      "paladins:iron_kite_shield"
+      "jewelry:diamond_necklace"
     ],
     "rpg_series:tier_3_weapons": [
       "archers:netherite_shortbow",
@@ -269,8 +260,7 @@
       "jewelry:citrine_necklace",
       "jewelry:jade_necklace",
       "jewelry:sapphire_necklace",
-      "jewelry:tanzanite_necklace",
-      "paladins:diamond_kite_shield"
+      "jewelry:tanzanite_necklace"
     ],
     "rpg_series:tier_3_accessories": [
       "additional_rpg_jewelry:netherite_earth_ring",
@@ -294,8 +284,7 @@
       "jewelry:netherite_citrine_necklace",
       "jewelry:netherite_jade_necklace",
       "jewelry:netherite_sapphire_necklace",
-      "jewelry:netherite_tanzanite_necklace",
-      "paladins:netherite_kite_shield"
+      "jewelry:netherite_tanzanite_necklace"
     ],
     "rpg_series:tier_1_weapons": [
       "minecraft:crossbow",
@@ -330,7 +319,6 @@
       "paladins:golden_claymore",
       "paladins:golden_great_hammer",
       "paladins:golden_mace",
-      "paladins:golden_kite_shield",
       "rogues:golden_dagger",
       "rogues:golden_sickle",
       "rogues:golden_double_axe",
