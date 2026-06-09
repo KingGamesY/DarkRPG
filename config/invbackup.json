@@ -1,0 +1,6 @@
+{
+  "backupOnDeath": true,
+  "backupOnJoin": true,
+  "backupIntervalTicks": 24000,
+  "maxBackupsPerPlayer": 50
+}

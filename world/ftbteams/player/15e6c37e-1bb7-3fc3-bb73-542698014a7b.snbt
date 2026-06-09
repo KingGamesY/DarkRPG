@@ -1,0 +1,17 @@
+{
+	id: "15e6c37e-1bb7-3fc3-bb73-542698014a7b"
+	type: "player"
+	player_name: "Red_KingTY"
+	ranks: {
+		15e6c37e-1bb7-3fc3-bb73-542698014a7b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Red_KingTY"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF597E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

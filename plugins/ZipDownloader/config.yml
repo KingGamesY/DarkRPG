@@ -1,0 +1,14 @@
+# ZipDownloader Configuration
+# ============================
+
+# Language: en (English), tr (Turkish)
+language: en
+
+# Auto-extract ZIP files after download (true/false)
+auto-extract: true
+
+# Maximum file size in MB (0 = unlimited)
+max-file-size-mb: 500
+
+# Connection timeout in seconds
+timeout-seconds: 30

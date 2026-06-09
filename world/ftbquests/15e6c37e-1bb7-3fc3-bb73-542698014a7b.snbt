@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "15e6c37e1bb73fc3bb73542698014a7b"
+	name: "Red_KingTY#15e6c37e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6439D06289F92868: 1L
+	}
+	started: {
+		6439D06289F92868: 1780025900484L
+		5CB4AE8F885FA977: 1780025900484L
+		0000000000000001: 1780025900484L
+		310F3936A474471A: 1780025900484L
+	}
+	completed: {
+		6439D06289F92868: 1780025900484L
+		5CB4AE8F885FA977: 1780025900484L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
